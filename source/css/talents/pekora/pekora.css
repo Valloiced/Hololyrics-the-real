@@ -1,0 +1,80 @@
+body{
+    background: url(../../../../assets/Individuals/pekora/bg\ pekor.jpg);
+    background-size: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode: overlay;
+}
+
+#banner {
+    border: 1px solid rgb(102, 214, 252);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(102, 214, 252);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(104, 217, 255);
+}
+
+#line {
+    background-color:rgb(102, 214, 252);
+}
+
+#song-content h1 {
+    color:rgb(102, 214, 252);
+}
+
+/*original*/
+#pekomiko {
+    background: url(../../../../assets/Individuals/pekora/original/pekomiko.jpg);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/pekora/original/dreaming-days.jpg);
+}
+
+#pekorandombrain {
+    background: url(../../../../assets/Individuals/pekora/original/pekorandombrain.jpg);
+}
+
+#hacha-mecha {
+    background: url(../../../../assets/Individuals/pekora/original/hacha\ mecha.jpg);
+}
+
+#pekorap {
+    background: url(../../../../assets/Individuals/pekora/original/pekorap.jpg);
+}
+
+/*cover*/
+
+#discommunication {
+    background: url(../../../../assets/Individuals/pekora/cover/discommunication\ part\ 2.jpg);
+}
+
+#discommunication:hover {
+    background: url(../../../../assets/Individuals/pekora/cover/discommunication.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/pekora/cover/ochame\ kinou.jpg);
+}
+
+#saga-jihen {
+    background: url(../../../../assets/Individuals/pekora/cover/saga\ jihen.jpg);
+}
+
+#pekomoona{
+    background: url(../../../../assets/Individuals/pekora/cover/pekomoona.jpg);
+}
+
+#cinderella {
+    background: url(../../../../assets/Individuals/pekora/cover/cinderalla.jpg);
+}
+
+#valentine-kiss {
+    background: url(../../../../assets/Individuals/pekora/cover/valentine\ kiss.jpg);
+}

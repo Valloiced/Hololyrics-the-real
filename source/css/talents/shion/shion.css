@@ -1,0 +1,112 @@
+body{
+    background: linear-gradient(180deg, rgb(97, 2, 97), rgb(190, 4, 190));
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(238, 8, 238);
+}
+
+#banner {
+    border: 3px solid rgb(190, 4, 190);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(190, 4, 190);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(97, 2, 97);
+}
+
+#line {
+    background-color:rgb(190, 4, 190);
+}
+
+#line2 {
+    background-color: rgba(97, 2, 97, 0.7);
+    box-shadow: 0.2rem 0.1rem 3px rgb(190, 4, 190);
+}
+
+#song-content h1 {
+    color:rgb(97, 2, 97);
+}
+
+/*original*/
+#mage-of-violet {
+    background: url(../../../../assets/Individuals/shion/original/mage-of-violet.jpg);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/shion/original/dreaming-days.jpg);
+}
+
+#koyoi-wa-haloween {
+    background: url(../../../../assets/Individuals/shion/original/koyoi-wa-haloween-night.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/shion/original/shiny-smily-story.jpg);
+}
+
+/*cover*/
+#adamas {
+    background: url(../../../../assets/Individuals/shion/cover/adamas.jpg);
+}
+
+#chikatto-chikka {
+    background: url(../../../../assets/Individuals/shion/cover/chikatto-chikka-chikka.jpg);
+}
+
+#crazy-night {
+    background: url(../../../../assets/Individuals/shion/cover/crazy-night.jpg);
+}
+
+#fansa {
+    background: url(../../../../assets/Individuals/shion/cover/fansa.jpg);
+}
+
+#front-memory {
+    background: url(../../../../assets/Individuals/shion/cover/front-memory.jpg);
+}
+
+#hakujitsu {
+    background: url(../../../../assets/Individuals/shion/cover/hakujitsu.jpg);
+}
+
+#humurous-dream {
+    background: url(../../../../assets/Individuals/shion/cover/humurous-dream-of-mrs-pumpkin.jpg);
+    font-size: 1.5vw;
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/shion/cover/ochame-kinou.jpg);
+}
+
+#odo {
+    background: url(../../../../assets/Individuals/shion/cover/odo.jpg);
+}
+
+#okochame {
+    background: url(../../../../assets/Individuals/shion/cover/okochame-sensou.jpg);
+}
+
+#ottome-dissection {
+    background: url(../../../../assets/Individuals/shion/cover/ottome-dissection.jpg);
+}
+
+#suki-kirai {
+    background: url(../../../../assets/Individuals/shion/cover/suki-kirai.jpg);
+}
+
+#the-vampire {
+    background: url(../../../../assets/Individuals/shion/cover/the-vampire.jpg);
+}
+
+#usseewa {
+    background: url(../../../../assets/Individuals/shion/cover/ussewwa.jpg);
+}
+
+#yoru-ni-kakeru {
+    background: url(../../../../assets/Individuals/shion/cover/yoru-ni-kakekru.jpg);
+}

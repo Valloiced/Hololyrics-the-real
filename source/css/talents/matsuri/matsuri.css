@@ -1,0 +1,230 @@
+body{
+    background: repeating-linear-gradient(90deg, black, black 1%, #f7b933 2%, #f7b933 98%, black 99%, black 100%);
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px darkorange;
+}
+
+#banner {
+    border: 2px solid orange;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px darkorange;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:orangered;
+}
+
+#line {
+    background-color:orange;
+}
+
+#line2 {
+    background-color: orange;
+    box-shadow: 0.2rem 0.1rem 5px #FED85B;
+}
+
+#song-content h1 {
+    color:orange;
+}
+
+/*original*/
+#hi-hi-tension {
+    background: url(../../../../assets/Individuals/matsuri/original/hi-hi-tension.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/matsuri/original/asuiro-clearsky.png);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/matsuri/original/dreaming\ days.jpg);
+}
+
+#gimme-gimme {
+    background: url(../../../../assets/Individuals/matsuri/original/gimme\ gimmi.jpg);
+}
+
+#adtruck {
+    background: url(../../../../assets/Individuals/matsuri/original/shijoshugi-adtruck.png);
+}
+
+#daily-diary {
+    background: url(../../../../assets/Individuals/matsuri/original/daily-diary.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/matsuri/original/shiny-smily-story.jpg);
+}
+
+#summer {
+    background: url(../../../../assets/Individuals/matsuri/original/the-summer-flower-i-gaze-upon-with-you.jpg);
+    font-size: 1.5vw;
+}
+
+#yumemiru {
+    background: url(../../../../assets/Individuals/matsuri/original/yumemiru\ sora\ e.jpg);
+}
+
+/*cover*/
+#ai-kotoba {
+    background: url(../../../../assets/Individuals/matsuri/cover/ai-kotoba-iii.jpg);
+}
+
+#boku-no-yume {
+    background: url(../../../../assets/Individuals/matsuri/cover/boku-no-yume.jpg);
+    font-size: 1.5vw;
+}
+
+#chocolate-box {
+    background: url(../../../../assets/Individuals/matsuri/cover/chocolate-box.jpg);
+}
+
+#cinderalla {
+    background: url(../../../../assets/Individuals/matsuri/cover/cinderella.jpg);
+}
+
+#compared-child {
+    background: url(../../../../assets/Individuals/matsuri/cover/compared-child.jpg);
+}
+
+#daddy {
+    background: url(../../../../assets/Individuals/matsuri/cover/daddy-daddy-do.jpg);
+}
+
+#death {
+    background: url(../../../../assets/Individuals/matsuri/cover/death-should-not-have-taken-thee!.jpg);
+    font-size: 1.5vw;
+}
+
+#fansa {
+    background: url(../../../../assets/Individuals/matsuri/cover/fansa.jpg);
+}
+
+#getsuyoubi {
+    background: url(../../../../assets/Individuals/matsuri/cover/getsuyoubi-no-yuuutsu.jpg);
+}
+
+#hakujitsu {
+    background: url(../../../../assets/Individuals/matsuri/cover/hakujitsu.png);
+}
+
+#kabutomushi {
+    background: url(../../../../assets/Individuals/matsuri/cover/kabutomushi.jpg);
+}
+
+#kaede {
+    background: url(../../../../assets/Individuals/matsuri/cover/kaede.jpg);
+}
+
+#kataomi {
+    background: url(../../../../assets/Individuals/matsuri/cover/kataomi.jpg);
+}
+
+#kimi-no-shirinai {
+    background: url(../../../../assets/Individuals/matsuri/cover/kimi-no-shirinai-monogatari.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/matsuri/cover/king.jpg);
+}
+
+#kokoronashi {
+    background: url(../../../../assets/Individuals/matsuri/cover/kokoronoshi.jpg);
+}
+
+#loser-girl {
+    background: url(../../../../assets/Individuals/matsuri/cover/loser-girl.jpg);
+}
+
+#marigold {
+    background: url(../../../../assets/Individuals/matsuri/cover/marigold.jpg);
+}
+
+#matsuri-ay-dumating-na-letzzzzzzzzz-goooooooooo {
+    background: url(../../../../assets/Individuals/matsuri/cover/matsuri-has-arrived.jpg);
+}
+
+#natsuiro-matsuri {
+    background: url(../../../../assets/Individuals/matsuri/cover/natsuiro-matsuri.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/matsuri/cover/ochame-kinou.jpg);
+}
+
+#onegai-darling {
+    background: url(../../../../assets/Individuals/matsuri/cover/onegai-darling.jpg);
+}
+
+#preserved-darling {
+    background: url(../../../../assets/Individuals/matsuri/cover/preserved-roses.jpg);
+}
+
+#sorairo-days {
+    background: url(../../../../assets/Individuals/matsuri/cover/sorairo-days.jpg);
+}
+
+#suki-yuki {
+    background: url(../../../../assets/Individuals/matsuri/cover/suki-yuki-maji-magic.jpg);
+}
+
+#summertime {
+    background: url(../../../../assets/Individuals/matsuri/cover/summertime.jpg);
+}
+
+#sweet-magic {
+    background: url(../../../../assets/Individuals/matsuri/cover/sweet-magic.jpg);
+}
+
+#taiyou-nareru {
+    background: url(../../../../assets/Individuals/matsuri/cover/taiyou-nareru-ka-na.jpg);
+}
+
+#turing-love {
+    background: url(../../../../assets/Individuals/matsuri/cover/turing-love.jpg);
+}
+
+#valentine-kiss {
+    background: url(../../../../assets/Individuals/matsuri/cover/valentine\ kiss.jpg);
+}
+
+#watashi-no-tenshi {
+    background: url(../../../../assets/Individuals/matsuri/cover/watashi-no-tenshi.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

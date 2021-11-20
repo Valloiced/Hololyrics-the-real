@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(180deg, rgb(215, 204, 210), rgb(255, 253, 255));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px rgb(134, 121, 139);
+}
+
+#banner {
+    border: 1px solid rgb(134, 121, 139);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(134, 121, 139);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(134, 121, 139);
+}
+
+#line {
+    background-color: rgb(134, 121, 139);
+}
+
+#line2 {
+    background-color: rgba(134, 121, 139, 0.507);
+    box-shadow: 0.2rem 0.1rem 5px rgb(134, 121, 139);
+}
+
+#song-content h1 {
+    color:rgb(134, 121, 139);
+}
+
+/*original*/
+#homenobi {
+    background: url(../../../../assets/Individuals/noel/original/homenobi.jpg);
+}
+
+#daily-diary {
+    background: url(../../../../assets/Individuals/noel/original/daily-diary.jpg);
+}
+
+#kirameki-rider {
+    background: url(../../../../assets/Individuals/noel/original/kirameki-rider.jpg);
+}
+
+/*cover*/
+#naisho {
+    background: url(../../../../assets/Individuals/noel/cover/naisho-no-hanashio.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/noel/cover/ochame-kinou.jpg);
+}
+
+#saga-jihen {
+    background: url(../../../../assets/Individuals/noel/cover/saga-jigen.jpg);
+}

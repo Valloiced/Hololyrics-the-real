@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(180deg, #FFB7C5, rgb(248, 201, 215));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px #d94773;
+}
+
+#banner {
+    border: 1px solid #d94773;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px #d94773;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:#d94773;
+}
+
+#song-content h1 {
+    font-size: 4vw;
+}
+
+#line {
+    background-color:#FFB7C5;
+}
+
+#line2 {
+    background-color: #FFB7C5;
+    box-shadow: 0.2rem 0.1rem 5px rgb(248, 201, 215);
+}
+
+#song-content h1 {
+    color:#d94773;
+}
+
+/*original*/
+#sakurakaze {
+    background: url(../../../../assets/Individuals/sakura/original/sakurakaze.jpg);
+}
+
+#pekomiko {
+    background: url(../../../../assets/Individuals/sakura/original/pekomiko.jpg);
+}
+
+#sakura-iro {
+    background: url(../../../../assets/Individuals/sakura/original/sakura-iro-high-tension.jpg);
+}
+
+#kagetsu {
+    background: url(../../../../assets/Individuals/sakura/original/kagetsu-no-yame.jpg);
+}
+
+#daily-diary {
+    background: url(../../../../assets/Individuals/sakura/original/daily-diary.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/sakura/original/shiny-smily-story.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/sakura/original/asuiro-clearsky.png);
+}
+
+#gimme-gimmi {
+    background: url(../../../../assets/Individuals/sakura/original/gimme\ gimmi.jpg);
+}
+
+/*cover*/
+#ai-kotoba {
+    background: url(../../../../assets/Individuals/sakura/cover/ai-kotoba-iii.jpg);
+}
+
+#mikochi {
+    background: url(../../../../assets/Individuals/sakura/cover/mikochi-has-arrived.jpg);
+}
+
+#yukitoki {
+    background: url(../../../../assets/Individuals/sakura/cover/yukitoko.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/sakura/cover/ochame-kinou.jpg);
+}
+
+#dyed-in-your-color {
+    background: url(../../../../assets/Individuals/sakura/cover/dyed-in-your-color.jpg);
+}
+
+#valentine-kiss{
+    background: url(../../../../assets/Individuals/sakura/cover/valentine\ kiss.jpg);
+}
+
+#blessing {
+    background: url(../../../../assets/Individuals/sakura/cover/blessing.jpg);
+}

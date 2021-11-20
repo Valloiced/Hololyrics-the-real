@@ -1,0 +1,90 @@
+/*The color code says that mio's color is light green. So I thought wtf is that, f*ck that
+I will  make her what I want. Wolf*/
+
+body{
+    background: linear-gradient(180deg, snow, rgb(202, 200, 200));
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(202, 200, 200);
+}
+
+#banner {
+    border: 3px solid rgb(202, 200, 200);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px snow;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(102, 102, 102);
+}
+
+#line {
+    background-color:rgb(102, 102, 102);
+}
+
+#line2 {
+    background-color:rgb(102, 102, 102);
+    box-shadow: 0.2rem 0.1rem 5px rgb(202, 200, 200);
+}
+
+#song-content h1 {
+    color: rgb(202, 200, 200);
+}
+
+/*original*/
+#howling {
+    background: url(../../../../assets/Individuals/mio/original/Howling.png);
+}
+
+#sashimio {
+    background: url(../../../../assets/Individuals/mio/original/sashimio.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/mio/original/asuiro-clearsky.png);
+}
+
+#hyakka {
+    background: url(../../../../assets/Individuals/mio/original/hyakka-ryuki-hanafubuki.jpg);
+}
+
+#adtruck {
+    background: url(../../../../assets/Individuals/mio/original/shijoshugi-adtruck.png);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/mio/original/shiny-smily-story.jpg);
+}
+
+/*cover*/
+#dyed-in-your-color {
+    background: url(../../../../assets/Individuals/mio/cover/dyed-in-your-color.jpg);
+}
+
+#jingle-bells {
+    background: url(../../../../assets/Individuals/mio/cover/jingel-bells.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/mio/cover/monster.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/mio/cover/ochame\ kinou.jpg);
+}
+
+#otona-no-ikite {
+    background: url(../../../../assets/Individuals/mio/cover/otona-no-ikite.jpg);
+}
+
+#sparkle {
+    background: url(../../../../assets/Individuals/mio/cover/sparkle.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/mio/cover/umapyoi-densetsu.png);
+}

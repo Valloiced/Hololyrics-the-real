@@ -1,0 +1,158 @@
+body{
+    background: linear-gradient(180deg, rgb(124, 13, 13), red, rgb(241, 112, 112));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 10px rgb(241, 159, 159);
+}
+
+#banner {
+    border: 2px solid rgb(241, 112, 112);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(241, 112, 112);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(241, 112, 112);
+}
+
+#line {
+    background-color:rgb(245, 82, 82);
+}
+
+#song-content h1 {
+    color:rgb(145, 8, 8);
+}
+
+#line2 {
+    background-color: rgba(241, 112, 112, 0.4);
+    box-shadow: 0.2rem 0.1rem 5px rgba(241, 112, 112, 0.4);
+}
+
+
+/*original*/
+#pastel-team {
+    background:url(../../../../assets/Individuals/polka/original/pastel-team-time.jpg);
+}
+
+#envy-baby {
+    background:url(../../../../assets/Individuals/polka/original/envy-baby.jpg);
+}
+
+#ever-blue {
+    background:url(../../../../assets/Individuals/polka/original/ever-blue.jpg);
+}
+
+#blue-clapper {
+    background:url(../../../../assets/Individuals/polka/original/blue-clapper.jpg);
+}
+
+#hologram {
+    background:url(../../../../assets/Individuals/polka/original/hologram-circus.jpg);
+}
+
+#po {
+    background:url(../../../../assets/Individuals/polka/original/Po.jpg);
+}
+
+#surprise-paradise {
+    background:url(../../../../assets/Individuals/polka/original/surprise-paradise.png);
+}
+
+/*cover*/
+#bakishou {
+    background:url(../../../../assets/Individuals/polka/cover/bakishou.jpg);
+}
+
+#blessing {
+    background:url(../../../../assets/Individuals/polka/cover/blessing.jpg);
+}
+
+#cinderella {
+    background:url(../../../../assets/Individuals/polka/cover/cinderalla.jpg);
+}
+
+#fly-me {
+    background:url(../../../../assets/Individuals/polka/cover/fly-me-to-the-star.jpg);
+}
+
+#hokori {
+    background:url(../../../../assets/Individuals/polka/cover/hokori-takaki-idol.jpg);
+}
+
+#instant-heaven {
+    background:url(../../../../assets/Individuals/polka/cover/instant-heaven.jpg);
+}
+
+#jealousies {
+    background:url(../../../../assets/Individuals/polka/cover/jealousies.jpg);
+}
+
+#kaibutsu-san {
+    background: url(../../../../assets/Individuals/polka/cover/kaibutsu-san.jpg);
+}
+
+#kaikai-kitan {
+    background:url(../../../../assets/Individuals/polka/cover/kaikai-kitan.jpg);
+}
+
+#loser-girl {
+    background:url(../../../../assets/Individuals/polka/cover/loser-girl.jpg);
+}
+
+#menhera {
+    background:url(../../../../assets/Individuals/polka/cover/menhera-janai-mon.jpg);
+}
+
+#mr-music {
+    background:url(../../../../assets/Individuals/polka/cover/mr.music.jpg);
+}
+
+#phony {
+    background:url(../../../../assets/Individuals/polka/cover/phony.jpg);
+}
+
+#sakura-skip {
+    background:url(../../../../assets/Individuals/polka/cover/sakura-skip.jpg);
+}
+
+#turing-love {
+    background:url(../../../../assets/Individuals/polka/cover/turing-love.jpg);
+}
+
+#under-cover {
+    background:url(../../../../assets/Individuals/polka/cover/under-cover.jpg);
+}
+
+#vampire {
+    background:url(../../../../assets/Individuals/polka/cover/vampire.jpg);
+}
+
+#welcome {
+    background:url(../../../../assets/Individuals/polka/cover/welcome-to-japari-park.jpg);
+}
+
+#yoru-no-pierrot {
+    background:url(../../../../assets/Individuals/polka/cover/yoru-no-pierrot.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

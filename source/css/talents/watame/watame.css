@@ -1,0 +1,168 @@
+body{
+    background: linear-gradient(180deg, rgb(250, 250, 197), rgb(255, 255, 181), rgb(234, 243, 113));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 10px rgb(234, 243, 113);
+}
+
+#banner {
+    border: 1px solid rgb(201, 214, 21);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(234, 243, 113);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(204, 214, 64);
+}
+
+#line {
+    background-color:rgb(234, 243, 113);
+}
+
+#line2 {
+    background-color:rgb(234, 243, 113, 0.5);
+    box-shadow: 0.2rem 0.1rem 5px rgb(250, 250, 197);
+}
+
+#song-content h1 {
+    color:rgb(234, 243, 113);
+}
+
+/*original*/
+#chocolate {
+    background: url(../../../../assets/Individuals/watame/original/ai-mai-chocolate.jpg);
+}
+
+#cloudy{
+    background: url(../../../../assets/Individuals/watame/original/cloudy-sheep.jpg);
+}
+
+#everlasting {
+    background: url(../../../../assets/Individuals/watame/original/everlasting.jpg);
+}
+
+#good-morning {
+    background: url(../../../../assets/Individuals/watame/original/good-morning-song.jpg);
+}
+/*HELPPPPPPPPPPPPPPPPPPPP*/
+
+#holidays {
+    background: url(../../../../assets/Individuals/watame/original/holidays.jpg);
+}
+
+#kiseki-knot {
+    background: url(../../../../assets/Individuals/watame/original/kiseki\ knot.jpg);
+}
+
+#mayday {
+    background: url(../../../../assets/Individuals/watame/original/mayday-mayday.jpg);
+}
+
+#melody {
+    background: url(../../../../assets/Individuals/watame/original/melody-for-you.jpg);
+}
+
+#ode {
+    background: url(../../../../assets/Individuals/watame/original/ode-to-an-eternal-furture.jpg);
+}
+
+#rainbow {
+    background: url(../../../../assets/Individuals/watame/original/rainbowe.jpg);
+}
+
+#sweet-night {
+    background: url(../../../../assets/Individuals/watame/original/sweet-night-sweet-time.jpg);
+}
+
+#watame-no {
+    background: url(../../../../assets/Individuals/watame/original/watame-no-komoriuta.jpg);
+}
+
+#zero {
+    background: url(../../../../assets/Individuals/watame/original/zero-no-ashiato.jpg);
+}
+
+/*cover*/
+#bubble {
+    background: url(../../../../assets/Individuals/watame/cover/bubble-love.jpg);
+}
+
+#chocolate-box {
+    background: url(../../../../assets/Individuals/watame/cover/chocalate-box.jpg);
+}
+
+#fansa {
+    background: url(../../../../assets/Individuals/watame/cover/fansa.jpg);
+}
+
+#hello-how {
+    background: url(../../../../assets/Individuals/watame/cover/hello-how-are-you.jpg);
+}
+
+#kaibutsu {
+    background: url(../../../../assets/Individuals/watame/cover/kaibutsu.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/watame/cover/king.jpg);
+}
+
+#kuroi-hitsuji {
+    background: url(../../../../assets/Individuals/watame/cover/kuroi-hitsuji.jpg);
+}
+
+#melancholic {
+    background: url(../../../../assets/Individuals/watame/cover/melancholic.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/watame/cover/ochame-kinou.jpg);
+}
+
+#renai {
+    background: url(../../../../assets/Individuals/watame/cover/renai-circulation.jpg);
+}
+
+#sweet-devil {
+    background: url(../../../../assets/Individuals/watame/cover/sweet-devil.jpg);
+}
+
+#vampire{
+    background: url(../../../../assets/Individuals/watame/cover/the-vampire.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

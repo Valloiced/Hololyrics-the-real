@@ -1,0 +1,436 @@
+/*main page nav bar*/
+a{
+    width: 100%;
+}
+
+/*.open {
+    position: fixed;
+    width: 50%;
+    height: 35vh;
+    left: 50%;
+    top: 50%;
+    background-color: rgb(211, 241, 248);
+    transform: translate(-50%, -50%);
+    padding: 2vw;
+    word-wrap: break-word;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: 5px solid rgba(163, 240, 250, 0.897);
+    padding: auto;
+    z-index: 50;
+}
+
+.open p {
+    font-size: 2vw;
+    margin-top: 2vh;
+    color: rgb(31, 202, 245);
+}
+
+.open h1 {
+    color: rgb(181, 19, 245);
+    font-size: 5vw;
+}
+
+.open button {   
+    position: relative;
+    top: 3vw;
+    width: 40%;
+    height:15%;
+    border-radius: 15px;
+    border: 2px solid silver;
+    background-color: yellow;
+    color: rgb(0, 225, 255);
+    font-size: 2vw;
+}
+
+.open button:hover {
+    cursor: pointer;
+}
+*/
+
+
+#top-body {
+    margin: 0 auto;
+    padding: 1rem;
+    min-height: 20vh;
+    width: 95%;
+    background: url(../../../assets/MainPageAssets/navbg/hololive.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-position: top center;
+    background-blend-mode: overlay;
+    border: 2px solid rgba(136, 136, 136, 0.6);
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: var(--shadow);
+}
+
+#top-body h1 {
+    text-align: center;
+    margin: auto;
+    color: rgba(70, 195, 242, 1.4);
+    background-color: rgba(255,255,255, 0.90);
+    width: 40%;
+    font-size: 4rem;
+    border-radius: 5px;
+    box-shadow: var(--shadow);
+}
+
+#gen-list {
+    margin-top: 6vh;
+}
+#gen-list ul {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+}
+
+#gen-list li{
+    display: grid;
+    width: 9vw;
+    height: 6rem;
+    align-content: center;
+    color: #E1f6FF;
+    font-size: 1.5vw;
+    margin: 0.1rem;
+    z-index: 2;
+    box-shadow: var(--shadow);
+}
+
+#navgen0 {
+    background: url(../../../assets/MainPageAssets/navbg/gen0.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
+#navgen1 {
+    background: url(../../../assets/MainPageAssets/navbg/gen1.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
+#navgen2 {
+    background: url(../../../assets/MainPageAssets/navbg/gen2.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
+#navgaymers {
+    background: url(../../../assets/MainPageAssets/navbg/gamers.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+#navgen3 {
+    background: url(../../../assets/MainPageAssets/navbg/gen3.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
+#navgen4 {
+    background: url(../../../assets/MainPageAssets/navbg/gen4.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+
+}
+
+#navgen5 {
+    background: url(../../../assets/MainPageAssets/navbg/gen5.jpg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
+/*talents list style*/
+#talents-list {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 6vh auto;
+    padding: 1rem;
+}
+
+.talents {
+    position: relative;
+    display: grid;
+    align-content: flex-end;
+    justify-content: center;
+    font-size: 1.5vw;
+    color:#FFFFFF;
+    background-color: red;
+    width: 100%;
+    height: 10rem;
+}
+.genfont{
+    text-align: center;
+    font-size: 6vw;
+    font-weight: var(--genfont);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+}
+.display {
+    display: flex;
+    flex-direction: row;
+    margin: 3vh 0vw 0vh 1vw;
+    box-shadow: var(--shadow);
+}
+
+/*background*/
+
+/*gen 0 */
+#sora {
+    background: url(../../../assets/MainPageAssets/Talents/goddess.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#robo {
+    background: url(../../../assets/MainPageAssets/Talents/robocco.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#miko {
+    background: url(../../../assets/MainPageAssets/Talents/mikodayo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#suisei {
+    background: url(../../../assets/MainPageAssets/Talents/yesmahqueen.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#azki {
+    background: url(../../../assets/MainPageAssets/Talents/AZKi.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen1*/
+
+#mel{
+    background: url(../../../assets/MainPageAssets/Talents/mel.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#fubuki{
+    background: url(../../../assets/MainPageAssets/Talents/friend.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#matsuri{
+    background: url(../../../assets/MainPageAssets/Talents/god.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#aki{
+    background: url(../../../assets/MainPageAssets/Talents/aki.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#haachama{
+    background: url(../../../assets/MainPageAssets/Talents/haachama-chama.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen2*/
+
+#aqua {
+    background: url(../../../assets/MainPageAssets/Talents/onion.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#shion {
+    background: url(../../../assets/MainPageAssets/Talents/garlic.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#ayame {
+    background: url(../../../assets/MainPageAssets/Talents/yodayo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#choco {
+    background: url(../../../assets/MainPageAssets/Talents/araara.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#subaru {
+    background: url(../../../assets/MainPageAssets/Talents/duck.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*hololive gaymers*/
+
+#mio {
+    background: url(../../../assets/MainPageAssets/Talents/mama.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#okayu {
+    background: url(../../../assets/MainPageAssets/Talents/onigiri.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#korone {
+    background: url(../../../assets/MainPageAssets/Talents/cutedoggo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen3*/
+
+#pekora {
+    background: url(../../../assets/MainPageAssets/Talents/pekopeko.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#rushia {
+    background: url(../../../assets/MainPageAssets/Talents/not-a-pettan.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#flare {
+    background: url(../../../assets/MainPageAssets/Talents/fulare.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#noel {
+    background: url(../../../assets/MainPageAssets/Talents/danchou.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#marine {
+    background: url(../../../assets/MainPageAssets/Talents/SelfAssumed17YearsOld.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+/*gen4*/
+#kanata {
+    background: url(../../../assets/MainPageAssets/Talents/gorilla.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#watame {
+    background: url(../../../assets/MainPageAssets/Talents/watamelon.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#towa {
+    background: url(../../../assets/MainPageAssets/Talents/towa\ tenshi.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#luna {
+    background: url(../../../assets/MainPageAssets/Talents/baby.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#coco {
+    background: url(../../../assets/MainPageAssets/Talents/yakuza.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+/*gen5*/
+
+#lamy {
+    background: url(../../../assets/MainPageAssets/Talents/lamyy.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#nene {
+    background: url(../../../assets/MainPageAssets/Talents/seal.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#botan {
+    background: url(../../../assets/MainPageAssets/Talents/fps-queen.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#polka {
+    background: url(../../../assets/MainPageAssets/Talents/circus.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#aloe {
+    background: url(../../../assets/MainPageAssets/Talents/Press\ F.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+

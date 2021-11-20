@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(180deg, rgb(202, 200, 200), snow);
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(202, 200, 200);
+}
+
+#banner {
+    border: 3px solid rgb(202, 200, 200);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px snow;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(102, 102, 102);
+}
+
+#line {
+    background-color:rgb(102, 102, 102);
+}
+
+#line2 {
+    background-color:rgb(102, 102, 102);
+    box-shadow: 0.2rem 0.1rem 5px rgb(202, 200, 200);
+}
+
+#song-content h1 {
+    color: rgb(202, 200, 200);
+}
+
+/*original*/
+#lioness-pride {
+    background: url(../../../../assets/Individuals/botan/original/lioness-pride.jpg);
+}
+
+#blue-clapper {
+    background: url(../../../../assets/Individuals/botan/original/blue-clapper.jpg);
+}
+
+/*cover*/
+#will {
+    background: url(../../../../assets/Individuals/botan/cover/will.jpg);
+}
+
+#blessing {
+    background: url(../../../../assets/Individuals/botan/cover/blessing.jpg);
+}
+
+#mr-music {
+    background: url(../../../../assets/Individuals/botan/cover/mr.music.jpg);
+}
+
+#welcome-to-japari-park {
+    background: url(../../../../assets/Individuals/botan/cover/welcome-to-japari-park.jpg);
+}

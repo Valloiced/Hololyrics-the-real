@@ -1,0 +1,120 @@
+body{
+    background: linear-gradient(180deg, black, darkblue, lightblue);
+}
+
+#banner {
+    border: 1px solid blue;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(58, 78, 196);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(102, 214, 252);
+}
+
+#line {
+    background-color:rgb(58, 78, 196)
+}
+
+#song-content h1 {
+    color:rgb(85, 102, 202);
+}
+
+/*originals*/
+#comet {
+    background: url(../../../../assets/Individuals/suisei/original/comet.jpg);
+}
+
+#bluerose {
+    background: url(../../../../assets/Individuals/suisei/original/bluerose.jpg);
+}
+
+#dazzling {
+    background: url(../../../../assets/Individuals/suisei/original/Dazzling.jpg);
+    font-size: 2vw;
+}
+
+#ghost {
+    background: url(../../../../assets/Individuals/suisei/original/ghost.jpg);
+}
+
+#kakero {
+    background: url(../../../../assets/Individuals/suisei/original/Kakero.jpg);
+}
+
+#nextcolorplanet{
+    background: url(../../../../assets/Individuals/suisei/original/next\ color\ planet.jpg);
+}
+
+#tenkyu {
+    background: url(../../../../assets/Individuals/suisei/original/tenkyu.jpg);
+    font-size: 1.5vw;
+}
+
+#stellar-stellar{
+    background: url(../../../../assets/Individuals/suisei/original/stellar\ stellar.jpg)
+}
+
+/*covers*/
+#alice-in-ny {
+    background: url(../../../../assets/Individuals/suisei/cover/alice\ in\ ny.jpg);
+}
+
+#crazy-b {
+    background: url(../../../../assets/Individuals/suisei/cover/crazy\ b.jpg);
+}
+
+#cry-baby {
+    background: url(../../../../assets/Individuals/suisei/cover/cry\ baby.jpg);
+}
+
+#getcha {
+    background: url(../../../../assets/Individuals/suisei/cover/getcha.jpg);
+}
+
+#hikaru-nara {
+    background: url(../../../../assets/Individuals/suisei/cover/hikaru\ nara.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/suisei/cover/King.jpg);
+}
+
+#melty-nightmare {
+    background: url(../../../../assets/Individuals/suisei/cover/melty\ nightmare.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/suisei/cover/ochame\ kinou.jpg);
+}
+
+#ranbou-no-melody {
+    background: url(../../../../assets/Individuals/suisei/cover/ranbou\ no\ melody.jpg);
+}
+
+#saga-jihen {
+    background: url(../../../../assets/Individuals/suisei/cover/saga\ jihen\ ahhhhhhhhhh.jpg);
+}
+
+#secret-daybreak {
+    background: url(../../../../assets/Individuals/suisei/cover/secret\ daybreak.jpg);
+}
+
+#shoujo-rei {
+    background: url(../../../../assets/Individuals/suisei/cover/shoujo-rei.jpg);
+}
+
+#tsukiakari {
+    background: url(../../../../assets/Individuals/suisei/cover/tsukiakara.jpg);
+}
+
+#turing-love {
+    background: url(../../../../assets/Individuals/suisei/cover/turing\ love.jpg);
+}
+
+#zenbu-anta-no {
+    background: url(../../../../assets/Individuals/suisei/cover/zenbu\ anta\ no\ sei.jpg);
+}

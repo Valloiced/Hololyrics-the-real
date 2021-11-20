@@ -1,0 +1,82 @@
+body{
+    background: linear-gradient(180deg, rgb(192, 240, 200), rgb(111, 224, 206));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 10px rgb(130, 255, 255);
+}
+
+#banner {
+    border: 1px solid rgb(111, 224, 206);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(111, 224, 206);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(192, 240, 200);
+}
+
+#line {
+    background-color:rgb(111, 224, 206);
+}
+
+#line2 {
+    background-color:rgb(111, 224, 206);
+    box-shadow: 0.2rem 0.1rem 5px rgb(192, 240, 200);
+    opacity: 0.5;
+}
+
+#song-content h1 {
+    color:rgb(145,203,179);
+}
+
+/*original*/
+#iris {
+    background: url(../../../../assets/Individuals/rushia/original/iris.jpg);
+}
+
+#koyoi-wa-haloween {
+    background: url(../../../../assets/Individuals/rushia/original/koyoi-wa-haloween-night.jpg);
+}
+
+/*cover*/
+#goodbye-declaration {
+    background: url(../../../../assets/Individuals/rushia/cover/goodbye-declaration.jpg);
+}
+
+#hana-ni-bourei {
+    background: url(../../../../assets/Individuals/rushia/cover/hana-ni-bourei.jpg);
+}
+
+#magnet {
+    background: url(../../../../assets/Individuals/rushia/cover/magnet.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/rushia/cover/ochame-kinou.jpg);
+}
+
+#crazy-party-night {
+    background: url(../../../../assets/Individuals/rushia/cover/crazy-night.jpg);
+}
+
+#saga-jigen {
+    background: url(../../../../assets/Individuals/rushia/cover/saga-jigen.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/rushia/cover/umapyoi-densetsu.png);
+}
+
+#extra {
+    position: absolute;
+    width: 3%;
+    height: 3%;
+    left: auto;
+    bottom: auto;
+    border-radius: 50%;
+    cursor: pointer;
+}

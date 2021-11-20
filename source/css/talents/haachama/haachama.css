@@ -1,0 +1,119 @@
+body{
+    background: linear-gradient(180deg, rgb(230, 35, 35), rgb(248, 255, 183));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px rgb(230, 35, 35);
+}
+
+#banner {
+    opacity: 1;
+    border: 3px solid red;
+    border-radius: 3px;
+}
+#banner2 {
+    position: absolute;
+    background: url(../../../../assets/Individuals/haachama/ahhhhh.jpg);
+    background-size: cover;
+    width: 10%;
+    height: 15vh;
+    top: 15vh;
+    left: 15vw;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px yellow;
+}
+
+#pf h1 {
+    font-size: 2.3vw;
+    color: rgb(235, 94, 51);
+}
+
+#line {
+    background-color: rgb(230, 35, 35);
+}
+
+#line2 {
+    background-color: rgba(230, 35, 35, 0.3);
+    box-shadow: 0.1rem 0.1rem 2px yellow;
+}
+
+#song-content h1 {
+    color:red;
+}
+
+#song-content #original h1 {
+    background: linear-gradient(90deg, red , yellow);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#song-content #cover h1{
+    background: linear-gradient(90deg, yellow , red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*original*/
+#infinity {
+    background: url(../../../../assets/Individuals/haachama/original/infinity.jpg);
+}
+
+#red-heart {
+    background: url(../../../../assets/Individuals/haachama/original/red-heart.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/haachama/original/shiny-smily-story.jpg);
+}
+
+#surprise-paradise {
+    background: url(../../../../assets/Individuals/haachama/original/surprise-paradise.png);
+}
+
+#yumemiru-sora {
+    background: url(../../../../assets/Individuals/haachama/original/yumemiru\ sora\ e.jpg);
+}
+
+/*cover*/
+#echo {
+    background: url(../../../../assets/Individuals/haachama/cover/echo.jpg);
+}
+
+#ievan-polkka {
+    background: url(../../../../assets/Individuals/haachama/cover/ievan-polkka.jpg);
+}
+
+#natsuiro-matsuri {
+    background: url(../../../../assets/Individuals/haachama/cover/natsuiro-matsuri.jpg);
+}
+
+#poppipo {
+    background: url(../../../../assets/Individuals/haachama/cover/poppipo.jpg);
+}
+
+#senbunzakura {
+    background: url(../../../../assets/Individuals/haachama/cover/senbozakura.jpg);
+}
+
+#shape-of-you {
+    background: url(../../../../assets/Individuals/haachama/cover/shape-of-you.jpg);
+}
+
+#sweets-parade {
+    background: url(../../../../assets/Individuals/haachama/cover/sweets-parade.jpg);
+}
+
+#take-me-home {
+    background: url(../../../../assets/Individuals/haachama/cover/take-me-home-country-roads.jpg);
+}
+
+#watashi-idol {
+    background: url(../../../../assets/Individuals/haachama/cover/watashi-idol-sengen.jpg);
+}
+
+#we-will-rock-you {
+    background: url(../../../../assets/Individuals/haachama/cover/we-will-rock-you.jpg);
+}
+

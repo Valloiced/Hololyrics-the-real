@@ -1,0 +1,89 @@
+body{
+    background: linear-gradient(180deg, rgb(88, 9, 9), red, rgb(241, 112, 112));
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px rgb(241, 112, 112);
+}
+
+#banner {
+    border: 2px solid rgb(241, 112, 112);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(241, 112, 112);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(241, 112, 112);
+}
+
+#line {
+    background-color:rgb(245, 82, 82);
+}
+
+#song-content h1 {
+    color:rgb(145, 8, 8);
+}
+
+#line2 {
+    background-color: rgba(241, 112, 112, 0.4);
+    box-shadow: 0.2rem 0.1rem 5px rgba(241, 112, 112, 0.4);
+}
+
+/*original*/
+#ahoy {
+    background: url(../../../../assets/Individuals/marine/original/ahoy.jpg);
+}
+
+#daily-diary {
+    background: url(../../../../assets/Individuals/marine/original/daily-diary.jpg);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/marine/original/dreaming\ days.jpg);
+}
+
+#gimme-gimme {
+    background: url(../../../../assets/Individuals/marine/original/gimme\ gimmi.jpg);
+}
+
+#umisea {
+    background: url(../../../../assets/Individuals/marine/original/umisea.jpg);
+    font-size: 1.3vw;
+}
+
+#unison {
+    background: url(../../../../assets/Individuals/marine/original/unision.jpg);
+}
+
+/*cover*/
+
+#alice-in-ny{
+    background: url(../../../../assets/Individuals/marine/cover/alice-in-ny.jpg);
+}
+
+#bloody-stream {
+    background: url(../../../../assets/Individuals/marine/cover/bloody-stream.jpg);
+}
+
+#magnet {
+    background: url(../../../../assets/Individuals/marine/cover/magnet.jpg);
+}
+
+#ochame-kinou{
+    background: url(../../../../assets/Individuals/marine/cover/ochame-kinou.jpg);
+}
+
+#saga-jihen {
+    background: url(../../../../assets/Individuals/marine/cover/saga-jigen.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/marine/cover/umapyoi-densetsu.png);
+}
+
+#valentine-kiss {
+    background: url(../../../../assets/Individuals/marine/cover/valentine\ kiss.jpg);
+}

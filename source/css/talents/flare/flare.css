@@ -1,0 +1,110 @@
+body{
+    background: linear-gradient(180deg, #DC3813, #FF5028, #FFBD2E);
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px #FFBD2E;
+}
+
+#banner {
+    border: 1px solid #DC3813;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px #FFBD2E;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    background: linear-gradient(0deg, #FFBD2E,#FF5028);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#line {
+    background-color: #FF5028;
+}
+
+#line2 {
+    background-color: #ff4f289f;
+    box-shadow: 0.2rem 0.1rem 5px #FFBD2E;
+
+}
+
+#song-content h1 {
+    background: linear-gradient(0deg, #FFBD2E,#FF5028);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*original*/
+#smile-and-go {
+    background: url(../../../../assets/Individuals/flare/original/smile-and-go.jpg);
+}
+
+#alice-in-ny {
+    background: url(../../../../assets/Individuals/flare/original/alice\ in\ ny.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/flare/original/asuiro-clearsky.png);
+}
+
+#candy-go-round {
+    background: url(../../../../assets/Individuals/flare/original/candy-go-round.jpg);
+}
+
+#adtruck {
+    background: url(../../../../assets/Individuals/flare/original/shijoshugi-adtruck.png);
+}
+
+#stardust-song {
+    background: url(../../../../assets/Individuals/flare/original/stardust-song.jpg);
+}
+
+/*cover*/
+#ai-kotoba-iii {
+    background: url(../../../../assets/Individuals/flare/cover/ai-kotoba-iii.jpg);
+}
+
+#colorful {
+    background: url(../../../../assets/Individuals/flare/cover/colorful.jpg);
+}
+
+#goodbye-declaration {
+    background: url(../../../../assets/Individuals/flare/cover/goodbye-declaration.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/flare/cover/king.jpg);
+}
+
+#mental-chainsaw {
+    background: url(../../../../assets/Individuals/flare/cover/mental-chainsaw.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/flare/cover/monster.jpg);
+}
+
+#naisho {
+    background: url(../../../../assets/Individuals/flare/cover/naisho-no-hanashio.jpg);
+}
+
+#saga-jihen {
+    background: url(../../../../assets/Individuals/flare/cover/saga-jigen.jpg);
+}
+
+#thats-why-i-gave {
+    background: url(../../../../assets/Individuals/flare/cover/thats-why-i-gave-up-on-music.jpg);
+    font-size: 1.5vw;
+}
+
+
+
+
+
+
+
+
+

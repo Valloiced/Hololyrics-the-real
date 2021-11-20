@@ -1,0 +1,125 @@
+body{
+    background: linear-gradient(180deg, rgb(188, 209, 254),rgb(81, 98, 193) );
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(194, 207, 245);
+}
+
+#banner {
+    border: 1px solid rgb(81, 98, 193);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(188, 209, 254);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    background: linear-gradient(0deg, rgb(81, 98, 193),rgb(188, 209, 254));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#line {
+    background-color:rgb(81, 98, 193);
+}
+
+#line2 {
+    background-color:rgba(81, 98, 193, 0.527);
+    box-shadow: 0.2rem 0.1rem 5px rgb(188, 209, 254);
+}
+
+#song-content h1 {
+    background: linear-gradient(0deg, rgb(81, 98, 193),rgb(188, 209, 254));
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+/*original*/
+#heroine-audition {
+    background: url(../../../../assets/Individuals/aki/original/heroine-audition.jpg);
+}
+
+#shallys {
+    background: url(../../../../assets/Individuals/aki/original/shallys.png);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/aki/original/asuiro-clearsky.png);
+}
+
+#candy-go-round {
+    background: url(../../../../assets/Individuals/aki/original/candy-go-round.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/aki/original/shiny-smily-story.jpg);
+}
+
+#suspect {
+    background: url(../../../../assets/Individuals/aki/original/suspect.jpg);
+}
+
+#yumemiru {
+    background: url(../../../../assets/Individuals/aki/original/yumemiru\ sora\ e.jpg);
+}
+
+/*cover*/
+#black-shout {
+    background: url(../../../../assets/Individuals/aki/cover/black-shout.jpg);
+}
+
+#christmas-song {
+    background: url(../../../../assets/Individuals/aki/cover/christmas-song.jpg);
+}
+
+#collage {
+    background: url(../../../../assets/Individuals/aki/cover/collage.jpg);
+}
+
+#crazy-party {
+    background: url(../../../../assets/Individuals/aki/cover/crazy-party-night.jpg);   
+}
+
+#daze {
+    background: url(../../../../assets/Individuals/aki/cover/daze.jpg);
+}
+
+#i-believe {
+    background: url(../../../../assets/Individuals/aki/cover/I\ believe-umi-no-soko-kara.jpg);
+}
+
+#kimagure-mercy {
+    background: url(../../../../assets/Individuals/aki/cover/kimagure-mercy.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/aki/cover/ochame-kinou.jpg);
+}
+
+#seishojou {
+    background: url(../../../../assets/Individuals/aki/cover/seishojou-ryouiki.jpg);
+}
+
+#title-nante {
+    background: url(../../../../assets/Individuals/aki/cover/title-nante-jibun-de-kangaenasai-na.jpg);
+    font-size: 1.5vw;
+}
+
+#wistful-record {
+    background: url(../../../../assets/Individuals/aki/cover/wistful-record.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

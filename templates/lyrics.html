@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I love plagarism</title>
+    <link rel="stylesheet" type="text/css" href="../../../../css/mainLogoAndNav.css">
+    <link rel="stylesheet" type="text/css" href="../../../../css/lyrics.css">
+    <link rel="stylesheet" href="../../../../css/nav.css">
+    <link rel="stylesheet" href="../../../../css/lyricsbg.css">
+    <script src="../../../../../assets/jquery-3.6.0.min.js"></script>
+</head>
+
+
+
+<body id="ghost"><!--This is necessary for background, change this-->
+<!--Top part-->
+<div class="top-page">
+    <div class="dropdown">
+    <button class="hv">Talents</button>
+    <div class="dropdown-content">
+            <a class="nav-ani2" id="navgen0">Gen 0</a>
+            <a class="nav-ani2" id="navgen1">Gen 1</a>
+            <a class="nav-ani2" id="navgen2">Gen 2</a>
+            <a class="nav-ani2" id="navgaymers">Hololive Gaymers</a>
+            <a class="nav-ani2" id="navgen3">Gen 3</a>
+            <a class="nav-ani2" id="navgen4">Gen 4</a>
+            <a class="nav-ani2" id="navgen5">Gen 5</a>
+    </div>
+    </div>
+    <img src="../../../../../assets/MainPageAssets/main/top logo.png">
+</div>
+
+
+<!--Change code below this line-->
+<div id=container>
+    <div id="video">
+        
+    </div>
+    <div class="captions">
+        <!--Title-->
+        <h1>
+        </h1>
+        <!--information-->
+        <p>
+        </p>
+    </div>
+
+
+    <div class="lyrics-body">
+         <div id="lyrics">
+             <h2 class="roman">Romanized</h2>
+             <p class="fo roman">
+             </p>
+             <h2 class="eng">English</h2>
+             <p class="fo eng">
+             </p>
+             <h2 class="kanji">Kanji</h2>
+             <p class="fo kanji">
+             </p>
+
+         </div>
+         
+         <!--font change-->
+             <div class="btn">
+                <button onclick="addFont()">+</button>
+                <button onclick="lessFont()">-</button>
+            </div>
+        </div>
+        <div class="labels">
+            <ul>
+                <li>    
+            <p>Language</p>
+                <form>
+                    <select id="lang">
+                        <option value="0">Kanji</option>
+                        <option value="1">English</option>
+                        <option value="2">Romanized</option>
+                    </select>
+                </form>
+                </li>  
+                <li>
+            <p>Align</p>
+                <form>
+                    <select id="align">
+                        <option value="0">Left</option>
+                        <option value="1">Center</option>
+                    </select>
+                </form>
+                </li> 
+            </ul> 
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js" integrity="sha512-eP6ippJojIKXKO8EPLtsUMS+/sAGHGo1UN/38swqZa1ypfcD4I0V/ac5G3VzaHfDaklFmQLEs51lhkkVaqg60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js" integrity="sha512-CPA5LMoJI/a5HkSIAKcBtFXe4gqGjPUL2ExF/3PmhrrHI17wod9xOqqF+0WZQRKIIq0KwF8oG5BaiWobtrke3A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="../../../../lyrics.js"></script>
+</body>

@@ -1,0 +1,142 @@
+body{
+    background: linear-gradient(180deg, rgb(237, 251, 255),rgb(115, 220, 255), rgb(15, 221, 211));
+}
+
+#container {
+    box-shadow: 0.5rem 0.1rem 10px rgb(238, 245, 247);
+}
+
+#banner {
+    border: 1px solid rgb(15, 221, 211);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(237, 251, 255);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(121, 134, 255);
+}
+
+#line {
+    background-color:rgb(121, 134, 255);
+}
+
+#line2 {
+    background-color: rgba(121, 135, 255, 0.596);
+    box-shadow: 0.2rem 0.1rem 5px rgb(115, 220, 255);
+}
+
+#song-content h1 {
+    color:rgb(121, 134, 255);
+}
+
+/*original*/
+#tokusya {
+    background: url(../../../../assets/Individuals/kanata/original/tokusya-seizon-wonder-la-der!!.jpg);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/kanata/original/dreaming-days.jpg);
+}
+
+#kiseki-knot {
+    background: url(../../../../assets/Individuals/kanata/original/kiseki\ knot.jpg);
+}
+
+#stardust-song {
+    background: url(../../../../assets/Individuals/kanata/original/stardust-song.jpg);
+}
+
+/*cover*/
+#additional-memory {
+    background: url(../../../../assets/Individuals/kanata/cover/additional-memory.jpg);
+}
+
+#alice-in-ny {
+    background: url(../../../../assets/Individuals/kanata/cover/alice-in-ny.jpg);
+}
+
+#angelfish {
+    background: url(../../../../assets/Individuals/kanata/cover/angelfish.jpg);
+}
+
+#byoushin {
+    background: url(../../../../assets/Individuals/kanata/cover/byoushin-wo-kamu.jpg);
+}
+
+#callboy {
+    background: url(../../../../assets/Individuals/kanata/cover/callboy.jpg);
+}
+
+#chocolate-box {
+    background: url(../../../../assets/Individuals/kanata/cover/chocalate-box.jpg);
+}
+
+#ghost-rule {
+    background: url(../../../../assets/Individuals/kanata/cover/ghost\ rule.jpg);
+}
+
+#hibana {
+    background: url(../../../../assets/Individuals/kanata/cover/hibana.png);
+}
+
+#kemono {
+    background: url(../../../../assets/Individuals/kanata/cover/kemono-yuku-hosomichi.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/kanata/cover/king.jpg);
+}
+
+#mitsuba {
+    background: url(../../../../assets/Individuals/kanata/cover/mitsuba-no-musubime.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/kanata/cover/ochame-kinou.jpg);
+}
+
+#outsider {
+    background: url(../../../../assets/Individuals/kanata/cover/outsider.jpg);
+}
+
+#song-from-the-beginning {
+    background: url(../../../../assets/Individuals/kanata/cover/song-from-the-beginning-towards-the-end.jpg);
+    font-size: 1.5vw;
+}
+
+#soran-boshi {
+    background: url(../../../../assets/Individuals/kanata/cover/soran-boshi.jpg);
+}
+
+#the-religion {
+    background: url(../../../../assets/Individuals/kanata/cover/the\ religion\ of\ loneliness.jpg);
+}
+
+#tsukiakara {
+    background: url(../../../../assets/Individuals/kanata/cover/tsukiakara.jpg);
+}
+
+#uma-to-shika {
+    background: url(../../../../assets/Individuals/kanata/cover/uma-to-shika.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/kanata/cover/umapyoi-densetsu.png);
+}
+
+#usseewa {
+    background: url(../../../../assets/Individuals/kanata/cover/ussewa.jpg);
+}
+
+
+
+
+
+
+
+
+
+

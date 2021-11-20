@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(180deg, pink, rgb(253, 144, 162));
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(255, 223, 228);
+}
+
+#banner {
+    border: 1px solid rgb(253, 144, 162);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px pink;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(253, 144, 162);
+}
+
+#line {
+    background-color:pink;
+}
+
+#line2 {
+    background-color: rgba(253, 144, 162, 0.7);
+    box-shadow: 0.2rem 0.1rem 5px pink;
+}
+
+#song-content h1 {
+    color:rgb(253, 144, 162);
+}
+
+/*original*/
+#choco-love {
+    background: url(../../../../assets/Individuals/choco/original/choco-love.png);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/choco/original/dreaming-days.jpg);
+}
+
+#koyoi-wa-haloween {
+    background: url(../../../../assets/Individuals/choco/original/koyoi-wa-haloween-night.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/choco/original/shiny-smily-story.jpg);
+}
+
+/*cover*/
+#cherry-bomb {
+    background: url(../../../../assets/Individuals/choco/cover/cherry-bomb.jpg);
+}
+
+#crazy-night {
+    background: url(../../../../assets/Individuals/choco/cover/crazy-night.jpg);
+}
+
+#delusion-tax {
+    background: url(../../../../assets/Individuals/choco/cover/delusion-tax.jpg);
+}
+
+#gimme {
+    background: url(../../../../assets/Individuals/choco/cover/gimme-chocolate.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/choco/cover/ochame-kinou.jpg);
+}
+
+#OOOOO {
+    background: url(../../../../assets/Individuals/choco/cover/OOOOO.jpg);
+}
+
+#sweet-magic {
+    background: url(../../../../assets/Individuals/choco/cover/sweet-magic.jpg);
+}
+
+#valentine-kiss {
+    background: url(../../../../assets/Individuals/choco/cover/valentine-kiss.jpg);
+}

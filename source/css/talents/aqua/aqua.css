@@ -1,0 +1,125 @@
+body{
+    background: linear-gradient(180deg,rgb(240, 145, 227) ,rgb(247, 193, 239) );
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px rgb(243, 112, 223);
+}
+
+#banner {
+    border: 1px solid rgb(247, 193, 239);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(247, 193, 239);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(240, 145, 227);
+}
+
+#line {
+    background-color:rgb(247, 193, 239);
+}
+
+#line2 {
+    background-color: rgb(245, 166, 234);
+    box-shadow: 0.2rem 0.1rem 5px rgb(247, 193, 239);
+}
+
+#song-content h1 {
+    color:rgb(240, 145, 227);
+}
+
+
+/*original*/
+#aqua-iro-palette {
+    background: url(../../../../assets/Individuals/aqua/original/aqua-iro-palette.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/aqua/original/asuiro-clearsky.png);
+}
+
+#candy-go-round {
+    background: url(../../../../assets/Individuals/aqua/original/candy-go-round.jpg);
+}
+
+#domination {
+    background: url(../../../../assets/Individuals/aqua/original/domination.jpg);
+    font-size: 1.5vw;
+}
+
+#for-the-win {
+    background: url(../../../../assets/Individuals/aqua/original/for-the-win.jpg);
+}
+
+#kaisou-ressha {
+    background: url(../../../../assets/Individuals/aqua/original/kaisou\ ressha.jpg);
+}
+
+#kirameki-rider {
+    background: url(../../../../assets/Individuals/aqua/original/kirameki-rider.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/aqua/original/shiny-smily-story.jpg);
+}
+
+#sweet-carnival {
+    background: url(../../../../assets/Individuals/aqua/original/sweet-carnival.jpg);
+}
+
+#hacha-mecha {
+    background: url(../../../../assets/Individuals/aqua/original/hacha\ mecha.jpg);
+}
+
+/*cover*/
+#cinderella {
+    background: url(../../../../assets/Individuals/aqua/cover/cinderalla.jpg);
+}
+
+#dadada-tenshi {
+    background: url(../../../../assets/Individuals/aqua/cover/dadada-tenshi.jpg);
+}
+
+#drop-pop-candy {
+    background: url(../../../../assets/Individuals/aqua/cover/drop-pop-candy.jpg);
+}
+
+#goodbye-declaration {
+    background: url(../../../../assets/Individuals/aqua/cover/goodbye-declaration.jpg);
+}
+
+#indoor-kei-nara {
+    background: url(../../../../assets/Individuals/aqua/cover/indoor-kei-nara-trackmaker.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/aqua/cover/ochame-kinou.jpg);
+}
+
+#okochama {
+    background: url(../../../../assets/Individuals/aqua/cover/okochame-sensou.jpg);
+}
+
+#one-room-sugar {
+    background: url(../../../../assets/Individuals/aqua/cover/one-room-sugar-life.jpg);
+}
+
+#turing-love {
+    background: url(../../../../assets/Individuals/aqua/cover/turing-love.jpg);
+}
+
+#ubiqutious {
+    background: url(../../../../assets/Individuals/aqua/cover/ubiqutious-db.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/aqua/cover/umapyoi-densetsu.png);
+}
+
+#vampire {
+    background: url(../../../../assets/Individuals/aqua/cover/vampire.jpg);
+}

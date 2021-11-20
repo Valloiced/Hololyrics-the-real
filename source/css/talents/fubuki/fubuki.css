@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(180deg, white, lightblue, rgb(42, 176, 238));
+}
+
+#container{
+    box-shadow: 0.3rem 0.1rem 10px lightblue;
+}
+
+#banner {
+    border: 1px solid lightblue;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px lightblue;
+    width: 100%;
+    height: 60%
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:lightblue;
+}
+
+#line {
+    background-color:lightblue;
+}
+
+#song-content h1 {
+    color:lightblue;
+}
+
+/*original*/
+#dreaming-days {
+    background: url(../../../../assets/Individuals/fubuki/original/dreaming-days.jpg);
+}
+
+#gimme-gimmi {
+    background: url(../../../../assets/Individuals/fubuki/original/gimme\ gimmi.jpg);
+}
+
+#hyakka-ryuki {
+    background: url(../../../../assets/Individuals/fubuki/original/hyakka-ryuki-hanafubuki.jpg);
+}
+
+#kirameki-rider {
+    background: url(../../../../assets/Individuals/fubuki/original/kirameki-rider.png);
+}
+
+#say-fanfare {
+    background: url(../../../../assets/Individuals/fubuki/original/say-fanfare.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/fubuki/original/shiny-smily-story.jpg);
+}
+
+#yumemiru-sora {
+    background: url(../../../../assets/Individuals/fubuki/original/yumemiru\ sora\ e.jpg);
+}
+
+
+/*cover*/
+#bitter-choco {
+    background: url(../../../../assets/Individuals/fubuki/cover/bitter-choco-decoration.jpg);
+}
+
+#fuyu-biyori {
+    background: url(../../../../assets/Individuals/fubuki/cover/fuyu-biyori.jpg);
+}
+
+#moffumoffu {
+    background: url(../../../../assets/Individuals/fubuki/cover/moffumoffu-de-yoi-no-ja-yo.jpg);
+}
+
+#start {
+    background: url(../../../../assets/Individuals/fubuki/cover/start.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/fubuki/cover/monster.jpg);
+}
+
+#umapyoi-densetsu {
+    background: url(../../../../assets/Individuals/fubuki/cover/umapyoi-densetsu.png);
+}

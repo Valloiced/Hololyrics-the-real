@@ -1,0 +1,90 @@
+body{
+    background: linear-gradient(180deg, #BDE717, #e8ff8e);
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px yellow;
+}
+
+#banner {
+    border: 1px solid yellow;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px yellow;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: #BDE717;
+}
+
+#line {
+    background-color:#BDE717;
+}
+
+#line2 {
+    background-color: #bde7177a;
+    box-shadow: 0.2rem 0.1rem 5px #e8ff8e;
+    
+}
+
+#song-content h1 {
+    color:#BDE717;
+}
+
+/*original*/
+#daily-diary {
+    background: url(../../../../assets/Individuals/subaru/original/daily-diary.jpg);
+}
+
+#dreaming-days {
+    background: url(../../../../assets/Individuals/subaru/original/dreaming\ days.jpg);
+}
+
+#hacha-mecha {
+    background: url(../../../../assets/Individuals/subaru/original/hacha\ mecha.jpg);
+}
+
+#pleiades {
+    background: url(../../../../assets/Individuals/subaru/original/pleiades.jpg);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/subaru/original/shiny-smily-story.jpg);
+}
+
+#taiyou-shoujo {
+    background: url(../../../../assets/Individuals/subaru/original/taiyou-shoujo.jpg);
+}
+
+/*cover*/
+#adrenaline {
+    background: url(../../../../assets/Individuals/subaru/cover/adrenaline!!!.jpg);
+}
+
+#blessing {
+    background: url(../../../../assets/Individuals/subaru/cover/blessing.jpg);
+}
+
+#do-my-best {
+    background: url(../../../../assets/Individuals/subaru/cover/do-my-best.jpg);
+}
+
+#koi-no-mahou {
+    background: url(../../../../assets/Individuals/subaru/cover/koi-no-mahou.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/subaru/cover/monster.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/subaru/cover/ochame-kinou.jpg);
+}
+
+
+
+
+
+

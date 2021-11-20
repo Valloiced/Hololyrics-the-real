@@ -1,0 +1,26 @@
+We need this: 
+Main Page(kinda)
+-to navigate the talent
+
+Startup Page:
+-the first user to see before going to main page
+
+Animations:
+-we need a specific css or js file to make it and make everything lively
+
+Talents Page:
+-a specific page for every talents
+
+Lyrics Page:
+-lyrics of course
+
+easter eggs?
+-lemme consider it
+
+object
+
+
+
+
+
+HEyyyyyyyyy the navbar still sucks

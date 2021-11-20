@@ -1,0 +1,88 @@
+body{
+    background: linear-gradient(180deg, rgb(197, 8, 235),rgb(240, 129, 221));
+}
+
+#container {
+    box-shadow:0.4rem 0.1rem 10px rgb(240, 129, 221);
+}
+
+
+#banner {
+    border: 1px solid rgb(197, 8, 235);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(240, 129, 221);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(240, 129, 221);
+}
+
+#line {
+    background-color:rgb(197, 8, 235);
+}
+
+#line2 {
+    background-color: rgba(197, 8, 235, 0.5);
+    box-shadow: 0.2rem 0.1rem 5px rgb(240, 129, 221);
+}
+
+#song-content h1 {
+    color:rgb(197, 8, 235);
+}
+
+/*original*/
+#palette {
+    background: url(../../../../assets/Individuals/towa/original/palette.jpg);
+}
+
+#asuiro-clearsky {
+    background: url(../../../../assets/Individuals/towa/original/asuiro-clearsky.png);
+}
+
+#stardust-song {
+    background: url(../../../../assets/Individuals/towa/original/stardust-song.jpg);
+}
+
+#kiseki-knot {
+    background: url(../../../../assets/Individuals/towa/original/kiseki\ knot.jpg);
+}
+
+/*cover*/
+#error {
+    background: url(../../../../assets/Individuals/towa/cover/error.jpg);
+}
+
+#brilliant {
+    background: url(../../../../assets/Individuals/towa/cover/Brilliant.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/towa/cover/king.jpg);
+}
+
+#hearts {
+    background: url(../../../../assets/Individuals/towa/cover/hearts.jpg);
+}
+
+#ussewa {
+    background: url(../../../../assets/Individuals/towa/cover/ussewa.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/towa/cover/ochame-kinou.jpg);
+}
+
+#kuroi-hitsuji {
+    background: url(../../../../assets/Individuals/towa/cover/kuroi-hitsuji.jpg);
+}
+
+#hyakkisai {
+    background: url(../../../../assets/Individuals/towa/cover/hyakkisai.jpg);
+}
+
+#bocca-della-verita {
+    background: url(../../../../assets/Individuals/towa/cover/bocca-della-verita.jpg);
+}

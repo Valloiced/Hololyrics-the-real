@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(180deg, rgb(201, 234, 249), rgb(173, 209, 245));
+}
+
+#banner {
+    border: 1px solid rgb(102, 214, 252);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(102, 214, 252);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(104, 217, 255);
+}
+
+#line {
+    background-color:rgb(102, 214, 252);
+}
+
+#song-content h1 {
+    color:rgb(102, 214, 252);
+}
+
+/*original*/
+#blue-clapper {
+    background: url(../../../../assets/Individuals/lamy/original/blue-clapper.jpg);
+}
+
+/*cover*/
+#blessing {
+    background: url(../../../../assets/Individuals/lamy/cover/blessing.jpg);
+}
+
+#kaibutsu-san {
+    background: url(../../../../assets/Individuals/lamy/cover/kaibutsu-san.jpg);
+}
+
+#mr-music {
+    background: url(../../../../assets/Individuals/lamy/cover/mr.music.jpg);
+}
+
+#suki-yuki {
+    background: url(../../../../assets/Individuals/lamy/cover/suki-yuki-maji-magic.jpg);
+}
+
+#welcome-to-japari-park {
+    background: url(../../../../assets/Individuals/lamy/cover/welcome-to-japari-park.jpg);
+}

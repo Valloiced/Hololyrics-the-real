@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(180deg, #5C4033, #964B00);
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 10px brown;
+}
+
+#banner {
+    border: 1px solid #5C4033;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px #964B00;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: #5C4033;
+}
+
+#line {
+    background-color: brown;
+}
+
+#line2 {
+    background-color: brown;
+    opacity: 0.5;
+    box-shadow: 0.2rem 0.1rem 5px #964B00;
+}
+
+#song-content h1 {
+    color: #964B00;
+}
+
+/*original*/
+#saikyo {
+    background: url(../../../../assets/Individuals/korone/original/saikyo-tensai-wonderful-world-of-korone.png);
+    font-size: 1.5vw;
+}
+
+/*cover*/
+#hello-hello {
+    background: url(../../../../assets/Individuals/korone/cover/hello-hello-nyariansu-ondo.jpg);
+}
+
+#hyadain {
+    background: url(../../../../assets/Individuals/korone/cover/hyadains-amazing-friendship.jpg);
+    font-size: 1.5vw;
+}
+
+#love-trial {
+    background: url(../../../../assets/Individuals/korone/cover/love-trial.jpg);
+}
+
+#jingel-bells {
+    background: url(../../../../assets/Individuals/korone/cover/jingel-bells.jpg);
+}
+
+#sweet-magic {
+    background: url(../../../../assets/Individuals/korone/cover/sweet-magic.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/korone/cover/monster.jpg);
+}

@@ -1,0 +1,102 @@
+body{
+    background: linear-gradient(180deg, #801100, #D73502);
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 10px #f52403;
+}
+
+#banner {
+    border: 1px solid #D73502;
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px #801100;
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:#D73502;
+}
+
+#line {
+    background-color: #D73502;
+}
+
+#line2 {
+    background-color: #c22007;
+    box-shadow: 0.2rem 0.1rem 5px #D73502;
+    opacity: 0.5;
+}
+
+#song-content h1 {
+    color:#ac2b17;
+}
+
+/*original*/
+#dreaming-days {
+    background: url(../../../../assets/Individuals/ayame/original/dreaming-days.jpg);
+}
+
+#hyakka-ryuki {
+    background: url(../../../../assets/Individuals/ayame/original/hyakka-ryuki-hanafubuki.jpg);
+}
+
+#yoinoyoyoi {
+    background: url(../../../../assets/Individuals/ayame/original/yoinoyoyoi.png);
+}
+
+#shiny-smily-story {
+    background: url(../../../../assets/Individuals/ayame/original/shiny-smily-story.jpg);
+}
+
+#suspect {
+    background: url(../../../../assets/Individuals/ayame/original/suspect.jpg);
+}
+
+/*cover*/
+
+#hana-ni-bourei {
+    background: url(../../../../assets/Individuals/ayame/cover/hana-ni-bourei.jpg);
+}
+
+#king {
+    background: url(../../../../assets/Individuals/ayame/cover/king.jpg);
+}
+
+#goodbye-declaration {
+    background: url(../../../../assets/Individuals/ayame/cover/goodbye-declaration.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/ayame/cover/ochame-kinou.jpg);
+}
+
+#ai-kotoba-iii {
+    background: url(../../../../assets/Individuals/ayame/cover/ai-kotoba-iii.jpg);
+}
+
+#kaishin {
+    background: url(../../../../assets/Individuals/ayame/cover/kaishin-no-ichikagi.jpg);
+}
+
+#death {
+    background: url(../../../../assets/Individuals/ayame/cover/death-should-not-have-taken-thee!.jpg);
+    font-size: 1.5vw;
+}
+
+#futari {
+    background: url(../../../../assets/Individuals/ayame/cover/futari-boshi.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/ayame/cover/monster.jpg);
+}
+
+#crazy-night {
+    background: url(../../../../assets/Individuals/ayame/cover/crazy-night.jpg);
+}
+
+#shoujo-rei {
+    background: url(../../../../assets/Individuals/ayame/cover/shoujo-rei.jpg);
+}

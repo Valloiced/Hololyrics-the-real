@@ -1,0 +1,93 @@
+body{
+    background: linear-gradient(180deg, #FFB65D, rgb(245, 182, 177));
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(255, 232, 230);
+}
+
+#banner {
+    border: 1px solid rgb(245, 182, 177);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(245, 182, 177);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    background: linear-gradient(0deg, rgb(245, 182, 177), #FFB65D);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#line {
+    background-color:rgb(245, 182, 177);
+}
+
+#line2 {
+    background-color:rgba(245, 181, 177, 0.486);
+    box-shadow: 0.2rem 0.1rem 8px #FFB65D;
+}
+
+#song-content h1 {
+    background: linear-gradient(0deg, rgb(245, 182, 177), #FFB65D);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*original*/
+#nenenenenenenene {
+    background: url(../../../../assets/Individuals/nene/original/nenenenenenenene-daibakusou.png);
+    font-size: 1.5vw;
+}
+
+#lunch-with-me {
+    background: url(../../../../assets/Individuals/nene/original/lunch-with-me.png);
+}
+
+#momone {
+    background: url(../../../../assets/Individuals/nene/original/momonone.png);
+}
+
+#blue-clapper {
+    background: url(../../../../assets/Individuals/nene/original/blue-clapper.jpg);
+}
+
+#surprise-paradise {
+    background: url(../../../../assets/Individuals/nene/original/surprise-paradise.png);
+}
+
+/*cover*/
+#ai-dee {
+    background: url(../../../../assets/Individuals/nene/cover/ai-dee.jpg);
+}
+
+#blessing {
+    background: url(../../../../assets/Individuals/nene/cover/blessing.jpg);
+}
+
+#goodbye-declaration {
+    background: url(../../../../assets/Individuals/nene/cover/goodbye-declaration.jpg);
+}
+
+#mr-music {
+    background: url(../../../../assets/Individuals/nene/cover/mr.music.jpg);
+}
+
+#my-dearest {
+    background: url(../../../../assets/Individuals/nene/cover/my-dearest.jpg);
+}
+
+#usseewa {
+    background: url(../../../../assets/Individuals/nene/cover/usseewa.jpg);
+}
+
+#watashi-idol-sengen {
+    background: url(../../../../assets/Individuals/nene/cover/watashi-idol-sengen.jpg);
+}
+
+#welcome-to-japari-park {
+    background: url(../../../../assets/Individuals/nene/cover/welcome-to-japari-park.jpg);
+}
+

@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(180deg,rgb(240, 145, 227) ,rgb(247, 193, 239) );
+}
+
+#container {
+    box-shadow: 0.2rem 0.1rem 5px rgb(243, 112, 223);
+}
+
+#banner {
+    border: 1px solid rgb(247, 193, 239);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(247, 193, 239);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color:rgb(240, 145, 227);
+}
+
+#line {
+    background-color:rgb(247, 193, 239);
+}
+
+#line2 {
+    background-color: rgb(245, 166, 234);
+    box-shadow: 0.2rem 0.1rem 5px rgb(247, 193, 239);
+}
+
+#song-content h1 {
+    color:rgb(240, 145, 227);
+}
+
+
+/*original*/
+#kiseki-knot {
+    background: url(../../../../assets/Individuals/luna/original/kiseki\ knot.jpg);
+}
+
+/*cover*/
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/luna/cover/ochame-kinou.jpg);
+}
+
+#sweets-parade {
+    background: url(../../../../assets/Individuals/luna/cover/sweets-parade.jpg);
+}
+
+#crazy-party-night {
+    background: url(../../../../assets/Individuals/luna/cover/crazy-party-night.jpg);
+}

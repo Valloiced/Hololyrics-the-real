@@ -1,0 +1,133 @@
+body{
+    background: linear-gradient(180deg, rgb(238, 195, 255), rgb(248, 134, 248));
+}
+
+#container {
+    box-shadow: 0.4rem 0.1rem 10px rgb(238, 85, 238);
+}
+
+#banner {
+    border: 1px solid rgb(243, 93, 243);
+}
+
+#pf img {
+    box-shadow: 0.2rem 0.1rem 5px rgb(236, 132, 236);
+}
+
+#pf h1 {
+    font-size: 1.7vw;
+    color: rgb(238, 195, 255);
+}
+
+#line {
+    background-color: rgba(248, 197, 248, 0.7);
+}
+
+#line2 {
+    background-color: rgba(248, 197, 248, 0.7);
+    box-shadow: 0.2rem 0.1rem 3px rgb(255, 162, 255);
+}
+
+#song-content h1 {
+    color:rgb(235, 94, 235);
+}
+
+/*original*/
+#mogu-mogu-yummy {
+    background: url(../../../../assets/Individuals/okayu/original/mogu-mogu-yummy.png);
+}
+
+/*cover*/
+#callboy {
+    background: url(../../../../assets/Individuals/okayu/cover/callboy.jpg);
+}
+
+#cat-eye {
+    background: url(../../../../assets/Individuals/okayu/cover/cat-eye-make.jpg);
+}
+
+#flos {
+    background: url(../../../../assets/Individuals/okayu/cover/flos.jpg);
+}
+
+#fuwa-fuwa-time {
+    background: url(../../../../assets/Individuals/okayu/cover/fuwa-fuwa-time.jpg);
+}
+
+#gehenna {
+    background: url(../../../../assets/Individuals/okayu/cover/gehenna.jpg);
+}
+
+#humurous-dream {
+    background: url(../../../../assets/Individuals/okayu/cover/humurous-dream-of-mrs-pumpkin.jpg);
+    font-size: 1.5vw;
+}
+
+#hyadains {
+    background: url(../../../../assets/Individuals/okayu/cover/hyadains-amazing-friendship.jpg);
+    font-size: 1.5vw;
+}
+
+#kyuuto-na-kanojo {
+    background: url(../../../../assets/Individuals/okayu/cover/kyuuto-na-kanojo.jpg);
+}
+
+#monster {
+    background: url(../../../../assets/Individuals/okayu/cover/monster.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/okayu/cover/ochame-kinou.jpg);
+}
+
+#otome-kaibou {
+    background: url(../../../../assets/Individuals/okayu/cover/otome-kaibou.jpg);
+}
+
+#otona-no-ikite {
+    background: url(../../../../assets/Individuals/okayu/cover/otona-no-ikite.jpg);
+}
+
+#p-h {
+    background: url(../../../../assets/Individuals/okayu/cover/p-h.jpg);
+}
+
+#suki-kirai {
+    background: url(../../../../assets/Individuals/okayu/cover/suki-kirai.jpg);
+}
+
+#shitsuraku {
+    background: url(../../../../assets/Individuals/okayu/cover/shitsuraku-petri.jpg);
+}
+
+#the-religion {
+    background: url(../../../../assets/Individuals/okayu/cover/the\ religion\ of\ loneliness.jpg);
+}
+
+#turing-love {
+    background: url(../../../../assets/Individuals/okayu/cover/turing-love.jpg);
+}
+
+#umiyuri {
+    background: url(../../../../assets/Individuals/okayu/cover/umiyuri-kaiteitan.jpg);
+}
+
+#wakusei-loop {
+    background: url(../../../../assets/Individuals/okayu/cover/wakusei-loop.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
