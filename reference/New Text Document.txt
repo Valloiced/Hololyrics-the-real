@@ -13,6 +13,12 @@ Talents Page:
 
 Lyrics Page:
 -lyrics of course
+-a lyrics page must contain the video song(we will use youtube here) that
+autoplays when the user are directed to the page
+-below the video is the details about the song(Title, cover or orig, romanji, eng,kanji name, composers and singer)
+-a scrollable lyrics body to avoid user to scroll back in the top
+-the functionality of the lyrics body for accessability based on the user's
+preference(only applied in one site and back to default when user go back to other page)
 
 easter eggs?
 -lemme consider it
