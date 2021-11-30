@@ -1,5 +1,5 @@
 const sub = [".kanji", ".eng", ".roman"]
-const addClass = ["kanji", "english", "roman"]
+const addClass = ["kanji", "eng", "roman"]
 const font = ["left", "center"]
 
 $(document).ready(function(){
@@ -16,7 +16,7 @@ $(document).ready(function(){
         }
         else {
             let hent = addClass[i]
-           $("#lyrics").append("<p class="+hent+">There is no translation to this language</p>")
+           $("#lyrics").append("<p class="+hent+">There is no translation to this language yet</p>")
         }
     }
 })
@@ -25,7 +25,6 @@ $(document).ready(function(){
 $("#lang").change(function(){
     for(let i = 0; i < sub.length; i++){
         $(sub[i]).hide()
-        $("#extra").hide();
     }
     $(sub[this.value]).show()
 })
@@ -47,10 +46,10 @@ function lessFont() {
 //short animation
 let tl = gsap.timeline({
     scrollTrigger: {
-        trigger: "#vid",
+        trigger: "#video",
         start: "0%",
         end: "50%",
-        scrub: true
+        scrub: true,
     }
 })
 

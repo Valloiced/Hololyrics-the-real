@@ -71,8 +71,16 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/cry\ baby.jpg);
 }
 
+#ema-ema {
+    background: url(../../../../assets/Individuals/suisei/cover/ema-ema.jpg);
+}
+
 #getcha {
     background: url(../../../../assets/Individuals/suisei/cover/getcha.jpg);
+}
+
+#hanamuke-no-tori {
+    background: url(../../../../assets/Individuals/suisei/cover/hanamuke-no-tori.png);
 }
 
 #hikaru-nara {
@@ -105,6 +113,10 @@ body{
 
 #shoujo-rei {
     background: url(../../../../assets/Individuals/suisei/cover/shoujo-rei.jpg);
+}
+
+#the-last-frontier {
+    background: url(../../../../assets/Individuals/suisei/cover/the-last-frontier.jpg); 
 }
 
 #tsukiakari {

@@ -1,55 +1,384 @@
-#navgen0 {
+#dropdown-content {
+    display: block;
+    position: relative;
+    min-width: 10vw;
+    height: auto;
+}
+
+#dropdown-content li, button {
+    display: flex;
+    width: auto;
+    height: 10vh;
+    align-items: center;
+    text-align: center;
+}
+
+/*To dropdown the generations*/
+#dropdown-content li {
+    display: none;
+    flex-direction: row;
+    color: white;
+    font-size: 1.5vw;
+    transition: transform 250ms ease;
+}
+
+/*The title inside the li tags*/
+#dropdown-content p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 13vw;
+    background-color: rgba(0, 0, 0, 0.062);
+    box-shadow: var(--shadow);
+    transition: transform 250ms ease;
+}
+
+/*To dropdown the one part of generation hovered*/
+#dropdown-content li ul {
+    display: none;
+    margin-left: 1vw;
+}
+
+/*The attributes of the single talents*/
+#dropdown-content li ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.1vw;
+    width: 13vw;
+    transition: transform 250ms ease;
+    border: 1px solid #FFF;
+}
+
+/*Title that is being hovered*/
+.hoverdrop {
+    display: flex;
+    justify-content: center;
+    width: 13vw;
+    margin-bottom: 1rem;
+    margin-left: 0vw;
+    background-color: white;
+    color: silver;
+    font-size: 1.5vw;
+    border: none;
+    transition: font-size 500ms ease;
+}
+
+/*hover*/
+nav:hover #dropdown-content li{
+    display: flex;
+    cursor: pointer;
+}
+
+#dropdown-content li:hover ul {
+    display: flex;
+}
+
+#dropdown-content li:hover {
+    border-left: 3px solid white;
+    transform:translateX(1rem);
+    font-size: 1.8vw;
+}
+
+nav:hover .hoverdrop {
+    border-radius: 20px;
+    font-size: 1.8vw;
+    color: black;
+    border-bottom: 3px solid lightblue;
+}
+
+#subgen0 {
     background: url(../../assets/Individuals/navbg/gen0.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 }
 
-#navgen1 {
+#subgen1 {
     background: url(../../assets/Individuals/navbg/gen1.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 }
 
-#navgen2 {
+#subgen2 {
     background: url(../../assets/Individuals/navbg/gen2.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 }
 
-#navgaymers {
+#subhologamers {
     background: url(../../assets/Individuals/navbg/gamers.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 }
-#navgen3 {
+
+#subgen3 {
     background: url(../../assets/Individuals/navbg/gen3.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 }
 
-#navgen4 {
+#subgen4 {
     background: url(../../assets/Individuals/navbg/gen4.jpg);
-    background-size:cover;
-    background-color: rgba(43,54,66,0.4);
-    background-blend-mode: overlay;
-    background-position: center;
 
 }
 
-#navgen5 {
+#subgen5 {
     background: url(../../assets/Individuals/navbg/gen5.jpg);
+}
+
+#dropdown-content p {
     background-size:cover;
     background-color: rgba(43,54,66,0.4);
     background-blend-mode: overlay;
     background-position: center;
+}
+
+/*background*/
+
+/*gen 0 */
+#sora {
+    background: url(../../assets/MainPageAssets/Talents/goddess.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#robo {
+    background: url(../../assets/MainPageAssets/Talents/robocco.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#miko {
+    background: url(../../assets/MainPageAssets/Talents/mikodayo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#suisei {
+    background: url(../../assets/MainPageAssets/Talents/yesmahqueen.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#azki {
+    background: url(../../assets/MainPageAssets/Talents/AZKi.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen1*/
+
+#mel{
+    background: url(../../assets/MainPageAssets/Talents/mel.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#fubuki{
+    background: url(../../assets/MainPageAssets/Talents/friend.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#matsuri{
+    background: url(../../assets/MainPageAssets/Talents/god.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#aki{
+    background: url(../../assets/MainPageAssets/Talents/aki.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#haachama{
+    background: url(../../assets/MainPageAssets/Talents/haachama-chama.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen2*/
+
+#aqua {
+    background: url(../../assets/MainPageAssets/Talents/onion.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#shion {
+    background: url(../../assets/MainPageAssets/Talents/garlic.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#ayame {
+    background: url(../../assets/MainPageAssets/Talents/yodayo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#choco {
+    background: url(../../assets/MainPageAssets/Talents/araara.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#subaru {
+    background: url(../../assets/MainPageAssets/Talents/duck.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*hololive gaymers*/
+
+#mio {
+    background: url(../../assets/MainPageAssets/Talents/mama.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#okayu {
+    background: url(../../assets/MainPageAssets/Talents/onigiri.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#korone {
+    background: url(../../assets/MainPageAssets/Talents/cutedoggo.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+/*gen3*/
+
+#pekora {
+    background: url(../../assets/MainPageAssets/Talents/pekopeko.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#rushia {
+    background: url(../../assets/MainPageAssets/Talents/not-a-pettan.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#flare {
+    background: url(../../assets/MainPageAssets/Talents/fulare.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#noel {
+    background: url(../../assets/MainPageAssets/Talents/danchou.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;
+}
+
+#marine {
+    background: url(../../assets/MainPageAssets/Talents/SelfAssumed17YearsOld.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+/*gen4*/
+#kanata {
+    background: url(../../assets/MainPageAssets/Talents/gorilla.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#watame {
+    background: url(../../assets/MainPageAssets/Talents/watamelon.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#towa {
+    background: url(../../assets/MainPageAssets/Talents/towa\ tenshi.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#luna {
+    background: url(../../assets/MainPageAssets/Talents/baby.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#coco {
+    background: url(../../assets/MainPageAssets/Talents/yakuza.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+/*gen5*/
+
+#lamy {
+    background: url(../../assets/MainPageAssets/Talents/lamyy.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#nene {
+    background: url(../../assets/MainPageAssets/Talents/seal.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#botan {
+    background: url(../../assets/MainPageAssets/Talents/fps-queen.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#polka {
+    background: url(../../assets/MainPageAssets/Talents/circus.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#aloe {
+    background: url(../../assets/MainPageAssets/Talents/Press\ F.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+
+#dropdown-content li ul li {
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+#dropdown-content li ul li:hover {
+    background-blend-mode: normal;
+    color: pink;
+    border: 1px solid rgb(19, 157, 175);
+    transform: scale(1.3);
+    box-shadow: var(--shadow);
 }

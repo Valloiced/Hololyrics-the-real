@@ -1,13 +1,2338 @@
+/*I took a lot of time just for this, damn I hate myself*/
+/*This is too time-consuming, took me 1 week*/
 #container {
     background-color: rgba(255, 255, 255, 0.822);
 }
 
-#ghost {
-    background: url(../../assets/Individuals/suisei/original/ghost.jpg);
+#adamas-shion{ 
+    background: url(../../assets/Individuals/shion/cover/adamas.jpg);
+} 
+
+#additional-memory-kanata{ 
+    background: url(../../assets/Individuals/kanata/cover/additional-memory.jpg);
 }
 
-#ghost {
+#adrenaline-subaru{ 
+    background: url(../../assets/Individuals/subaru/cover/adrenaline!!!.jpg);
+}
+
+#agape-azki{ 
+    background: url(../../assets/Individuals/);
+}
+
+#agony-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ahoy-marine{ 
+    background: url(../../assets/Individuals/marine/original/ahoy.jpg);
+} 
+
+#ai-dee-nene{ 
+    background: url(../../assets/Individuals/nene/cover/ai-dee.jpg);
+} 
+
+#ai-kotoba-iii-ayame{ 
+    background: url(../../assets/Individuals/ayame/cover/ai-kotoba-iii.jpg);
+} 
+
+#ai-kotoba-iii-flare{ 
+    background: url(../../assets/Individuals/flare/cover/ai-kotoba-iii.jpg);
+} 
+
+#ai-kotoba-iii-matsuri{ 
+    background: url(../../assets/Individuals/matsuri/cover/ai-kotoba-iii.jpg);
+} 
+
+#ai-kotoba-iii-miko{ 
+    background: url(../../assets/Individuals/sakura/cover/ai-kotoba-iii.jpg);
+} 
+
+#ai-kotoba-mel{ 
+    background: url(../../assets/Individuals/mel/cover/ai-kotoba.jpg);
+} 
+
+#ai-kotoba-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ai-mai-chocolate-watame{ 
+    background: url(../../assets/Individuals/watame/original/ai-mai-chocolate.jpg);
+} 
+
+#akanbe-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#akutsuki-no-kuruma-azki-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#alice-in-ny{ 
+    background: url(../../assets/Individuals/suisei/cover/alice\ in\ ny.jpg);
+}
+
+#alien-alien-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#amarylls-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#angel-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#angelfish-suisei-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#aoi-yume-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#aquairo-palette-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#asagao-no-uta-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#asuiro-clearsky{ 
+    background: url(../../assets/Individuals/aqua/original/asuiro-clearsky.png);
+} 
+
+#autophagy-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#baby-i-love-you-robo{
+    background: url(../../assets/Individuals);
+} 
+
+#bakushou-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#bitter-choco-decoration-fubuki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#black-shout{ 
+    background: url(../../assets/Individuals);
+} 
+
+#blessing{ 
+    background: url(../../assets/Individuals/subaru/cover/blessing.jpg);
+} 
+
+#blessing-gen5{ 
+    background: url(../../assets/Individuals/lamy/cover/blessing.jpg);
+} 
+
+#bloody-stream-marine{ 
+    background: url(../../assets/Individuals);
+} 
+
+#blue-clapper{ 
+    background: url(../../assets/Individuals/polka/original/blue-clapper.jpg);
+} 
+
+#blue-rose-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/bluerose.jpg);
+} 
+
+#bocca-della-verita-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#bocca-della-verita-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#boku-wo-yume-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#boys-and-girls-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#brilliant-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#bubble-love-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#byoushin-wo-kamu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#callboy-okayu-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#candy-go-round{ 
+    background: url(../../assets/Individuals/aqua/original/candy-go-round.jpg);
+} 
+
+#cat-eye-make-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cendrillon-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cherry-bomb{ 
+    background: url(../../assets/Individuals);
+} 
+
+#chew-the-night-sky-mel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#chikatto-chikka-chikka-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#chisana-kokoro-ga-kimeta-koto-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#choco-love-choco{ 
+    background: url(../../assets/Individuals);
+} 
+
+#chocolate-box-kanata-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#chocolate-box-matsuri-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#christmas-song-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cinderella-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cinderella-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cinderella-pekora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cinderella-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cloudy-sheep-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#collage-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#colorful-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#comet-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/comet.jpg);
+} 
+
+#compared-child-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#country-road-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#crazy-b-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/crazy\ b.jpg);
+} 
+
+#crazy-night{ 
+    background: url(../../assets/Individuals/rushia/cover/crazy-night.jpg);
+} 
+
+#crazy-party-night{ 
+    background: url(../../assets/Individuals);
+} 
+
+#creating-world-2020ver-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#creating-world-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#cry-baby-suisei {
+    background: url(../../assets/Individuals/suisei/cover/cry\ baby.jpg);
+}
+
+#dadada-tenshi-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#daddy-daddy-do-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#daily-diary{ 
+    background: url(../../assets/Individuals/marine/original/daily-diary.jpg);
+} 
+
+#dance-robot-dance-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#daze-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#death-should-not-have-taken-thee{ 
+    background: url(../../assets/Individuals/ayame/cover/death-should-not-have-taken-thee!.jpg);
+} 
+
+#delusion-tax-choco{ 
+    background: url(../../assets/Individuals);
+} 
+
+#diamond-crevasse-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#discommunication-alien-mel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#discommunication-alien-pekora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#discommunication-alien-rushia{
+    background: url(../../assets/Individuals);
+} 
+
+#do-my-best-subaru{ 
+    background: url(../../assets/Individuals);
+} 
+
+#domination-all-the-world-is-an-ocean{ 
+    background: url(../../assets/Individuals/aqua/original/domination.jpg);
+} 
+
+#dont-say-lazy-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#donut-hole-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#dream-story-sora{
+     background: url(../../assets/Individuals);
+} 
+
+#dreaming-days{ 
+    background: url(../../assets/Individuals/pekora/original/dreaming-days.jpg);
+} 
+
+#drop-pop-candy-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#dyed-in-your-color{ 
+    background: url(../../assets/Individuals/sakura/cover/dyed-in-your-color.jpg);
+} 
+
+#echo-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ema-ema-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ema-ema-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ema-ema-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/ema-ema.jpg);
+} 
+
+#envy-baby{ 
+    background: url(../../assets/Individuals);
+} 
+
+#envy-baby-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#error-azki{
+    background: url(../../assets/Individuals);
+} 
+
+#error-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#eternity-bright-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ever-blue-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#everlasting-soul-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fake-fake-fake-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+#fansa-coco{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fansa-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fansa-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fansa-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#felicia-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fiction-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#flos-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fly-me-to-the-star-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#for-the-win-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#from-a-to-z-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#front-memory-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#frontier-locus-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#futariboshi-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#fuwa-fuwa-time-okayu{
+    background: url(../../assets/Individuals);
+} 
+
+#fuyu-biyori-fubuki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#gehenna-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#geki-teikokukagekidan-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#getcha{ 
+    background: url(../../assets/Individuals/suisei/cover/getcha.jpg);
+} 
+
+#getsuyoubi-no-yuutsu-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#getsuyoubi-no-yuuutsu-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ghost-rule-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ghost-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/ghost.jpg);
+} 
+
+#gimme-gimme-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#gimme-gimme-chocolate{ 
+    background: url(../../assets/Individuals);
+} 
+
+#gimme-gimme-saiko-star{ 
+    background: url(../../assets/Individuals/marine/original/gimme\ gimmi.jpg);
+} 
+
+#good-morning-song-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#goodbye-declaration-aqua{ 
+    background: url(../../assets/Individuals);
+}
+
+#goodbye-declaration-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#goodbye-declaration-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#goodbye-declaration-nene{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hacha-mecha{ 
+    background: url(../../assets/Individuals/pekora/original/hacha\ mecha.jpg);
+} 
+
+#hakko-tai-sorasaikuru-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hakujitsu-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hakujitsu-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hana-ni-bourei-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hana-ni-bourei-rushia{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hanamuke-no-tori-sora-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/hanamuke-no-tori.png);
+} 
+
+#happy-birthday-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#happy-haloween-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#heart-beat-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#heart-thermography-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hearts-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hello-hello-nyariansu-ondo-korone{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hello-how-are-you-watame{ 
+    background: url(../../assets/Individuals);
+}
+
+#her-trail-in-the-celestial-sphere-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/tenkyu.jpg);
+} 
+
+#heroic-heroine-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#heroine-audition-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#heroine-ikusei-keikaku-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hi-hi-high-tension-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hibana-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hibana-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hikari-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hikari-no-machi-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hikari-no-mokue-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hikaru-nara-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/hikaru\ nara.jpg);
+} 
+
+#hokori-takaki-idol-polka{ 
+    background: url(../../assets/Individuals);
+}
+
+#holidays-watame{ 
+    background: url(../../assets/Individuals);
+}
+
+#hologram-circus{ 
+    background: url(../../assets/Individuals);
+} 
+
+#homenobi-noel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hot-limit-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#howling-mio{ 
+    background: url(../../assets/Individuals);
+} 
+
+#humorous-dream-of-mrs-pumpkin{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hurray-hurray-love-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#hyadains-amazing-friendship{
+    background: url(../../assets/Individuals);
+} 
+
+#hyakka-ryouran-hanafubuki{ 
+    background: url(../../assets/Individuals/fubuki/original/hyakka-ryuki-hanafubuki.jpg);
+} 
+
+#hyakkisai-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#i-can-not-control-myself-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#i-love-you-so-much-i-think-im-gonna-cry-sora{ 
+    background: url(../../assets/Individuals);
+}
+
+#ievan-polkka-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#image-source-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#in-this-world-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#indoor-kei-nara-trackmaker-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#infinity-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#inochi-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#inochi-ni-kirawarate-iru-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#instant-heaven-polka{  
+    background: url(../../assets/Individuals);
+} 
+
+#intersection-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#iris-rushia{ 
+    background: url(../../assets/Individuals);
+} 
+
+#jealousies-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#jibunkatte-dazzling-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/Dazzling.jpg);
+} 
+
+#jingle-bells{ 
+    background: url(../../assets/Individuals);
+} 
+
+#just-a-sunny-day-for-you-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#just-be-friends-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kabutomushi-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kaede-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kagetsu-no-yame-miko{ 
+    background: url(../../assets/Individuals/sakura/original/kagetsu-no-yame.jpg);
+} 
+
+#kaibutsu-san-polka-lamy{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kaibutsu-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kaikai-kitan-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kaishin-no-ichigeki-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kaisou-ressha-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kakero-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/Kakero.jpg);
+} 
+
+#karakuri-pierrot-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kataomi-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kimagure-mercy-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kimagure-romantic-sora{ 
+    background: url(../../assets/Individuals);
+}
+
+#kimi-no-shirinai-monogatari-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kimi-wa-boku-ni-niteiru-sora-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kimono-yuku-hosomichi-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/King.jpg);
+} 
+
+#king-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#king-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kirameki-rider{ 
+    background: url(../../assets/Individuals/aqua/original/kirameki-rider.jpg);
+} 
+
+#kiseki-knot{ 
+    background: url(../../assets/Individuals/coco/original/kiseki\ knot.jpg);
+} 
+
+#koi-no-mahou-subaru{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kokoronashi-matsuri{ 
+    background: url(../../assets/Individuals);
+}
+
+#konomedokino-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kotobakaze-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kotonoha-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kotonoha-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#koyoi-wa-haloween{
+    background: url(../../assets/Individuals/choco/original/koyoi-wa-haloween-night.jpg);
+} 
+
+#kurenai-kurunikuru-sora-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+#kurogane-no-mamoribito-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kuroi-hitsuji-azki-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kuroi-hitsuji-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kyokan-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#kyuuto-no-kanojo-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#lion-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#lioness-pride-botan{ 
+    background: url(../../assets/Individuals);
+} 
+
+#loser-girl-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#loser-girl-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#love-letter-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#love-trial-korone{ 
+    background: url(../../assets/Individuals);
+} 
+
+#love-trial-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#loves-delivery-service-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+#lunch-with-me{ 
+     background: url(../../assets/Individuals);
+} 
+
+#mage-of-violet-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#magia-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#magnet-rushia-marine{ 
+    background: url(../../assets/Individuals);
+} 
+
+#marigold-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#marigold-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#matsuri-has-arrived-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mayday-mayday-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#melancholic-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#melody-for-you-watame{ 
+    background: url(../../assets/Individuals);
+}
+
+#melty-land-nightmare-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#melty-land-nightmare-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/melty\ nightmare.jpg);
+}
+
+#menhara-janai-mon{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mental-chainsaw-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#midnight-song-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mikochi-has-arrived-miko{ 
+    background: url(../../assets/Individuals/sakura/cover/mikochi-has-arrived.jpg);
+} 
+
+#miracle-step-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mitsuba-no-musubime-azki-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#moffumoffu-de-yoi-no-ja-yo-fubuki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mogu-mogu-yummy-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#momonone{ 
+    background: url(../../assets/Individuals);
+} 
+
+#monster{ 
+    background: url(../../assets/Individuals/fubuki/cover/monster.jpg);
+} 
+
+#monster-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mousou-kanshou-daishou-renmei-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#mr-music{
+    background: url(../../assets/Individuals/polka/cover/mr.music.jpg);
+} 
+
+#my-dearest-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#my-dearest-nene{ 
+    background: url(../../assets/Individuals);
+} 
+
+#naisho-no-hanashi{ 
+    background: url(../../assets/Individuals);
+} 
+
+#name-prisoner-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#nanawari-enemy-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+#natsu-matsuri-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#natsuiro-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#nekonaraba-ikeru-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#nenenenenenenene-daibakuso{ 
+    background: url(../../assets/Individuals);
+} 
+
+#next-color-planet-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/next\ color\ planet.jpg);
+} 
+
+#next-wednesday-robo{ 
+    background: url(../../assets/Individuals);
+}
+
+#niji-o-kakunekete-azki{
+    background: url(../../assets/Individuals);
+} 
+
+#ningendatta-azki{ 
+    background: url(../../assets/Individuals);
+} 
+ 
+#nonbirito-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#nyannyanteki-uchuurun-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ochame-kinou{
+    background: url(../../assets/Individuals);
+}
+
+#ochame-kinou-aki{ 
+    background: url(../../assets/Individuals/aki/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-aqua{ 
+    background: url(../../assets/Individuals/aqua/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-ayame{ 
+    background: url(../../assets/Individuals/ayame/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ochame-kinou-choco{   
+    background: url(../../assets/Individuals/choco/cover/ochame-kinou.jpg);
+}
+
+#ochame-kinou-kanata{ 
+    background: url(../../assets/Individuals/kanata/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-luna{ 
+    background: url(../../assets/Individuals/luna/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-marine{ 
+    background: url(../../assets/Individuals/marine/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-matsuri{ 
+    background: url(../../assets/Individuals/matsuri/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-mel{ 
+    background: url(../../assets/Individuals/mel/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-miko{ 
+    background: url(../../assets/Individuals/sakura/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-mio{ 
+    background: url(../../assets/Individuals/mio/cover/ochame\ kinou.jpg);
+} 
+
+#ochame-kinou-okayu{ 
+    background: url(../../assets/Individuals/okayu/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-pekora{ 
+    background: url(../../assets/Individuals/pekora/cover/ochame\ kinou.jpg);
+} 
+
+#ochame-kinou-rushia{ 
+    background: url(../../assets/Individuals/rushia/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-shion{ 
+    background: url(../../assets/Individuals/shion/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-sora{ 
+    background: url(../../assets/Individuals/);
+} 
+
+#ochame-kinou-subaru{ 
+    background: url(../../assets/Individuals/subaru/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/ochame\ kinou.jpg);
+} 
+
+#ochame-kinou-towa{
+    background: url(../../assets/Individuals/towa/cover/ochame-kinou.jpg);
+} 
+
+#ochame-kinou-watame{ 
+    background: url(../../assets/Individuals/watame/cover/ochame-kinou.jpg);
+} 
+
+#ode-to-an-eternal-future-watame{ 
+    background: url(../../assets/Individuals);
+}
+
+#odo-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ojomajo-carnival-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#okachame-sensou-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#one-room-sugar-room-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#onegai-darling-matsuri{ 
+    background: url(../../assets/Individuals);
+}
+
+#only-my-railgun-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ooooo-choco{ 
+    background: url(../../assets/Individuals);
+} 
+
+#orange-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#otome-kaibou-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#otome-kaibou-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#otona-no-ikite-mio-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ottome-dissection-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#outsider-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#p-h-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#palette-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#pastel-team-time{ 
+    background: url(../../assets/Individuals);
+} 
+
+#pekomiko{ 
+    background: url(../../assets/Individuals/pekora/original/pekomiko.jpg);
+} 
+
+#pekorandombrain-pekora{
+    background: url(../../assets/Individuals);
+} 
+
+#pekorap-pekora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#petal-dance-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#phony-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#platonic-girl-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#please-darling-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#pleiades-subaru{ 
+    background: url(../../assets/Individuals);
+} 
+
+#po{ 
+    background: url(../../assets/Individuals);
+} 
+
+#poppipo-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#preserved-roses-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#q-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+#rain-stops-goodbye-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#rainbow-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ranbou-no-melody-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/ranbou\ no\ melody.jpg);
+} 
+
+#real-melancholy-azki{
+    background: url(../../assets/Individuals);
+}
+
+#red-heart-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#reflection-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#remote-control-sora-robocco{ 
+    background: url(../../assets/Individuals);
+}
+
+#renai-circulation-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#rotate-repeated-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#saga-jihen{ 
+    background: url(../../assets/Individuals/suisei/cover/saga\ jihen\ ahhhhhhhhhh.jpg);
+} 
+
+#saikyo-tensai-wonderful-world-of-korone{ 
+    background: url(../../assets/Individuals);
+} 
+
+#saikyo-x-saijaku-girl-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sainai-jibun-ni-love-song-wo-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sakura-iro-high-tension-miko{ 
+    background: url(../../assets/Individuals/sakura/original/sakura-iro-high-tension.jpg);
+} 
+
+#sakura-skip-gen5{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sakurakaze-miko{ 
+    background: url(../../assets/Individuals/sakura/original/sakurakaze.jpg);
+} 
+
+#sashimio{ 
+    background: url(../../assets/Individuals);
+}
+
+#say-fanfare-fubuki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sayonara-hero-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sayonara-moratorium-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#secret-daybreak-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/secret\ daybreak.jpg);
+} 
+
+#seesaw-game-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#seishojou-ryouiki-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#seishoujo-ryouiki-sora-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sekai-wa-meguri-yagate-kimi-no-mono-ni-naru-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#senbonzakura-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#seventina-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shachiku-no-uta-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shallys-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shape-of-you-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shhhhhhh-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shijoshugi-adtruck{ 
+    background: url(../../assets/Individuals/matsuri/original/shijoshugi-adtruck.png);
+} 
+
+#shining-star-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shiny-smily-story{ 
+    background: url(../../assets/Individuals/aqua/original/shiny-smily-story.jpg);
+} 
+
+#shinzo-to-karakuri-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shit-days-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shitsuraku-petri-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shoujo-rei-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#shoujo-rei-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/shoujo-rei.jpg);
+} 
+
+#smile-and-go-flare{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sobakasu-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sona-ame-no-hi-niwa-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#song-from-the-beginning-towards-the-end-kanata{ 
+    background: url(../../assets/Individuals);
+}
+
+#song-of-sketch-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sorairo-days-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#soran-boshi-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sparkle-mio{ 
+    background: url(../../assets/Individuals);
+} 
+
+#stardust-song{ 
+    background: url(../../assets/Individuals);
+} 
+
+#starry-regrets-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#start-fubuki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#stellar-stellar-suisei{ 
+    background: url(../../assets/Individuals/suisei/original/stellar\ stellar.jpg);
+} 
+
+#step-and-go-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#suisei-honeymoon-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#suki-kirai-shion-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#suki-yuki-maji-magic-lamy{ 
+    background: url(../../assets/Individuals);
+} 
+
+#suki-yuki-maji-magic-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#summertime-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#superhero-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#surprise-paradise{ 
+    background: url(../../assets/Individuals/polka/original/surprise-paradise.png);
+} 
+
+#suspect{ 
+    background: url(../../assets/Individuals/ayame/original/suspect.jpg);
+} 
+
+#sweet-devil-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-devil-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-magic{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-magic-korone{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-magic-matsuri-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-magic-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweet-night-sweet-time-watame{ 
+    background: url(../../assets/Individuals);
+}
+
+#sweets-parade-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#sweets-parade-luna{ 
+    background: url(../../assets/Individuals);
+} 
+
+#tabako-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#taiyou-ni-nareru-ka-na-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#taiyou-shojou-subaru{ 
+    background: url(../../assets/Individuals);
+} 
+
+#taiyoukei-disco-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#take-me-to-heaven-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#thats-why-i-gave-up-on-music-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#thats-why-i-gave-up-on-music-flare{ 
+    background: url(../../assets/Individuals);
+}
+
+#the-boy-and-the-magic-robot-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-last-frontier-azki{ 
+    background: url(../../assets/Individuals/suisei/cover/the-last-frontier.jpg);
+} 
+
+#the-religion-of-loneliness{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-summer-flower-i-gaze-upon-with-you-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-mel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#the-vampire-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#thread-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#title-nante-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#tokusya-seizon-wonder-la-der{ 
+    background: url(../../assets/Individuals);
+} 
+
+#tokyo-sama-sora-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#tsukiakari-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/tsukiakara.jpg);
+} 
+
+#turing-love-aqua-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#turing-love-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#turing-love-pekomoona{ 
+    background: url(../../assets/Individuals);
+} 
+
+#turing-love-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#turing-love-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/turing\ love.jpg);
+} 
+
+#ubiqutious-db-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ugoku-ugoku-robo{ 
+    background: url(../../assets/Individuals);
+} 
+
+#uma-to-shika-kanata{ 
+    background: url(../../assets/Individuals);
+} 
+
+#umapyoi-densetsu{ 
+    background: url(../../assets/Individuals/marine/cover/umapyoi-densetsu.png);
+} 
+
+#umi-no-soko-kara-aki{ 
+    background: url(../../assets/Individuals);
+}
+
+#umiyuri-kaiteitan-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#under-cover-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#unison-marine{ 
+    background: url(../../assets/Individuals);
+} 
+
+#unmei-no-arika-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#usseewa-kanata-towa{ 
+    background: url(../../assets/Individuals);
+} 
+
+#usseewa-nene{ 
+    background: url(../../assets/Individuals);
+}
+
+#usseewa-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#valentine-kiss-gen1-3{ 
+    background: url(../../assets/Individuals/sakura/cover/valentine\ kiss.jpg);
+} 
+
+#valentine-kiss-yellow{ 
+    background: url(../../assets/Individuals);
+} 
+
+#venom-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#vermont-kiss{ 
+    background: url(../../assets/Individuals);
+} 
+
+#viator-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#viva-happy-mel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wakusei-loop-mel{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wakusei-loop-okayu{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wandering-days-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#watame-no-komoriuta{ 
+    background: url(../../assets/Individuals);
+} 
+
+#watashi-idol-sengen-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#watashi-idol-sengen-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#watashi-idol-sengen-nene{ 
+    background: url(../../assets/Individuals);
+} 
+
+#watashi-no-tenshi-matsuri{ 
+    background: url(../../assets/Individuals);
+} 
+
+#we-will-rock-you-haato{ 
+    background: url(../../assets/Individuals);
+} 
+
+#weather-hackers-coco{ 
+    background: url(../../assets/Individuals);
+} 
+
+#welcome-to-japari-park{ 
+    background: url(../../assets/Individuals/polka/cover/welcome-to-japari-park.jpg);
+}
+
+#why-or-why-not-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#will-botan{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wistful-record-aki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wistful-record-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#without-u-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#wonderland-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yamanaiame-azki{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yoi-no-yo-yoi-ayame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yokosou-sweet-carnival-aqua{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yoru-ni-kakeru-shion{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yoru-no-pierrot-polka{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yukitoki-miko{ 
+    background: url(../../assets/Individuals/sakura/cover/yukitoko.jpg);
+} 
+
+#yumemiru-asterisk-dreaming-ver-sora{ 
+    background: url(../../assets/Individuals);
+} 
+
+#yumemiru-sora{ 
+    background: url(../../assets/Individuals/fubuki/original/yumemiru\ sora\ e.jpg);
+} 
+
+#zenbu-anta-no-sei-suisei{ 
+    background: url(../../assets/Individuals/suisei/cover/zenbu\ anta\ no\ sei.jpg);
+} 
+
+#zero-no-ashiato-watame{ 
+    background: url(../../assets/Individuals);
+} 
+
+#ziko-allergies-azki{ 
+    background: url(../../assets/Individuals);
+}
+
+/*background settings for all*/
+#adamas-shion,
+#additional-memory-kanata,
+#adrenaline-subaru,
+#agape-azki,
+#agony-azki,
+#ahoy-marine,
+#ai-dee-nene,
+#ai-kotoba-iii-ayame,
+#ai-kotoba-iii-flare,
+#ai-kotoba-iii-matsuri,
+#ai-kotoba-iii-miko,
+#ai-kotoba-mel,
+#ai-kotoba-sora,
+#ai-mai-chocolate-watame,
+#akanbe-robo,
+#akutsuki-no-kuruma-azki-sora,
+#alice-in-ny,
+#alien-alien-sora,
+#amarylls-robo,
+#angel-sora,
+#angelfish-suisei-kanata,
+#aoi-yume-azki,
+#aquairo-palette-aqua,
+#asagao-no-uta-azki,
+#asuiro-clearsky,
+#autophagy-sora,
+#baby-i-love-you-robo,
+#bakushou-polka,
+#bitter-choco-decoration-fubuki,
+#black-shout,
+#blessing,
+#blessing-gen5,
+#bloody-stream-marine,
+#blue-clapper,
+#blue-rose-suisei,
+#bocca-della-verita-robo,
+#bocca-della-verita-towa,
+#boku-wo-yume-matsuri,
+#boys-and-girls-robo,
+#brilliant-towa,
+#bubble-love-watame,
+#byoushin-wo-kamu,
+#callboy-okayu-kanata,
+#candy-go-round,
+#cat-eye-make-okayu,
+#cendrillon-sora,
+#cherry-bomb,
+#chew-the-night-sky-mel,
+#chikatto-chikka-chikka-shion,
+#chisana-kokoro-ga-kimeta-koto-azki,
+#choco-love-choco,
+#chocolate-box-kanata-watame,
+#chocolate-box-matsuri-sora,
+#christmas-song-aki,
+#cinderella-aqua,
+#cinderella-matsuri,
+#cinderella-pekora,
+#cinderella-polka,
+#cloudy-sheep-watame,
+#collage-aki,
+#colorful-flare,
+#comet-suisei,
+#compared-child-matsuri,
+#country-road-haato,
+#crazy-b-suisei,
+#crazy-night,
+#crazy-party-night,
+#creating-world-2020ver-azki,
+#creating-world-azki,
+#cry-baby-suisei,
+#dadada-tenshi-aqua,
+#daddy-daddy-do-matsuri,
+#daily-diary,
+#dance-robot-dance-sora,
+#daze-aki,
+#death-should-not-have-taken-thee,
+#delusion-tax-choco,
+#diamond-crevasse-sora,
+#discommunication-alien-mel,
+#discommunication-alien-pekora,
+#discommunication-alien-rushia,
+#do-my-best-subaru,
+#domination-all-the-world-is-an-ocean,
+#dont-say-lazy-azki,
+#donut-hole-sora,
+#dream-story-sora,
+#dreaming-days,
+#drop-pop-candy-aqua,
+#dyed-in-your-color,
+#echo-haato,
+#ema-ema-aqua,
+#ema-ema-sora,
+#ema-ema-suisei,
+#envy-baby,
+#envy-baby-sora,
+#error-azki,
+#error-towa,
+#eternity-bright-azki,
+#ever-blue-polka,
+#everlasting-soul-watame,
+#fake-fake-fake-azki,
+#fansa-coco,
+#fansa-matsuri,
+#fansa-shion,
+#fansa-watame,
+#felicia-azki,
+#fiction-robo,
+#flos-okayu,
+#fly-me-to-the-star-polka,
+#for-the-win-aqua,
+#from-a-to-z-azki,
+#front-memory-shion
+,#frontier-locus-azki,
+#futariboshi-ayame,
+#fuwa-fuwa-time-okayu,
+#fuyu-biyori-fubuki,
+#gehenna-okayu,
+#geki-teikokukagekidan-sora,
+#getcha,
+#getsuyoubi-no-yuutsu-matsuri,
+#getsuyoubi-no-yuuutsu-robo,
+#ghost-rule-kanata,
+#ghost-suisei,
+#gimme-gimme-azki,
+#gimme-gimme-chocolate,
+#gimme-gimme-saiko-star,
+#good-morning-song-watame,
+#goodbye-declaration-aqua,
+#goodbye-declaration-ayame,
+#goodbye-declaration-flare,
+#goodbye-declaration-nene,
+#hacha-mecha,
+#hakko-tai-sorasaikuru-azki,
+#hakujitsu-matsuri,
+#hakujitsu-shion,
+#hana-ni-bourei-ayame,
+#hana-ni-bourei-rushia,
+#hanamuke-no-tori-sora-suisei,
+#happy-birthday-robo,
+#happy-haloween-robo,
+#heart-beat-azki,
+#heart-thermography-azki,
+#hearts-towa,
+#hello-hello-nyariansu-ondo-korone,
+#hello-how-are-you-watame,
+#her-trail-in-the-celestial-sphere-suisei,
+#heroic-heroine-sora,
+#heroine-audition-aki,
+#heroine-ikusei-keikaku-azki,
+#hi-hi-high-tension-matsuri,
+#hibana-kanata,
+#hibana-sora,
+#hikari-azki,
+#hikari-no-machi-azki,
+#hikari-no-mokue-azki,
+#hikaru-nara-suisei,
+#hokori-takaki-idol-polka,
+#holidays-watame,
+#hologram-circus,
+#homenobi-noel,
+#hot-limit-azki,
+#howling-mio,
+#humorous-dream-of-mrs-pumpkin,
+#hurray-hurray-love-sora,
+#hyadains-amazing-friendship,
+#hyakka-ryouran-hanafubuki,
+#hyakkisai-towa,
+#i-can-not-control-myself-azki,
+#i-love-you-so-much-i-think-im-gonna-cry-sora,
+#ievan-polkka-haato,
+#image-source-sora,
+#in-this-world-azki,
+#indoor-kei-nara-trackmaker-aqua,
+#infinity-haato,
+#inochi-azki,
+#inochi-ni-kirawarate-iru-azki,
+#instant-heaven-polka,
+#intersection-azki,
+#iris-rushia,
+#jealousies-polka,
+#jibunkatte-dazzling-suisei,
+#jingle-bells,
+#just-a-sunny-day-for-you-sora,
+#just-be-friends-azki,
+#kabutomushi-matsuri,
+#kaede-matsuri,
+#kagetsu-no-yame-miko,
+#kaibutsu-san-polka-lamy,
+#kaibutsu-watame,
+#kaikai-kitan-polka,
+#kaishin-no-ichigeki-ayame,
+#kaisou-ressha-aqua,
+#kakero-suisei,
+#karakuri-pierrot-sora,
+#kataomi-matsuri,
+#kimagure-mercy-aki,
+#kimagure-romantic-sora,
+#kimi-no-shirinai-monogatari-matsuri,
+#kimi-wa-boku-ni-niteiru-sora-azki,
+#kimono-yuku-hosomichi-kanata,
+#king-ayame,
+#king-flare,
+#king-kanata,
+#king-matsuri,
+#king-robo,
+#king-sora,
+#king-suisei,
+#king-towa,
+#king-watame,
+#kirameki-rider,
+#kiseki-knot,
+#koi-no-mahou-subaru,
+#kokoronashi-matsuri,
+#konomedokino-sora,
+#kotobakaze-sora,
+#kotonoha-azki,
+#kotonoha-robo,
+#koyoi-wa-haloween,
+#kurenai-kurunikuru-sora-azki,
+#kurogane-no-mamoribito-azki,
+#kuroi-hitsuji-azki-watame,
+#kuroi-hitsuji-towa,
+#kyokan-robo,
+#kyuuto-no-kanojo-okayu,
+#lion-sora,
+#lioness-pride-botan,
+#loser-girl-matsuri,
+#loser-girl-polka,
+#love-letter-robo,
+#love-trial-korone,
+#love-trial-sora,
+#loves-delivery-service-azki,
+#lunch-with-me,
+#mage-of-violet-shion,
+#magia-sora,
+#magnet-rushia-marine,
+#marigold-azki,
+#marigold-matsuri,
+#matsuri-has-arrived-matsuri,
+#mayday-mayday-watame,
+#melancholic-watame,
+#melody-for-you-watame,
+#melty-land-nightmare-robo,
+#melty-land-nightmare-suisei,
+#menhara-janai-mon,
+#mental-chainsaw-flare,
+#midnight-song-azki,
+#mikochi-has-arrived-miko,
+#miracle-step-azki,
+#mitsuba-no-musubime-azki-kanata,
+#moffumoffu-de-yoi-no-ja-yo-fubuki,
+#mogu-mogu-yummy-okayu,
+#momonone,
+#monster,
+#monster-flare,
+#mousou-kanshou-daishou-renmei-sora,
+#mr-music,
+#my-dearest-azki,
+#my-dearest-nene,
+#naisho-no-hanashi,
+#name-prisoner-azki,
+#nanawari-enemy-azki,
+#natsu-matsuri-sora,
+#natsuiro-matsuri,
+#nekonaraba-ikeru-azki,
+#nenenenenenenene-daibakuso,
+#next-color-planet-suisei,
+#next-wednesday-robo,
+#niji-o-kakunekete-azki,
+#ningendatta-azki,
+#nonbirito-azki,
+#nyannyanteki-uchuurun-sora,
+#ochame-kinou,
+#ochame-kinou-aki,
+#ochame-kinou-aqua,
+#ochame-kinou-ayame,
+#ochame-kinou-azki,
+#ochame-kinou-choco,
+#ochame-kinou-kanata,
+#ochame-kinou-luna,
+#ochame-kinou-marine,
+#ochame-kinou-matsuri,
+#ochame-kinou-mel,
+#ochame-kinou-miko,
+#ochame-kinou-mio,
+#ochame-kinou-okayu,
+#ochame-kinou-pekora,
+#ochame-kinou-rushia,
+#ochame-kinou-shion,
+#ochame-kinou-sora,
+#ochame-kinou-subaru,
+#ochame-kinou-suisei,
+#ochame-kinou-towa,
+#ochame-kinou-watame,
+#ode-to-an-eternal-future-watame,
+#odo-shion,
+#ojomajo-carnival-sora,
+#okachame-sensou-aqua,
+#one-room-sugar-room-aqua,
+#onegai-darling-matsuri,
+#only-my-railgun-azki,
+#ooooo-choco,
+#orange-azki,
+#otome-kaibou-azki,
+#otome-kaibou-okayu,
+#otona-no-ikite-mio-okayu,
+#ottome-dissection-shion,
+#outsider-kanata,
+#p-h-okayu,
+#palette-towa,
+#pastel-team-time,
+#pekomiko,
+#pekorandombrain-pekora,
+#pekorap-pekora,
+#petal-dance-azki,
+#phony-polka,
+#platonic-girl-robo,
+#please-darling-robo,
+#pleiades-subaru,
+#po,
+#poppipo-haato,
+#preserved-roses-matsuri,
+#q-azki,
+#rain-stops-goodbye-sora,
+#rainbow-watame,
+#ranbou-no-melody-suisei,
+#real-melancholy-azki,
+#red-heart-haato,
+#reflection-azki,
+#remote-control-sora-robocco,
+#renai-circulation-watame,
+#rotate-repeated-azki,
+#saga-jihen,
+#saikyo-tensai-wonderful-world-of-korone,
+#saikyo-x-saijaku-girl-azki,
+#sainai-jibun-ni-love-song-wo-sora,
+#sakura-iro-high-tension-miko,
+#sakura-skip-gen5,
+#sakurakaze-miko,
+#sashimio,
+#say-fanfare-fubuki,
+#sayonara-hero-azki,
+#sayonara-moratorium-azki,
+#secret-daybreak-suisei,
+#seesaw-game-sora,
+#seishojou-ryouiki-aki,
+#seishoujo-ryouiki-sora-azki,
+#sekai-wa-meguri-yagate-kimi-no-mono-ni-naru-azki,
+#senbonzakura-haato,
+#seventina-azki,
+#shachiku-no-uta-robo,
+#shallys-aki,
+#shape-of-you-haato,
+#shhhhhhh-azki,
+#shijoshugi-adtruck,
+#shining-star-azki,
+#shiny-smily-story,
+#shinzo-to-karakuri-azki,
+#shit-days-azki,
+#shitsuraku-petri-okayu,
+#shoujo-rei-ayame,
+#shoujo-rei-suisei,
+#smile-and-go-flare,
+#sobakasu-sora,
+#sona-ame-no-hi-niwa-sora,
+#song-from-the-beginning-towards-the-end-kanata,
+#song-of-sketch-robo,
+#sorairo-days-matsuri,
+#soran-boshi-kanata,
+#sparkle-mio,
+#stardust-song,
+#starry-regrets-azki,
+#start-fubuki,
+#stellar-stellar-suisei,
+#step-and-go-sora,
+#suisei-honeymoon-sora,
+#suki-kirai-shion-okayu,
+#suki-yuki-maji-magic-lamy,
+#suki-yuki-maji-magic-matsuri,
+#summertime-matsuri,
+#superhero-azki,
+#surprise-paradise,
+#suspect,
+#sweet-devil-azki,
+#sweet-devil-watame,
+#sweet-magic,
+#sweet-magic-korone,
+#sweet-magic-matsuri-shion,
+#sweet-magic-sora,
+#sweet-night-sweet-time-watame,
+#sweets-parade-haato,
+#sweets-parade-luna,
+#tabako-azki,
+#taiyou-ni-nareru-ka-na-matsuri,
+#taiyou-shojou-subaru,
+#taiyoukei-disco-sora,
+#take-me-to-heaven-azki,
+#thats-why-i-gave-up-on-music-azki,
+#thats-why-i-gave-up-on-music-flare,
+#the-boy-and-the-magic-robot-robo,
+#the-last-frontier-azki,
+#the-religion-of-loneliness,
+#the-summer-flower-i-gaze-upon-with-you-matsuri,
+#the-vampire-aqua,
+#the-vampire-mel,
+#the-vampire-polka,
+#the-vampire-shion,
+#the-vampire-sora,
+#the-vampire-watame,
+#thread-azki,
+#title-nante-aki,
+#tokusya-seizon-wonder-la-der,
+#tokyo-sama-sora-azki,
+#tsukiakari-suisei,
+#turing-love-aqua-okayu,
+#turing-love-matsuri,
+#turing-love-pekomoona,
+#turing-love-polka,
+#turing-love-suisei,
+#ubiqutious-db-aqua,
+#ugoku-ugoku-robo,
+#uma-to-shika-kanata,
+#umapyoi-densetsu,
+#umi-no-soko-kara-aki,
+#umiyuri-kaiteitan-okayu,
+#under-cover-polka,
+#unison-marine,
+#unmei-no-arika-azki,
+#usseewa-kanata-towa,
+#usseewa-nene,
+#usseewa-shion,
+#valentine-kiss-gen1-3,
+#valentine-kiss-yellow,
+#venom-sora,
+#vermont-kiss,
+#viator-azki,
+#viva-happy-mel,
+#wakusei-loop-mel,
+#wakusei-loop-okayu,
+#wandering-days-sora,
+#watame-no-komoriuta,
+#watashi-idol-sengen-azki,
+#watashi-idol-sengen-haato,
+#watashi-idol-sengen-nene,
+#watashi-no-tenshi-matsuri,
+#we-will-rock-you-haato,
+#weather-hackers-coco,
+#welcome-to-japari-park,
+#why-or-why-not-azki,
+#will-botan,
+#wistful-record-aki,
+#wistful-record-sora,
+#without-u-azki,
+#wonderland-sora,
+#yamanaiame-azki,
+#yoi-no-yo-yoi-ayame,
+#yokosou-sweet-carnival-aqua,
+#yoru-ni-kakeru-shion,
+#yoru-no-pierrot-polka,
+#yukitoki-miko,
+#yumemiru-asterisk-dreaming-ver-sora,
+#yumemiru-sora,
+#zenbu-anta-no-sei-suisei,
+#zero-no-ashiato-watame,
+#ziko-allergies-azki {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-position: center;
 }
+/*All of that for this simple shit*/
