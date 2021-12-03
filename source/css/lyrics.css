@@ -63,6 +63,7 @@
     display: inline-flex;
     justify-content: center;
     width: 2vw;
+    height: 5vh;
     font-size: 2vw;
     background-color: rgb(189, 187, 187);
     color:rgb(95, 94, 94);

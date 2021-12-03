@@ -324,10 +324,6 @@
     background: url(../../assets/Individuals);
 } 
 
-#discommunication-alien-rushia{
-    background: url(../../assets/Individuals);
-} 
-
 #do-my-best-subaru{ 
     background: url(../../assets/Individuals);
 } 
@@ -517,16 +513,20 @@
 }
 
 #goodbye-declaration-ayame{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/ayame/cover/goodbye-declaration.jpg);
 } 
 
 #goodbye-declaration-flare{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/flare/cover/goodbye-declaration.jpg);
 } 
 
 #goodbye-declaration-nene{ 
-    background: url(../../assets/Individuals);
-} 
+    background: url(../../assets/Individuals/nene/cover/goodbye-declaration.jpg);
+}
+
+#goodbye-declaration-rushia {
+    background: url(../../assets/Individuals/rushia/cover/goodbye-declaration.jpg);
+}
 
 #hacha-mecha{ 
     background: url(../../assets/Individuals/pekora/original/hacha\ mecha.jpg);
@@ -549,7 +549,7 @@
 } 
 
 #hana-ni-bourei-rushia{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/rushia/cover/hana-ni-bourei.jpg);
 } 
 
 #hanamuke-no-tori-sora-suisei{ 
@@ -717,7 +717,7 @@
 } 
 
 #iris-rushia{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/rushia/original/iris.jpg);
 } 
 
 #jealousies-polka{ 
@@ -945,7 +945,7 @@
 } 
 
 #magnet-rushia-marine{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/rushia/cover/magnet.jpg);
 } 
 
 #marigold-azki{ 
@@ -1996,6 +1996,7 @@
 #goodbye-declaration-ayame,
 #goodbye-declaration-flare,
 #goodbye-declaration-nene,
+#goodbye-declaration-rushia,
 #hacha-mecha,
 #hakko-tai-sorasaikuru-azki,
 #hakujitsu-matsuri,
