@@ -193,7 +193,7 @@
 } 
 
 #chew-the-night-sky-mel{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/original/chew-the-night-sky.jpg);
 } 
 
 #chikatto-chikka-chikka-shion{ 
@@ -317,11 +317,11 @@
 } 
 
 #discommunication-alien-mel{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/discommunication-alien.jpg);
 } 
 
 #discommunication-alien-pekora{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/pekora/cover/discommunication.jpg);
 } 
 
 #do-my-best-subaru{ 
@@ -497,7 +497,7 @@
 } 
 
 #gimme-gimme-chocolate{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/gimme-chocolate.jpg);
 } 
 
 #gimme-gimme-saiko-star{ 
@@ -1545,7 +1545,7 @@
 } 
 
 #sweet-magic{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/sweet-magic.jpg);
 } 
 
 #sweet-magic-korone{ 
@@ -1621,7 +1621,7 @@
 } 
 
 #the-vampire-mel{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/the-vampire.jpg);
 } 
 
 #the-vampire-polka{ 
@@ -1730,10 +1730,10 @@
 
 #valentine-kiss-gen1-3{ 
     background: url(../../assets/Individuals/sakura/cover/valentine\ kiss.jpg);
-} 
+}
 
 #valentine-kiss-yellow{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/valentine-kiss.jpg);
 } 
 
 #venom-sora{ 
@@ -1749,11 +1749,11 @@
 } 
 
 #viva-happy-mel{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/viva-happy.jpg);
 } 
 
 #wakusei-loop-mel{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/mel/cover/wakusei-loop.jpg);
 } 
 
 #wakusei-loop-okayu{ 
@@ -1945,7 +1945,6 @@
 #diamond-crevasse-sora,
 #discommunication-alien-mel,
 #discommunication-alien-pekora,
-#discommunication-alien-rushia,
 #do-my-best-subaru,
 #domination-all-the-world-is-an-ocean,
 #dont-say-lazy-azki,

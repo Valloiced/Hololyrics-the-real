@@ -2,3 +2,12 @@
 
 <p style="color: red;">Unfortunately, no embeddable video. You must open the youtube video in new tab by clicking the unavailable video above</p>
 <br>
+
+
+(Copy paste if the song is not sure if fan or official made)
+<p style="color: red;">I used a different link but I'm not sure if this cover has an original mv or just a fan cover</p>
+<br>
+
+(Copy paste if the song has backups)
+<p style="color: red;">I used different link since original is gone.</p>
+<br>
