@@ -11,3 +11,7 @@
 (Copy paste if the song has backups)
 <p style="color: red;">I used different link since original is gone.</p>
 <br>
+
+(Copy paste if neither both(backups and mv))
+<p style="color: red;">The mv is gone, no backup either. Sorry</p>
+<br>
