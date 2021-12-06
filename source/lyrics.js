@@ -16,7 +16,7 @@ $(document).ready(function(){
         }
         else {
             let hent = addClass[i]
-           $("#lyrics").append("<p class="+hent+">There is no translation to this language yet</p>")
+           $("#lyrics").append("<p class="+hent+">There is no translation to this language yet. Check the other translations</p>")
         }
     }
 })
