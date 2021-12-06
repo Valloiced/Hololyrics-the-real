@@ -1,5 +1,5 @@
 .nav-ani:hover {
-    cursor: pointer;
+    cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;
     animation-name: scale;
     animation-duration: 300ms;
     animation-fill-mode: forwards;
@@ -32,7 +32,7 @@
 }
 
 .talents:hover {
-    cursor: pointer;
+    cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;
     animation-name: scale2;
     animation-duration: 500ms;
     animation-fill-mode: forwards;
@@ -67,6 +67,7 @@
 }
 
 #song-content ul li:hover {
+    cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;
     animation-name: song-hover;
     animation-duration: 500ms;
     animation-fill-mode: forwards;

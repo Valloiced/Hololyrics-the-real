@@ -6,6 +6,7 @@
     scroll-behavior: smooth !important;
     animation-name: loading;
     animation-duration: 300ms;
+    cursor: url(../../assets/MainPageAssets/curr.cur), auto;
 }
 
 :root{

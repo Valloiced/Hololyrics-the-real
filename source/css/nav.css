@@ -68,7 +68,7 @@
 /*hover*/
 nav:hover #dropdown-content li{
     display: flex;
-    cursor: pointer;
+    cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;
 }
 
 #dropdown-content li:hover ul {
