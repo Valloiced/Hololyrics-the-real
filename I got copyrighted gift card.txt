@@ -1,4 +1,4 @@
-(Copy paste inside lyrics body when the original is copyrighted with no backups)
+(Copy paste inside lyrics body when the cover is unembeddable with no backups but you can redirect to the mv)
 
 <p style="color: red;">Unfortunately, no embeddable video. You must open the youtube video in new tab by clicking the unavailable video above</p>
 <br>
