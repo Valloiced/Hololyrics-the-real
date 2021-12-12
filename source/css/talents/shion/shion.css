@@ -79,6 +79,10 @@ body{
     font-size: 1.5vw;
 }
 
+#kamippoi-na {
+    background: url(../../../../assets/Individuals/shion/cover/kamippoi-na.jpg);
+}
+
 #ochame-kinou {
     background: url(../../../../assets/Individuals/shion/cover/ochame-kinou.jpg);
 }
@@ -93,6 +97,10 @@ body{
 
 #ottome-dissection {
     background: url(../../../../assets/Individuals/shion/cover/ottome-dissection.jpg);
+}
+
+#phony {
+    background: url(../../../../assets/Individuals/shion/cover/phony.jpg);
 }
 
 #suki-kirai {

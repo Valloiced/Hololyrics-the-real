@@ -58,7 +58,33 @@ body{
     background: url(../../../../assets/Individuals/suisei/original/stellar\ stellar.jpg)
 }
 
+#starry-jet {
+    background: url(../../../../assets/Individuals/suisei/original/starry-jet.jpg);
+}
+
+#andromeda {
+    background: url(../../../../assets/Individuals/suisei/original/andromeda.jpg);
+}
+
+#bye-bye-rainy {
+    font-size: 1.5vw;
+    background: url(../../../../assets/Individuals/suisei/original/bye-bye-rainy.jpg);
+}
+
+#jetaime {
+    background: url(../../../../assets/Individuals/suisei/original/jetaime.jpg);
+}
+
+#out-of-frame {
+    background: url(../../../../assets/Individuals/suisei/original/out-of-frame.png);
+}
+
+
 /*covers*/
+#angelfish {
+    background: url(../../../../assets/Individuals/suisei/cover/angelfish.jpg);
+}
+
 #alice-in-ny {
     background: url(../../../../assets/Individuals/suisei/cover/alice\ in\ ny.jpg);
 }
@@ -99,6 +125,10 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/ochame\ kinou.jpg);
 }
 
+#phony {
+    background: url(../../../../assets/Individuals/suisei/cover/phony.jpg);
+}
+
 #ranbou-no-melody {
     background: url(../../../../assets/Individuals/suisei/cover/ranbou\ no\ melody.jpg);
 }
@@ -130,3 +160,4 @@ body{
 #zenbu-anta-no {
     background: url(../../../../assets/Individuals/suisei/cover/zenbu\ anta\ no\ sei.jpg);
 }
+

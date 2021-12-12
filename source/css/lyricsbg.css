@@ -400,6 +400,10 @@
     background: url(../../assets/Individuals/watame/original/everlasting.jpg);
 } 
 
+#eye-towa{
+    background: url(../../assets/Individuals/towa/cover/eye.jpg);
+}
+
 #fake-fake-fake-azki{ 
     background: url(../../assets/Individuals);
 }
@@ -712,6 +716,10 @@
     background: url(../../assets/Individuals/polka/cover/instant-heaven.jpg);
 } 
 
+#interact-fantasia {
+    background: url(../../assets/Individuals/pekora/original/interact-fantasia.jpg);
+}
+
 #intersection-azki{ 
     background: url(../../assets/Individuals);
 } 
@@ -774,7 +782,11 @@
 
 #kakero-suisei{ 
     background: url(../../assets/Individuals/suisei/original/Kakero.jpg);
-} 
+}
+
+#kamippo-na-shion{
+    background: url(../../assets/Individuals/shion/cover/kamippoi-na.jpg)
+}
 
 #karakuri-pierrot-sora{ 
     background: url(../../assets/Individuals);
@@ -1232,6 +1244,10 @@
     background: url(../../assets/Individuals/shion/cover/ottome-dissection.jpg);
 } 
 
+#out-of-frame{
+    background: url(../../assets/Individuals/suisei/original/out-of-frame.png);
+}
+
 #outsider-kanata{ 
     background: url(../../assets/Individuals/kanata/cover/outsider.jpg);
 } 
@@ -1267,6 +1283,14 @@
 #phony-polka{ 
     background: url(../../assets/Individuals/polka/cover/phony.jpg);
 } 
+
+#phony-shion {
+    background: url(../../assets/Individuals/shion/cover/phony.jpg); 
+}
+
+#phony-suisei {
+    background: url(../../assets/Individuals/suisei/cover/phony.jpg);
+}
 
 #platonic-girl-robo{ 
     background: url(../../assets/Individuals);
@@ -1424,6 +1448,10 @@
     background: url(../../assets/Individuals/matsuri/original/shijoshugi-adtruck.png);
 } 
 
+#shijoshugi-adtruck-kanata-nene {
+    background: url(../../assets/Individuals/kanata/cover/shijoshugi-adtruck-kanata-nene.jpg);
+}
+
 #shining-star-azki{ 
     background: url(../../assets/Individuals);
 } 
@@ -1503,6 +1531,10 @@
 #step-and-go-sora{ 
     background: url(../../assets/Individuals);
 } 
+
+#still-still-stellar {
+    background: url(../../assets/Individuals/suisei/original/starry-jet.jpg);
+}
 
 #suisei-honeymoon-sora{ 
     background: url(../../assets/Individuals);
@@ -1655,6 +1687,10 @@
 #tokyo-sama-sora-azki{ 
     background: url(../../assets/Individuals);
 } 
+
+#tondemo-wonders-polka{
+    background: url(../../assets/Individuals/polka/cover/tondemo-wonders.jpg);
+}
 
 #tsukiakari-suisei{ 
     background: url(../../assets/Individuals/suisei/cover/tsukiakara.jpg);
@@ -1964,6 +2000,7 @@
 #eternity-bright-azki,
 #ever-blue-polka,
 #everlasting-soul-watame,
+#eye-towa,
 #fake-fake-fake-azki,
 #fansa-coco,
 #fansa-matsuri,
@@ -2043,6 +2080,7 @@
 #inochi-ni-kirawarate-iru-azki,
 #instant-heaven-polka,
 #intersection-azki,
+#interact-fantasia,
 #iris-rushia,
 #jealousies-polka,
 #jibunkatte-dazzling-suisei,
@@ -2058,6 +2096,7 @@
 #kaishin-no-ichigeki-ayame,
 #kaisou-ressha-aqua,
 #kakero-suisei,
+#kamippoi-na-shion,
 #karakuri-pierrot-sora,
 #kataomi-matsuri,
 #kimagure-mercy-aki,
@@ -2172,6 +2211,7 @@
 #otome-kaibou-okayu,
 #otona-no-ikite-mio-okayu,
 #ottome-dissection-shion,
+#out-of-frame,
 #outsider-kanata,
 #p-h-okayu,
 #palette-towa,
@@ -2181,6 +2221,8 @@
 #pekorap-pekora,
 #petal-dance-azki,
 #phony-polka,
+#phony-shion,
+#phony-suisei,
 #platonic-girl-robo,
 #please-darling-robo,
 #pleiades-subaru,
@@ -2220,6 +2262,7 @@
 #shape-of-you-haato,
 #shhhhhhh-azki,
 #shijoshugi-adtruck,
+#shijoshugi-adtruck-kanata-nene,
 #shining-star-azki,
 #shiny-smily-story,
 #shinzo-to-karakuri-azki,
@@ -2240,6 +2283,7 @@
 #start-fubuki,
 #stellar-stellar-suisei,
 #step-and-go-sora,
+#still-still-stellar,
 #suisei-honeymoon-sora,
 #suki-kirai-shion-okayu,
 #suki-yuki-maji-magic-lamy,
@@ -2278,6 +2322,7 @@
 #title-nante-aki,
 #tokusya-seizon-wonder-la-der,
 #tokyo-sama-sora-azki,
+#tondemo-wonders-polka,
 #tsukiakari-suisei,
 #turing-love-aqua-okayu,
 #turing-love-matsuri,
