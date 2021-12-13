@@ -5,7 +5,8 @@
     font-family: Arial, Helvetica, sans-serif;
     scroll-behavior: smooth !important;
     animation-name: loading;
-    animation-duration: 300ms;
+    animation-duration: 100ms;
+    animation-fill-mode: forwards;
     cursor: url(../../assets/MainPageAssets/curr.cur), auto;
 }
 
@@ -103,6 +104,9 @@ body {
     background: snow;
     margin-top: 7rem;
     box-shadow: var(--shadow);
+    animation-name: animatedup;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
 }
 
 footer {
@@ -119,7 +123,28 @@ footer {
     background-color: rgb(138, 130, 130);
 }
 
+#back-to-top {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    bottom: 1rem;
+    right: 1rem;
+    width: 15vw;
+    height: 5vh;    
+    background: repeating-linear-gradient(45deg, white, white 15px, yellow 15px, yellow 30px);
+    color: green;
+    font-size: 1.5vw;
+    font-weight: bolder;
+    border-radius: 10px;
+    border: 5px solid lightyellow;
+}
 
+#back-to-top:hover {
+    cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;
+    color: red;
+    border: 2px solid yellow;
+}
 
 @keyframes loading {
     0% {
@@ -140,6 +165,15 @@ footer {
     }
     100% {
         opacity: 1;
+    }
+}
+
+@keyframes animatedup {
+    0% {
+        margin-top: 50rem;
+    }
+    100% {
+        margin-top: 7rem;
     }
 }
 
