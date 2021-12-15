@@ -25,6 +25,7 @@
         text-shadow: 0 0 30px #fff;
         align-content: flex-end;
         border: 2px solid white;
+        z-index: 999;
     }
 }
 .genfont:nth-child(1):hover{

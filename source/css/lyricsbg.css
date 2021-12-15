@@ -236,6 +236,10 @@
     background: url(../../assets/Individuals/polka/cover/cinderalla.jpg);
 } 
 
+#cinema {
+    background: url(../../assets/Individuals/suisei/cover/cinema.png);
+}
+
 #cloudy-sheep-watame{ 
     background: url(../../assets/Individuals/watame/original/cloudy-sheep.jpg);
 } 
@@ -1480,6 +1484,10 @@
     background: url(../../assets/Individuals/suisei/cover/shoujo-rei.jpg);
 } 
 
+#silvous-president{
+    background: url(../../assets/Individuals/fubuki/cover/silvous-president.jpg);
+}
+
 #smile-and-go-flare{ 
     background: url(../../assets/Individuals/flare/original/smile-and-go.jpg);
 } 
@@ -1959,6 +1967,7 @@
 #cinderella-matsuri,
 #cinderella-pekora,
 #cinderella-polka,
+#cinema,
 #cloudy-sheep-watame,
 #collage-aki,
 #colorful-flare,
@@ -2270,6 +2279,7 @@
 #shitsuraku-petri-okayu,
 #shoujo-rei-ayame,
 #shoujo-rei-suisei,
+#silvous-president,
 #smile-and-go-flare,
 #sobakasu-sora,
 #sona-ame-no-hi-niwa-sora,
