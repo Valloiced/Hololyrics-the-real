@@ -35,7 +35,7 @@
 
 /*lyrics*/
 #lyrics {
-    padding: 3rem;
+    padding: 1rem;
     text-align: left;
 }
 
@@ -83,6 +83,7 @@
 }
 
 .labels ul{
+    margin-top: 0.5rem;
     list-style: none;
     display: inline-flex;
     height: 8vh;
@@ -93,7 +94,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: auto;
+    width: 10vw;
     height: 8vh;
     margin-left: 2vw;
     background-color: rgb(11, 145, 255);
@@ -106,15 +107,16 @@
     justify-content: center;
     padding: 1;
     margin: 0.5vw;
-    width: 9vw;
+    width: 90%;
     height: 4vh;
-    font-size: 1.5vw;
+    font-size: inherit;
     border-radius: 10px;
     color: white;
     background-color: rgb(70, 190, 226);
 }
 
 .labels ul li select {
+    font-size: 1rem;
     border-radius: 10px;
     background-color: rgb(70, 190, 226);
     color: white;
@@ -131,4 +133,55 @@
 #back img {
     transform: translateX(-55%);
     height: 90%;
+}
+
+@media screen and (max-width: 650px) {
+    #container {
+        padding: 0rem;
+    }
+
+    #video iframe {
+        width: 95%;
+        height: 35vh;
+    }
+
+    .lyrics-body {
+        margin-top: 1rem;
+    }
+
+    .captions h1 {
+        font-size: 3rem;
+    }
+
+    .fo {
+        font-size: 1rem;
+    }
+
+    #lyrics h2 {
+        font-size: 1.5rem;
+    }
+
+    .btn {
+        margin-left: 80%;
+    }
+
+    .btn button {
+        font-size: 6vw;
+        width: 10vw;
+        height: 8vh;
+    }
+
+    .labels ul li {
+        width: 25vw;
+    }
+    
+    .labels ul li p {
+        width: 90%;
+    }
+
+    .labels ul li select {
+        font-size: 3vw;
+        width: 90%;
+    }
+    
 }

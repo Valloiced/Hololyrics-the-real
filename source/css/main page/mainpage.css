@@ -6,7 +6,7 @@ a{
 #top-body {
     margin: 0 auto;
     padding: 1rem;
-    min-height: 20vh;
+    height: 30vh;
     width: 95%;
     background: url(../../../assets/MainPageAssets/navbg/hololive.png);
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ a{
     color: rgba(70, 195, 242, 1.4);
     background-color: rgba(255,255,255, 0.90);
     width: 40%;
-    font-size: 4rem;
+    font-size: 5vw;
     border-radius: 5px;
     box-shadow: var(--shadow);
 }
@@ -43,7 +43,7 @@ a{
 #gen-list li{
     display: grid;
     width: 9vw;
-    height: 6rem;
+    height: 11vh;
     align-content: center;
     color: #E1f6FF;
     font-size: 1.5vw;
@@ -390,3 +390,44 @@ a{
     background-blend-mode: overlay; 
 }
 
+@media screen and (max-width: 650px){
+    #top-body {
+        height: inherit;
+    }
+     
+    #gen-list ul {
+        display:inline-block;
+    }
+
+    #gen-list {
+        margin: 0.5rem 1rem;
+    }
+
+    #gen-list li {
+        font-size: 4vw;
+        width: 30vw;
+        height: 8vh;
+        float: left;
+    }
+
+    #top-body h1 {
+        font-size: 14vw;
+        width: inherit;
+    }
+
+    .display {
+        flex-direction: column;
+        gap: 2vh;
+    }
+
+    .talents {
+        font-size: 5vw;
+        border-radius: 10px;
+        height: 30vh;
+    }
+
+    .genfont {
+        font-size: 4rem;
+    }
+
+}

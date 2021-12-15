@@ -31,7 +31,6 @@ body {
     display: inline-flex;
     position: fixed;
     width: 100%;
-    min-height: 10vh;
     height: 13vh;
     top: 0;
     background: white;
@@ -104,9 +103,6 @@ body {
     background: snow;
     margin-top: 7rem;
     box-shadow: var(--shadow);
-    animation-name: animatedup;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
 }
 
 footer {
@@ -168,12 +164,20 @@ footer {
     }
 }
 
-@keyframes animatedup {
-    0% {
-        margin-top: 50rem;
+@media screen and (max-width: 650px){
+    .top-page{
+        padding: 0.5rem;
     }
-    100% {
-        margin-top: 7rem;
+
+    #container {
+        padding: 1rem;
+        margin-top: 5rem;
+        width: 95%;
+    }
+
+    #back-to-top {
+        width: 35vw;
+        height: 7vh;
+        font-size: 4vw;
     }
 }
-
