@@ -144,10 +144,14 @@
         border: 2px solid #000;
         font-size: 7vw;
         padding: 3rem;
+        transition: none !important;
     }
 
     #cover {
         margin: 0;
+    }
+    #song-content ul li:hover {
+        transform: none !important;
     }
 }
 
