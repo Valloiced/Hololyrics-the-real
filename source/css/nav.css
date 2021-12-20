@@ -382,3 +382,13 @@ nav:hover .hoverdrop {
     transform: scale(1.3);
     box-shadow: var(--shadow);
 }
+
+@media screen and (max-width: 750px) {
+    .hoverdrop {
+        font-size: 2.5vw;
+    }
+
+    #dropdown-content p {
+        height: 10vh;
+    }
+}
