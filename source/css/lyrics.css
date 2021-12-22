@@ -14,7 +14,7 @@
 .captions h1{
     font-size: 5vw;
     margin-top: 2rem;
-    line-height: 3rem;
+    line-height: rem;
     text-align: center;
 }
 
@@ -136,11 +136,11 @@
     height: 90%;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 750px) {
     #container {
-        padding: 0rem;
+        padding: 0;
         width: 100%;
-        margin: 0 auto;
+        margin: inherit auto;
     }
 
     #video iframe {

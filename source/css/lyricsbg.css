@@ -88,6 +88,10 @@
     background: url(../../assets/Individuals/kanata/cover/angelfish.jpg);
 } 
 
+#animal-okayu {
+    background: url(../../assets/Individuals/okayu/cover/animal.jpg);
+}
+
 #aoi-yume-azki{ 
     background: url(../../assets/Individuals);
 } 
@@ -1488,6 +1492,10 @@
     background: url(../../assets/Individuals/fubuki/cover/silvous-president.jpg);
 }
 
+#silvous-president-polka {
+    background: url(../../assets/Individuals/polka/cover/silvous-president.jpg);
+}
+
 #smile-and-go-flare{ 
     background: url(../../assets/Individuals/flare/original/smile-and-go.jpg);
 } 
@@ -1930,6 +1938,7 @@
 #amarylls-robo,
 #angel-sora,
 #angelfish-suisei-kanata,
+#animal-okayu,
 #aoi-yume-azki,
 #aquairo-palette-aqua,
 #asagao-no-uta-azki,
@@ -2280,6 +2289,7 @@
 #shoujo-rei-ayame,
 #shoujo-rei-suisei,
 #silvous-president,
+#silvous-president-polka,
 #smile-and-go-flare,
 #sobakasu-sora,
 #sona-ame-no-hi-niwa-sora,

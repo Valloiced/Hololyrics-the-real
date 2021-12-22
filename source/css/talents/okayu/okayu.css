@@ -38,6 +38,10 @@ body{
 }
 
 /*cover*/
+#animal {
+    background: url(../../../../assets/Individuals/okayu/cover/animal.jpg);
+}
+
 #callboy {
     background: url(../../../../assets/Individuals/okayu/cover/callboy.jpg);
 }
