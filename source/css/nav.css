@@ -386,6 +386,7 @@ nav:hover .hoverdrop {
 @media screen and (max-width: 750px) {
     .hoverdrop {
         font-size: 2.5vw;
+        height: 3rem;
     }
 
     #dropdown-content p {

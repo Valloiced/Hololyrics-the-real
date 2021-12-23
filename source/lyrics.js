@@ -46,19 +46,6 @@ function lessFont() {
     $(".fo").css("font-size", "-=1");
 }
 
-//short animation
-let tl = gsap.timeline({
-    scrollTrigger: {
-        trigger: "#video",
-        start: "0%",
-        end: "50%",
-        scrub: true,
-    }
-})
-
-tl.fromTo(".top-page", 3 ,{scaleY: 1}, {scaleY: 0.7})
-  .to(".top-page", {y: -20},"-=3")
-
 
 
 
