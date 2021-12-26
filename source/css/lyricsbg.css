@@ -86,7 +86,15 @@
 
 #angelfish-suisei-kanata{ 
     background: url(../../assets/Individuals/kanata/cover/angelfish.jpg);
-} 
+}
+
+#animal-fubuki {
+    background: url(../../assets/Individuals/fubuki/cover/animal-fubuki.jpg);
+}
+
+#animal-botan {
+    background: url(../../assets/Individuals/botan/cover/animal-botan.jpg);
+}
 
 #animal-okayu {
     background: url(../../assets/Individuals/okayu/cover/animal.jpg);
@@ -180,6 +188,10 @@
     background: url(../../assets/Individuals/okayu/cover/callboy.jpg);
 } 
 
+#campanella-kanata {
+    background: url(../../assets/Individuals/kanata/cover/campanella.jpg);
+}
+
 #candy-go-round{ 
     background: url(../../assets/Individuals/aqua/original/candy-go-round.jpg);
 } 
@@ -203,6 +215,10 @@
 #chikatto-chikka-chikka-shion{ 
     background: url(../../assets/Individuals/shion/cover/chikatto-chikka-chikka.jpg);
 } 
+
+#chinchinpuipui-matsuri{
+    background: url(../../assets/Individuals/matsuri/cover/chinchinpui.jpg);
+}
 
 #chisana-kokoro-ga-kimeta-koto-azki{ 
     background: url(../../assets/Individuals);
@@ -544,6 +560,10 @@
     background: url(../../assets/Individuals/pekora/original/hacha\ mecha.jpg);
 } 
 
+#haiiro-to-ao-towa-suisei {
+    background: url(../../assets/Individuals/towa/cover/haiiro-to-ao.jpg);
+}
+
 #hakko-tai-sorasaikuru-azki{ 
     background: url(../../assets/Individuals);
 } 
@@ -640,6 +660,10 @@
     background: url(../../assets/Individuals/suisei/cover/hikaru\ nara.jpg);
 } 
 
+#hokori-takaki-idol-aqua {
+    background: url(../../assets/Individuals/aqua/cover/hokori-takaki-idol.jpg);
+}
+
 #hokori-takaki-idol-polka{ 
     background: url(../../assets/Individuals/polka/cover/hokori-takaki-idol.jpg);
 }
@@ -659,6 +683,10 @@
 #hot-limit-azki{ 
     background: url(../../assets/Individuals);
 } 
+
+#hot-limit {
+    background: url(../../assets/Individuals/sora/cover/hot-limit.jpg)
+}
 
 #howling-mio{ 
     background: url(../../assets/Individuals/mio/original/Howling.png);
@@ -863,6 +891,9 @@
 #kirameki-rider{ 
     background: url(../../assets/Individuals/aqua/original/kirameki-rider.jpg);
 } 
+#kirakira-aqua {
+    background: url(../../assets/Individuals/aqua/original/kirakira.jpg);
+}
 
 #kiseki-knot{ 
     background: url(../../assets/Individuals/coco/original/kiseki\ knot.jpg);
@@ -1300,6 +1331,10 @@
     background: url(../../assets/Individuals/suisei/cover/phony.jpg);
 }
 
+#phony-watame {
+    background: url(../../assets/Individuals/watame/cover/phony.jpg);
+}
+
 #platonic-girl-robo{ 
     background: url(../../assets/Individuals);
 } 
@@ -1367,6 +1402,10 @@
 #saga-jihen{ 
     background: url(../../assets/Individuals/suisei/cover/saga\ jihen\ ahhhhhhhhhh.jpg);
 } 
+
+#saikai-suisei {
+    background: url(../../assets/Individuals/suisei/cover/saikai.jpg);
+}
 
 #saikyo-tensai-wonderful-world-of-korone{ 
     background: url(../../assets/Individuals/korone/original/saikyo-tensai-wonderful-world-of-korone.png);
@@ -1728,6 +1767,10 @@
     background: url(../../assets/Individuals/polka/cover/turing-love.jpg);
 } 
 
+#turing-love-sora {
+    background: url(../../assets/Individuals/sora/cover/turing-love.jpg);
+}
+
 #turing-love-suisei{ 
     background: url(../../assets/Individuals/suisei/cover/turing\ love.jpg);
 } 
@@ -1788,6 +1831,10 @@
     background: url(../../assets/Individuals/mel/cover/valentine-kiss.jpg);
 } 
 
+#valkyrie-suisei {
+    background: url(../../assets/Individuals/suisei/cover/valkyrie.jpg);
+}
+
 #venom-sora{ 
     background: url(../../assets/Individuals);
 } 
@@ -1811,6 +1858,10 @@
 #wakusei-loop-okayu{ 
     background: url(../../assets/Individuals/okayu/cover/wakusei-loop.jpg);
 } 
+
+#wakuwaku-mio-fubuki {
+    background: url(../../assets/Individuals/mio/original/wakuwaku-everyday.png);
+}
 
 #wandering-days-sora{ 
     background: url(../../assets/Individuals);
@@ -1938,6 +1989,8 @@
 #amarylls-robo,
 #angel-sora,
 #angelfish-suisei-kanata,
+#animal-fubuki,
+#animal-botan,
 #animal-okayu,
 #aoi-yume-azki,
 #aquairo-palette-aqua,
@@ -1961,12 +2014,14 @@
 #bubble-love-watame,
 #byoushin-wo-kamu,
 #callboy-okayu-kanata,
+#campanella-kanata,
 #candy-go-round,
 #cat-eye-make-okayu,
 #cendrillon-sora,
 #cherry-bomb,
 #chew-the-night-sky-mel,
 #chikatto-chikka-chikka-shion,
+#chinchinpuipui-matsuri,
 #chisana-kokoro-ga-kimeta-koto-azki,
 #choco-love-choco,
 #chocolate-box-kanata-watame,
@@ -2030,8 +2085,8 @@
 #fly-me-to-the-star-polka,
 #for-the-win-aqua,
 #from-a-to-z-azki,
-#front-memory-shion
-,#frontier-locus-azki,
+#front-memory-shion,
+#frontier-locus-azki,
 #futariboshi-ayame,
 #fuwa-fuwa-time-okayu,
 #fuyu-biyori-fubuki,
@@ -2052,6 +2107,7 @@
 #goodbye-declaration-nene,
 #goodbye-declaration-rushia,
 #hacha-mecha,
+#haiiro-to-ao-towa-suisei,
 #hakko-tai-sorasaikuru-azki,
 #hakujitsu-matsuri,
 #hakujitsu-shion,
@@ -2076,11 +2132,13 @@
 #hikari-no-machi-azki,
 #hikari-no-mokue-azki,
 #hikaru-nara-suisei,
+#hokori-takaki-idol-aqua,
 #hokori-takaki-idol-polka,
 #holidays-watame,
 #hologram-circus,
 #homenobi-noel,
 #hot-limit-azki,
+#hot-limit-sora,
 #howling-mio,
 #humorous-dream-of-mrs-pumpkin,
 #hurray-hurray-love-sora,
@@ -2131,6 +2189,7 @@
 #king-suisei,
 #king-towa,
 #king-watame,
+#kirakira-aqua,
 #kirameki-rider,
 #kiseki-knot,
 #koi-no-mahou-subaru,
@@ -2241,6 +2300,7 @@
 #phony-polka,
 #phony-shion,
 #phony-suisei,
+#phony-watame,
 #platonic-girl-robo,
 #please-darling-robo,
 #pleiades-subaru,
@@ -2258,6 +2318,7 @@
 #renai-circulation-watame,
 #rotate-repeated-azki,
 #saga-jihen,
+#saikai-suisei,
 #saikyo-tensai-wonderful-world-of-korone,
 #saikyo-x-saijaku-girl-azki,
 #sainai-jibun-ni-love-song-wo-sora,
@@ -2348,6 +2409,7 @@
 #turing-love-matsuri,
 #turing-love-pekomoona,
 #turing-love-polka,
+#turing-love-sora,
 #turing-love-suisei,
 #ubiqutious-db-aqua,
 #ugoku-ugoku-robo,
@@ -2363,12 +2425,14 @@
 #usseewa-shion,
 #valentine-kiss-gen1-3,
 #valentine-kiss-yellow,
+#valkyrie-suisei,
 #venom-sora,
 #vermont-kiss,
 #viator-azki,
 #viva-happy-mel,
 #wakusei-loop-mel,
 #wakusei-loop-okayu,
+#wakuwaku-mio-fubuki,
 #wandering-days-sora,
 #watame-no-komoriuta,
 #watashi-idol-sengen-azki,

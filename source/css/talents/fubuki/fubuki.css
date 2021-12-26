@@ -50,6 +50,10 @@ body{
     background: url(../../../../assets/Individuals/fubuki/original/say-fanfare.jpg);
 }
 
+#wakuwaku {
+    background: url(../../../../assets/Individuals/fubuki/original/wakuwaku-everyday.png);
+}
+
 #shiny-smily-story {
     background: url(../../../../assets/Individuals/fubuki/original/shiny-smily-story.jpg);
 }
@@ -60,6 +64,10 @@ body{
 
 
 /*cover*/
+#animal {
+    background: url(../../../../assets/Individuals/fubuki/cover/animal-fubuki.jpg);
+}
+
 #bitter-choco {
     background: url(../../../../assets/Individuals/fubuki/cover/bitter-choco-decoration.jpg);
 }

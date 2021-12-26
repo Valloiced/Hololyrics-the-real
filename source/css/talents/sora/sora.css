@@ -224,6 +224,10 @@ body{
     background: url(../../../../assets/Individuals/sora/cover/hibana.jpg);
 }
 
+#hot-limit {
+    background: url(../../../../assets/Individuals/sora/cover/hot-limit.jpg);
+}
+
 #just-a-sunny-day-for-you{ 
     background: url(../../../../assets/Individuals/sora/cover/just-a-sunny-day-for-you.jpg);
 }
@@ -315,6 +319,10 @@ body{
 
 #tokyo-sama{ 
     background: url(../../../../assets/Individuals/sora/cover/tokyo-sama.jpg);
+}
+
+#turing-love {
+    background: url(../../../../assets/Individuals/sora/cover/turing-love.jpg);
 }
 
 #venom{ 

@@ -29,10 +29,6 @@
             z-index: 999;
         }
     }
-       
-        .genfont:nth-child(1):hover{
-            color: rgb(11, 240, 42);
-        }
 
         .talents:hover {
             cursor: url(../../assets/MainPageAssets/main/cursor.cur), auto;

@@ -42,6 +42,10 @@ body{
 }
 
 /*cover*/
+#animal {
+    background: url(../../../../assets/Individuals/botan/cover/animal-botan.jpg);
+}
+
 #will {
     background: url(../../../../assets/Individuals/botan/cover/will.jpg);
 }

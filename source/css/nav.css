@@ -376,8 +376,9 @@ nav:hover .hoverdrop {
 }
 
 #dropdown-content li ul li:hover {
-    background-blend-mode: normal;
-    color: pink;
+    background-color: rgba(108, 119, 131, 0.4);
+    /*background-blend-mode: normal;*/
+    color: rgb(253, 144, 162);
     border: 1px solid rgb(19, 157, 175);
     transform: scale(1.3);
     box-shadow: var(--shadow);

@@ -198,6 +198,113 @@
  </div>
 </div>
 <a href="#top-body" id="back-to-top"><i class="fa fa-arrow-up"></i>Back To Top</a>
+<button id="changelog">Change Log</button>
+<div id="change-log">
+    <h1>Change Log</h1>
+            <div class="liner">.</div>
+        <h2>12.11.21</h2>
+            <p>-Added new songs from:
+
+                    Suisei
+                    -Andromeda(original)
+                    -Bye Bye Rainy(original)
+                    -Jetaime(original)
+                    -Starry Jet(original)
+                    -Phony(cover)
+                    -Angelfish(collab)
+
+                    Towa 
+                    -Eye(cover)
+
+                    Generation 3
+                    -Interact Fantasia(collab original)
+
+                    Shion
+                    -Phony(cover)
+
+                    Polka
+                    -Tondemo Wonder(cover)
+                    
+                    Kanata and nene
+                    -Shijoshugi Adtruck(collab cover)
+            </p>
+            <div class="liner">.</div>
+        <h2>12.14.21</h2>
+            <p>-Added new songs from:
+
+                    Fubuki
+                    -Si'l Vous President(cover)
+
+                    Suisei
+                    -Cinema(cover)
+            </p>
+            <div class="liner">.</div>
+        <h2>12.15.21</h2>
+            <p>-Added mobile version of the website</p>
+            <div class="liner">.</div>
+        <h2>12.16.21</h2>
+            <p>-Added a footer and removed the hover when mobile view</p>
+            <div class="liner">.</div>
+        <h2>12.19.21</h2>
+            <p>-Added a custom cursor</p>
+            <div class="liner">.</div>
+        <h2>12.21.21</h2>
+            <p>-Fixed robocco's front page
+                -Added new songs from:
+
+                    Okayu
+                    -Animal(cover)
+
+                    Polka
+                    -Si'l Vous President(cover)
+            </p>
+            <div class="liner">.</div>
+        <h2>12.22.21</h2>
+            <p>-Fixed sora's front page
+               -Fixed logo in mobile version
+               -Removed the logo animation cause its annoying
+            </p>
+            <div class="liner">.</div>
+        <h2>12.25.21</h2>
+            <p>-Added a hat in the logo for fun
+               -Added the changelog
+               -Added new songs from:
+
+                    Sora
+                    -Hot limit(cover)
+                    -Turing Love(cover)
+
+                    Aqua
+                    -Kirakira(original)
+                    -Hokori Takaki Idol(cover)
+                    
+                    Matsuri
+                    -Chin Chin Pui Pui(cover)
+                    
+                    Suisei
+                    -Valkyrie(cover)
+                    -Haiiro to Ao(collab)
+                    -Saikai(collab)
+
+                    Fubuki
+                    -Animal(cover)
+                    -Wakuwaku everyday(collab)
+                    
+                    Mio
+                    -Wakuwaku Everyday(collab)
+
+                    Towa
+                    -Haiiro to Ao(collab)
+                    
+                    Watame
+                    -Phony(cover)
+
+                    Kanata
+                    -Campanella(collab)
+            </p>
+    <button id="close">Close</button>
+</div>
+<div id="tocover"></div>
 </body>
 <footer>
     <h1>Sources</h1>
@@ -239,4 +346,21 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js" integrity="sha512-eP6ippJojIKXKO8EPLtsUMS+/sAGHGo1UN/38swqZa1ypfcD4I0V/ac5G3VzaHfDaklFmQLEs51lhkkVaqg60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js" integrity="sha512-CPA5LMoJI/a5HkSIAKcBtFXe4gqGjPUL2ExF/3PmhrrHI17wod9xOqqF+0WZQRKIIq0KwF8oG5BaiWobtrke3A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="../source/back-to-top.js"></script>
+<script>
+    $(document).ready(() => {
+        $("#change-log").hide()
+        $("#tocover").hide()
+    })
+    $("#changelog").click(() => {
+        $("#change-log").show()
+        $("#tocover").show()
+        $("#changelog").hide()
+    })
+
+    $("#close").click(() => {
+        $("#change-log").hide()
+        $("#tocover").hide()
+        $("#changelog").show()
+    })
+</script>
 </html>
