@@ -5,23 +5,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hololyrics</title>
+    <link rel="stylesheet" href="../source/css/nav.css">
+    <link rel="stylesheet" type="text/css" href="../source/css/mainLogoAndNav.css">
     <link rel="stylesheet" type="text/css" href="../source/css/main page/mainpage.css">
     <link rel="stylesheet" type="text/css" href="../source/css/animation.css">
-    <link rel="stylesheet" type="text/css" href="../source/css/mainLogoAndNav.css">
-    <link rel="stylesheet" href="../source/css/nav.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="../assets/jquery-3.6.0.min.js"></script>
-    <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N3ZBHG617E"></script>
+        <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-N3ZBHG617E');
-</script>
+    gtag('config', 'G-N3ZBHG617E');
+    </script>
 </head>
+
 <body>
 <!--Top part-->
 <div class="top-page">
+
+    <!--Navigation-->
     <nav id="navbar">
         <ul id="dropdown-content">
             <button class="hoverdrop">Talents</button>
@@ -95,116 +100,199 @@
             </li>
         </ul>
     </nav>
+
+<!--Logo-->
 <img src="../assets/MainPageAssets/main/top logo.png">
 </div>
+
 <!--content-->
 <div id=container>
- <div id=top-body>
-     <h1>
-         hololive
-     </h1>
-     <div id="gen-list">
-         <ul>
-            <a href="#gen0"><li id="navgen0" class="nav-ani">Gen0</li></a> 
-            <a href="#gen1"><li id="navgen1" class="nav-ani">Gen1</li></a>
-            <a href="#gen2"><li id="navgen2" class="nav-ani">Gen2</li></a>
-            <a href="#gaymers"><li id="navgaymers" class="nav-ani">Hololive Gamers</li></a>
-            <a href="#gen3"><li id="navgen3" class="nav-ani">Gen3</li></a>
-            <a href="#gen4"><li id="navgen4" class="nav-ani">Gen4</li></a>
-            <a href="#gen5"><li id="navgen5" class="nav-ani">Gen5</li></a>
-         </ul>
-     </div>
- </div>
+    <div id=top-body>
+        <!--Navigation of main page-->
+        <div id="holobranch">
+            <div id="arrow-left" onclick="update(-1)">&#60</div>
+            <h1 class="jpbranch">
+                hololive<span>jp</span>
+            </h1>
+            <h1 class="engbranch">
+                hololive<span>eng</span>
+            </h1>
+            <div id="arrow-right" onclick="update(1)">&#62</div>
+        </div>
+            <div id="gen-list" class="jpbranch">
+                <ul>
+                    <a href="#gen0"><li id="navgen0" class="nav-ani">Gen0</li></a> 
+                    <a href="#gen1"><li id="navgen1" class="nav-ani">Gen1</li></a>
+                    <a href="#gen2"><li id="navgen2" class="nav-ani">Gen2</li></a>
+                    <a href="#gaymers"><li id="navgaymers" class="nav-ani">Hololive Gamers</li></a>
+                    <a href="#gen3"><li id="navgen3" class="nav-ani">Gen3</li></a>
+                    <a href="#gen4"><li id="navgen4" class="nav-ani">Gen4</li></a>
+                    <a href="#gen5"><li id="navgen5" class="nav-ani">Gen5</li></a>
+                </ul>
+            </div>
+    </div>
+
+<!--Talents list-->
+<!--Hololive Jp branch-->
  <div id="gen0"></div>
- <div id="talents-list">
+ <div id="talents-list" class="jpbranch">
      <!--gen0-->
      <!--I know you are confused why gen0 has an id of gen1, but this is because of the
     scrolling bug that I can't fix other than this. Sooo, yeh, if it works it works-->
         <div id="gen1">
-         <h1 class="genfont">Generation 0</h1>
-         <div id="line"></div>
-         <div class="display">
-             <a href="../source/html/talents/sora/sora.html"><div id="sora" class="talents">Tokino Sora</div></a>
-             <a href="../source/html/talents/robocco/robocco.html"><div id="robo" class="talents">Robocco</div></a>
-             <a href="../source/html/talents/miko/miko.html"><div id="miko" class="talents">Sakura Miko</div></a>
-             <a href="../source/html/talents/suisei/suisei.html"><div id="suisei" class="talents">Hoshimachi Suisei</div></a>
-             <a href="../source/html/talents/azki/azki.html"><div id="azki" class="talents">AZKi</div></a>
-         </div>
+            <h1 class="genname">Generation 0</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/sora/sora.html"><li id="soraMain" class="talents">
+                            <p class="gencaptions">Tokino Sora</p>
+                        </li></a>
+                        <a href="../source/html/talents/robocco/robocco.html"><li id="roboMain" class="talents">
+                            <p class="gencaptions">Robocco</p>
+                        </li></a>
+                        <a href="../source/html/talents/miko/miko.html"><li id="mikoMain" class="talents">
+                            <p class="gencaptions">Sakura Miko</p>
+                        </li></a>
+                        <a href="../source/html/talents/suisei/suisei.html"><li id="suiseiMain" class="talents">
+                            <p class="gencaptions">Hoshimachi Suisei</p>
+                        </li></a>
+                        <a href="../source/html/talents/azki/azki.html"><li id="azkiMain" class="talents">
+                            <p class="gencaptions">AZKi</p>
+                        </li></a>
+                    </ul>
+        </div>
         <!--gen1-->
         <div id="gen2">
-            <h1 class="genfont">Generation 1</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/mel/mel.html"><div id="mel" class="talents">Yozora Mel</div></a>
-                <a href="../source/html/talents/fubuki/fubuki.html"><div id="fubuki" class="talents">Shirakami Fubuki</div></a>
-                <a href="../source/html/talents/matsuri/matsuri.html"><div id="matsuri" class="talents">Natsuiro Matsuri</div></a>
-                <a href="../source/html/talents/aki/aki.html"><div id="aki" class="talents">Aki Rosenthal</div></a>
-                <a href="../source/html/talents/haachama/haachama.html"><div id="haachama" class="talents">Akai Haato</div></a>
-            </div>
+            <h1 class="genname">Generation 1</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/mel/mel.html"><li id="melMain" class="talents">
+                            <p class="gencaptions">Yozora Mel</p>
+                        </li></a>
+                        <a href="../source/html/talents/fubuki/fubuki.html"><li id="fubukiMain" class="talents">
+                            <p class="gencaptions">Shirakami Fubuki</p>
+                        </li></a>
+                        <a href="../source/html/talents/matsuri/matsuri.html"><li id="matsuriMain" class="talents">
+                            <p class="gencaptions">Natsuiro Matsuri</p>
+                        </li></a>
+                        <a href="../source/html/talents/aki/aki.html"><li id="akiMain" class="talents">
+                            <p class="gencaptions">Aki Rosenthal</p>
+                        </li></a>
+                        <a href="../source/html/talents/haachama/haachama.html"><li id="haachamaMain" class="talents">
+                            <p class="gencaptions">Akai Haato</p>
+                        </li></a>
+                    </ul>
         </div>
         <!--gen2-->
         <div id="gaymers">
-            <h1 class="genfont">Generation 2</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/aqua/aqua.html"><div id="aqua" class="talents">Minato Aqua</div></a>
-                <a href="../source/html/talents/shion/shion.html"><div id="shion" class="talents">Murasaki Shion</div></a>
-                <a href="../source/html/talents/ayame/ayame.html"><div id="ayame" class="talents">Nakiri Ayame</div></a>
-                <a href="../source/html/talents/choco/choco.html"><div id="choco" class="talents">Yuzuki Choco</div></a>
-                <a href="../source/html/talents/subaru/subaru.html"><div id="subaru" class="talents">Oozora Subaru</div></a>
+            <h1 class="genname">Generation 2</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/aqua/aqua.html"><li id="aquaMain" class="talents">
+                            <p class="gencaptions">Minato Aqua</p>
+                        </li></a>
+                        <a href="../source/html/talents/shion/shion.html"><li id="shionMain" class="talents">
+                            <p class="gencaptions">Murasaki Shion</p>
+                        </li></a>
+                        <a href="../source/html/talents/ayame/ayame.html"><li id="ayameMain" class="talents">
+                            <p class="gencaptions">Nakiri Ayame</p>
+                        </li></a>
+                        <a href="../source/html/talents/choco/choco.html"><li id="chocoMain" class="talents">
+                            <p class="gencaptions">Yuzuki Choco</p>
+                        </li></a>
+                        <a href="../source/html/talents/subaru/subaru.html"><li id="subaruMain" class="talents">
+                            <p class="gencaptions">Oozora Subaru</p>
+                        </li></a>
+                    </ul>
             </div>
-        </div>
-        <!--gen3-->
+            <!--gen3-->
         <div id="gen3">
-            <h1 class="genfont">Hololive Gaymers</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/fubuki/fubuki.html"><div id="fubuki" class="talents">Shirakami Fubuki</div></a>
-                <a href="../source/html/talents/mio/mio.html"><div id="mio"class="talents">Ookami Mio</div></a>
-                <a href="../source/html/talents/okayu/okayu.html"><div id="okayu"class="talents">Nekomata Okayu</div></a>
-                <a href="../source/html/talents/korone/korone.html"><div id="korone" class="talents">Inugamu Korone</div></a>
-            </div>
+            <h1 class="genname">Hololive Gamers</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/fubuki/fubuki.html"><li id="fubukiMain" class="talents">
+                            <p class="gencaptions">Shirakami Fubuki</p>
+                        </li></a>
+                        <a href="../source/html/talents/mio/mio.html"><li id="mioMain"class="talents">
+                            <p class="gencaptions">Ookami Mio</p>
+                        </li></a>
+                        <a href="../source/html/talents/okayu/okayu.html"><li id="okayuMain"class="talents">
+                            <p class="gencaptions">Nekomata Okayu</p>
+                        </li></a>
+                        <a href="../source/html/talents/korone/korone.html"><li id="koroneMain" class="talents">
+                            <p class="gencaptions">Inugami Korone</p>
+                        </li></a>
+                    </ul>
         </div>
         <!--gen4-->
         <div id="gen4">
-            <h1 class="genfont">Generation 3</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/pekora/pekora.html"><div id="pekora" class="talents">Usada Pekora</div></a>
-                <a href="../source/html/talents/rushia/rushia.html"><div id="rushia"class="talents">Uruha Rushia</div></a>
-                <a href="../source/html/talents/flare/flare.html"><div id="flare"class="talents">Shiranui Flare</div></a>
-                <a href="../source/html/talents/noel/noel.html"><div id="noel" class="talents">Shirogane Noel</div></a>
-                <a href="../source/html/talents/marine/marine.html"><div id="marine" class="talents">Houshou Marine</div></a>
-            </div>
+            <h1 class="genname">Generation 3</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/pekora/pekora.html"><li id="pekoraMain" class="talents">
+                            <p class="gencaptions">Usada Pekora</p>
+                        </li></a>
+                        <a href="../source/html/talents/rushia/rushia.html"><li id="rushiaMain"class="talents">
+                            <p class="gencaptions">Uruha Rushia</p>
+                        </li></a>
+                        <a href="../source/html/talents/flare/flare.html"><li id="flareMain"class="talents">
+                            <p class="gencaptions">Shiranui Flare</p>
+                        </li></a>
+                        <a href="../source/html/talents/noel/noel.html"><li id="noelMain" class="talents">
+                            <p class="gencaptions">Shirogane Noel</p>
+                        </li></a>
+                        <a href="../source/html/talents/marine/marine.html"><li id="marineMain" class="talents">
+                            <p class="gencaptions">Houshou Marine</p>
+                        </li></a>
+                    </ul>
         </div>
         <!--gen5-->
         <div id="gen5">
-            <h1  class="genfont">Generation 4</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/kanata/kanata.html"><div id="kanata" class="talents">Amane Kanata</div></a>
-                <a href="../source/html/talents/watame/watame.html"><div id="watame" class="talents">Tsunomaki Watame</div>
-                <a href="../source/html/talents/towa/towa.html"><div id="towa" class="talents">Tokoyami Towa</div></a>
-                <a href="../source/html/talents/luna/luna.html"><div id="luna" class="talents">Himemori Luna</div></a>
-                <a href="../source/html/talents/coco/coco.html"><div id="coco" class="talents">...</div></a>
-            </div>
+            <h1  class="genname">Generation 4</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/kanata/kanata.html"><li id="kanataMain" class="talents">
+                            <p class="gencaptions">Amane Kanata</p>
+                        </li></a>
+                        <a href="../source/html/talents/watame/watame.html"><li id="watameMain" class="talents">
+                            <p class="gencaptions">Tsunomaki Watame</p>
+                        </li>
+                        <a href="../source/html/talents/towa/towa.html"><li id="towaMain" class="talents">
+                            <p class="gencaptions">Tokoyami Towa</p>
+                        </li></a>
+                        <a href="../source/html/talents/luna/luna.html"><li id="lunaMain" class="talents">
+                            <p class="gencaptions">Himemori Luna</p>
+                        </li></a>
+                        <a href="../source/html/talents/coco/coco.html"><li id="cocoMain" class="talents">
+                            <p class="gencaptions">...</p>
+                        </li></a>
+                    </ul>
         </div>
 
         <div>
-            <h1 class="genfont">Generation 5</h1>
-            <div id="line"></div>
-            <div class="display">
-                <a href="../source/html/talents/lamy/lamy.html"><div id="lamy" class="talents">Yukihana Lamy</div></a>
-                <a href="../source/html/talents/nene/nene.html"><div id="nene" class="talents">Momosuzu Nene</div></a>
-                <a href="../source/html/talents/botan/botan.html"><div id="botan"class="talents">Shishiro Botan</div></a>
-                <a href="../source/html/talents/polka/polka.html"><div id="polka" class="talents">Omaru Polka</div></a>
-                <div id="aloe" class="talents">...</div>
-            </div>
+            <h1 class="genname">Generation 5</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/lamy/lamy.html"><li id="lamyMain" class="talents">
+                            <p class="gencaptions">Yukihana Lamy</p>
+                        </li></a>
+                        <a href="../source/html/talents/nene/nene.html"><li id="neneMain" class="talents">
+                            <p class="gencaptions">Momosuzu Nene</p>
+                        </li></a>
+                        <a href="../source/html/talents/botan/botan.html"><li id="botanMain"class="talents">
+                            <p class="gencaptions">Shishiro Botan</p>
+                        </li></a>
+                        <a href="../source/html/talents/polka/polka.html"><li id="polkaMain" class="talents">
+                            <p class="gencaptions">Omaru Polka</p>
+                        </li></a>
+                    </ul>
         </div>
-     </div>
- </div>
+    </div>
 </div>
+
+<!--Back to Top button-->
 <a href="#top-body" id="back-to-top"><i class="fa fa-arrow-up"></i>Back To Top</a>
+
+<!--Changelogs-->
 <button id="changelog">Change Log</button>
 <div id="change-log">
     <h1>Change Log</h1>
@@ -309,10 +397,88 @@
                     Kanata
                     -Campanella(collab)
             </p>
+        <h2>12.30.21</h2>
+            <p>-Finally finished sora(next robocco)
+                -Major update in the main page by changing the whole layout of the page
+                -Animation is back for now
+                -Added carousel to the navigation of main page
+                -Modified the dropdown
+                -There web pages now for robocco, still, can't access since lyrics is still not done
+                -Minor layout fix
+                -Minor color changes in changelog
+                -Added new songs from:
+
+                    Aqua
+                    -Ema Ema
+                    
+                    Suisei 
+                    -Bye Bye Rainy(with mv now)
+                    -Ema-ema(lyrics fixed)
+
+                    Sora
+                    -Ai Kotoba(cover)
+                    -Alien Alien(cover)
+                    -Angel(cover)
+                    -Autophagy(cover)
+                    -Cendrillon(cover)
+                    -Dance Robot Dance(cover)
+                    -Diamond Crevasse(cover)
+                    -Ema Ema(cover)
+                    -Envy baby(cover)
+                    -Hibana(cover)
+                    -Hot limit(cover)
+                    -Just a Sunny day For You(cover) 
+                    -Karakuri Pierrot(cover)
+                    -Kimagure Romance(cover)
+                    -King(cover)
+                    -Love trial(cover)
+                    -Mousou Kanshou(cover)
+                    -Natsu Matsuri(cover)
+                    -Nyannyanteki Uchuurun(cover)
+                    -Sobakasu(cover)
+                    -Suisei Honeymoon(cover)
+                    -Sweet Magic(cover)
+                    -Taiyoukei Disco(cover)
+                    -The Vampire(cover)
+                    -Venom(cover)
+
+                    -Dream Story(original)
+                    -Heroic heroine(original)
+                    -Hurray Hurray Love(original)
+                    -I Love you so Much I think I want to cry(original)
+                    -Image Source(original)
+                    -Kotobakaze(original)
+                    -Sainai Jibun ni Love Song wo(original)
+                    -Seesaw Game (original)
+                    -Sono ame no hi niwa(original)
+                    -Step and Go(original)
+                    -Wandering Days(original)
+                    -Wistful Record(original)
+                    -Wonderland (original)
+                    -Yumemiru Asterisk Dreaming Version(original)
+
+                    -Akatsuki no Kuruma(collab)
+                    -Donut Hole(collab)
+                    -Geki Teikoku Kakugekidan(collab)
+                    -Kimi wa Boku ni Niteiru(collab)
+                    -Kurenai Kurunikuru(collab)
+                    -Lion(collab)
+                    -Magia(collab)
+                    -Ojomajo Carnival(collab)
+                    -Remote Carnival(collab)
+                    -seishoujo Ryouiki(collab)
+                    -Tokyo Summer Session(collab)
+                    -Turing Love(collab)
+            </p>
     <button id="close">Close</button>
 </div>
 <div id="tocover"></div>
+<div id="coming" class="engbranch">
+    <h1>Coming Soon</h1>
+</div>
 </body>
+
+<!--footer sources-->
 <footer>
     <h1>Sources</h1>
     <p>"All purpose of this site is to provide lyrics to majority of the songs that Hololive has"</p>
@@ -353,6 +519,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js" integrity="sha512-eP6ippJojIKXKO8EPLtsUMS+/sAGHGo1UN/38swqZa1ypfcD4I0V/ac5G3VzaHfDaklFmQLEs51lhkkVaqg60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js" integrity="sha512-CPA5LMoJI/a5HkSIAKcBtFXe4gqGjPUL2ExF/3PmhrrHI17wod9xOqqF+0WZQRKIIq0KwF8oG5BaiWobtrke3A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="../source/back-to-top.js"></script>
+<script src="holobranch.js"></script>
+
+<!--changelog functionality-->
 <script>
     $(document).ready(() => {
         $("#change-log").hide()
@@ -370,6 +539,4 @@
         $("#changelog").show()
     })
 </script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N3ZBHG617E"></script>
 </html>

@@ -61,7 +61,7 @@
 } 
 
 #akanbe-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/akanbe.jpg);
 } 
 
 #akutsuki-no-kuruma-azki-sora{ 
@@ -77,7 +77,7 @@
 } 
 
 #amarylls-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/amarylls.jpg);
 } 
 
 #angel-sora{ 
@@ -121,7 +121,7 @@
 } 
 
 #baby-i-love-you-robo{
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/baby-i-love-you.jpg);
 } 
 
 #bakushou-polka{ 
@@ -157,7 +157,7 @@
 } 
 
 #bocca-della-verita-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/bocca-della-verita.jpg);
 } 
 
 #bocca-della-verita-towa{ 
@@ -169,7 +169,7 @@
 } 
 
 #boys-and-girls-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/boys-and-girls.jpg);
 } 
 
 #brilliant-towa{ 
@@ -179,6 +179,10 @@
 #bubble-love-watame{ 
     background: url(../../assets/Individuals/watame/cover/bubble-love.jpg);
 } 
+
+#bye-bye-rainy-suisei {
+    background: url(../../assets/Individuals/suisei/original/bye-bye-rainy.jpg);
+}
 
 #byoushin-wo-kamu{ 
     background: url(../../assets/Individuals/kanata/cover/byoushin-wo-kamu.jpg);
@@ -385,7 +389,7 @@
 } 
 
 #ema-ema-aqua{ 
-    background: url(../../assets/Individuals/);
+    background: url(../../assets/Individuals/aqua/cover/ema-ema.jpg);
 } 
 
 #ema-ema-sora{ 
@@ -453,7 +457,7 @@
 } 
 
 #fiction-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/original/fiction.jpg);
 } 
 
 #flos-okayu{ 
@@ -509,7 +513,7 @@
 } 
 
 #getsuyoubi-no-yuuutsu-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/getsuyoubi-no-yuuutsu.jpg);
 } 
 
 #ghost-rule-kanata{ 
@@ -589,11 +593,11 @@
 } 
 
 #happy-birthday-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/happy-birthday.jpg);
 } 
 
 #happy-haloween-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/happy-haloween.jpg);
 } 
 
 #heart-beat-azki{ 
@@ -684,7 +688,7 @@
     background: url(../../assets/Individuals);
 } 
 
-#hot-limit {
+#hot-limit-sora {
     background: url(../../assets/Individuals/sora/cover/hot-limit.jpg)
 }
 
@@ -869,7 +873,7 @@
 } 
 
 #king-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/king.jpg);
 } 
 
 #king-sora{ 
@@ -907,10 +911,6 @@
     background: url(../../assets/Individuals/matsuri/cover/kokoronoshi.jpg);
 }
 
-#konomedokino-sora{ 
-    background: url(../../assets/Individuals/sora/cover/konomedokino.jpg);
-} 
-
 #kotobakaze-sora{ 
     background: url(../../assets/Individuals/sora/original/kotobakaze.jpg);
 } 
@@ -920,7 +920,7 @@
 } 
 
 #kotonoha-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/original/kotonoha.jpg);
 } 
 
 #koyoi-wa-haloween{
@@ -944,7 +944,7 @@
 } 
 
 #kyokan-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/kyokan.jpg);
 } 
 
 #kyuuto-no-kanojo-okayu{ 
@@ -968,7 +968,7 @@
 } 
 
 #love-letter-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/love-letter.jpg);
 } 
 
 #love-trial-korone{ 
@@ -1024,7 +1024,7 @@
 }
 
 #melty-land-nightmare-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/melty-land-nightmare.jpg);
 } 
 
 #melty-land-nightmare-suisei{ 
@@ -1124,7 +1124,7 @@
 } 
 
 #next-wednesday-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/next-wednesday.jpg);
 }
 
 #niji-o-kakunekete-azki{
@@ -1202,6 +1202,10 @@
 #ochame-kinou-pekora{ 
     background: url(../../assets/Individuals/pekora/cover/ochame\ kinou.jpg);
 } 
+
+#ochame-kinou-robo {
+    background: url(../../assets/Individuals/robocco/cover/ochame-kinou.jpg);
+}
 
 #ochame-kinou-rushia{ 
     background: url(../../assets/Individuals/rushia/cover/ochame-kinou.jpg);
@@ -1336,11 +1340,11 @@
 }
 
 #platonic-girl-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/platonic-girl.jpg);
 } 
 
 #please-darling-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/please-darling.jpg);
 } 
 
 #pleiades-subaru{ 
@@ -1476,7 +1480,7 @@
 } 
 
 #shachiku-no-uta-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/original/shachiku-no-uta.jpg);
 } 
 
 #shallys-aki{ 
@@ -1504,7 +1508,7 @@
 } 
 
 #shiny-smily-story{ 
-    background: url(../../assets/Individuals/aqua/rusty-frowny-story.jpg);
+    background: url(../../assets/Individuals/aqua/original/shiny-smily-story.jpg);
 } 
 
 #shinzo-to-karakuri-azki{ 
@@ -1552,7 +1556,7 @@
 }
 
 #song-of-sketch-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/song-of-sketch.jpg);
 } 
 
 #sorairo-days-matsuri{ 
@@ -1688,7 +1692,7 @@
 }
 
 #the-boy-and-the-magic-robot-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/the-boy-and-the-magic-robot.jpg);
 } 
 
 #the-last-frontier-azki{ 
@@ -1780,7 +1784,7 @@
 } 
 
 #ugoku-ugoku-robo{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/ugoku-ugoku.jpg);
 } 
 
 #uma-to-shika-kanata{ 
@@ -1840,7 +1844,7 @@
 } 
 
 #vermont-kiss{ 
-    background: url(../../assets/Individuals);
+    background: url(../../assets/Individuals/robocco/cover/vermont-kiss.jpg)
 } 
 
 #viator-azki{ 
@@ -2012,6 +2016,7 @@
 #boys-and-girls-robo,
 #brilliant-towa,
 #bubble-love-watame,
+#bye-bye-rainy-suisei,
 #byoushin-wo-kamu,
 #callboy-okayu-kanata,
 #campanella-kanata,
@@ -2194,7 +2199,6 @@
 #kiseki-knot,
 #koi-no-mahou-subaru,
 #kokoronashi-matsuri,
-#konomedokino-sora,
 #kotobakaze-sora,
 #kotonoha-azki,
 #kotonoha-robo,
@@ -2268,6 +2272,7 @@
 #ochame-kinou-mio,
 #ochame-kinou-okayu,
 #ochame-kinou-pekora,
+#ochame-kinou-robo,
 #ochame-kinou-rushia,
 #ochame-kinou-shion,
 #ochame-kinou-sora,

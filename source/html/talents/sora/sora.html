@@ -143,7 +143,7 @@
                     <a href="../../collab/donut-hole.html"><li id="donut-hole">Donut Hole</li></a>
                     <a href="cover/ema-ema.html"><li id="ema-ema">Ema Ema</li></a>
                     <a href="cover/envy-baby.html"><li id="envy-baby">Envy Baby</li></a>
-                    <a href="../../collab/geki-teikokukagekidan.html"><li id="geki-teiko">Geki Teikokukagekidan</li></a>
+                    <a href="../../collab/geki-teikokukagekidan.html"><li id="geki-teiko">Geki! Teikoku Kakugekidan</li></a>
                     <a href="../../collab/hanamuke-no-tori.html"><li id="hanamuke-no-tori">Hanamuke no Tori</li></a>
                     <a href="cover/hibana.html"><li id="hibana">Hibana</li></a>
                     <a href="cover/hot-limit-sora.html"><li id="hot-limit">Hot Limit</li></a>
@@ -152,7 +152,6 @@
                     <a href="cover/kimagure-romance.html"><li id="kimagure-romantic">Kimagure Romantic</li></a>
                     <a href="../../collab/kimi-wa-boku-ni-niteiru.html"><li id="kimi-wa-boku-ni-niteiru">Kimi wa Boku ni Niteiru</li></a>
                     <a href="cover/king.html"><li id="king">King</li></a>
-                    <a href="cover/konomedokino.html"><li id="konomedokino">Konomedokino</li></a>
                     <a href="../../collab/lion.html"><li id="lion">Lion</li></a>
                     <a href="cover/love-trial.html"><li id="love-trial">Love Trial</li></a>
                     <a href="../../collab/magia.html"><li id="magia">Magia</li></a>
@@ -176,17 +175,29 @@
        </div>
        </div>
        <div id="unfinished">
-           <h1>This is not done yet!</h1>
+           <h1>Its kinda done now</h1>
            <p>
-                I will just include the dreaming album of the original 
-            and little bit of cover songs because they are too many. I still have school activities to do. I will try
-            to complete this if I finish the whole project.
+               Majority of the songs are not yet popular that's why some of the
+               songs doesn't have a complete translations
+
+               In addition, Sora sang a lot. There is still a lot of songs I didnt
+               included but I might add them later. So be patient, I think, if you are a Sora fan
             
-            How many of your cover songs that got copyrighted do you want?
+               How many of your cover songs that got copyrighted do you want?
             Sora: yes</p>
-           <a href="../../../../for now/main page click here.html">Go Back</a>
+           <button id="continue">Continue</button>
        </div>
        <div id="tocover"></div>
    </div>
    </body>
+   <script>
+       let button = document.getElementById("continue")
+       let warning = document.getElementById("unfinished")
+       let cover = document.getElementById("tocover")
+
+       button.addEventListener('click', () => {
+           warning.style.display = "none"
+           cover.style.display = "none"
+       })
+   </script>
    </html>
