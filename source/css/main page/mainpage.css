@@ -592,6 +592,10 @@ a{
         font-size: 3rem;
     }
 
+    .gencaptions{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
     #changelog {
         width: 20vw;
         height: 8vh;
@@ -660,6 +664,7 @@ a{
     }
 
     .gencaptions {
+        font-family: Arial, Helvetica, sans-serif;
         top: 5rem;
     }
 
