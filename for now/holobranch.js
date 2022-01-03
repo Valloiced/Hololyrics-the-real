@@ -1,6 +1,6 @@
 
 /* Carousel thingy */
-const branch = [".jpbranch", ".engbranch"]
+const branch = [".jpbranch", ".engbranch", ".indobranch"]
 
 $(document).ready(()=>{
     branch.map(items => {

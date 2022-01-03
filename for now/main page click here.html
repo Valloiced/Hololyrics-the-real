@@ -117,6 +117,9 @@
             <h1 class="engbranch">
                 hololive<span>eng</span>
             </h1>
+            <h1 class="indobranch">
+                hololive<span>indo</span>
+            </h1>
             <div id="arrow-right" onclick="update(1)">&#62</div>
         </div>
             <div id="gen-list" class="jpbranch">
@@ -128,18 +131,19 @@
                     <a href="#gen3"><li id="navgen3" class="nav-ani">Gen3</li></a>
                     <a href="#gen4"><li id="navgen4" class="nav-ani">Gen4</li></a>
                     <a href="#gen5"><li id="navgen5" class="nav-ani">Gen5</li></a>
+                    <a href="#gen6"><li id="navgen6" class="nav-ani">Gen6</li></a>
                 </ul>
             </div>
     </div>
 
 <!--Talents list-->
 <!--Hololive Jp branch-->
- <div id="gen0"></div>
+ <!-- <div id="gen0"></div> -->
  <div id="talents-list" class="jpbranch">
      <!--gen0-->
      <!--I know you are confused why gen0 has an id of gen1, but this is because of the
     scrolling bug that I can't fix other than this. Sooo, yeh, if it works it works-->
-        <div id="gen1">
+        <div id="gen0">
             <h1 class="genname">Generation 0</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -161,7 +165,7 @@
                     </ul>
         </div>
         <!--gen1-->
-        <div id="gen2">
+        <div id="gen1">
             <h1 class="genname">Generation 1</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -183,7 +187,7 @@
                     </ul>
         </div>
         <!--gen2-->
-        <div id="gaymers">
+        <div id="gen2">
             <h1 class="genname">Generation 2</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -205,7 +209,7 @@
                     </ul>
             </div>
             <!--gen3-->
-        <div id="gen3">
+        <div id="gaymers">
             <h1 class="genname">Hololive Gamers</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -224,8 +228,8 @@
                     </ul>
         </div>
         <!--gen4-->
-        <div id="gen4">
-            <h1 class="genname">Generation 3</h1>
+        <div id="gen3">
+            <h1 class="genname">Generation 3: Hololive Fantasy</h1>
                 <div id="line"></div>
                     <ul class="display">
                         <a href="../source/html/talents/pekora/pekora.html"><li id="pekoraMain" class="talents">
@@ -246,7 +250,7 @@
                     </ul>
         </div>
         <!--gen5-->
-        <div id="gen5">
+        <div id="gen4">
             <h1  class="genname">Generation 4</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -268,7 +272,7 @@
                     </ul>
         </div>
 
-        <div>
+        <div id="gen5">
             <h1 class="genname">Generation 5</h1>
                 <div id="line"></div>
                     <ul class="display">
@@ -283,6 +287,28 @@
                         </li></a>
                         <a href="../source/html/talents/polka/polka.html"><li id="polkaMain" class="talents">
                             <p class="gencaptions">Omaru Polka</p>
+                        </li></a>
+                    </ul>
+        </div>
+
+        <div id="gen6">
+            <h1 class="genname">Generation 6: HoloX(WIP)</h1>
+                <div id="line"></div>
+                    <ul class="display">
+                        <a href="../source/html/talents/darkness/darkness.html"><li id="darknessMain" class="talents">
+                            <p class="gencaptions">La+ Darkness</p>
+                        </li></a>
+                        <a href="../source/html/talents/lui/lui.html"><li id="takaneMain" class="talents">
+                            <p class="gencaptions">Takane Lui</p>
+                        </li></a>
+                        <a href="../source/html/talents/koyori/koyori.html"><li id="koyoriMain"class="talents">
+                            <p class="gencaptions">Hakui Koyori</p>
+                        </li></a>
+                        <a href="../source/html/talents/sakamata/sakamata.html"><li id="sakamataMain" class="talents">
+                            <p class="gencaptions">Sakamata Chloe</p>
+                        </li></a>
+                        <a href="../source/html/talents/iroha/iroha.html"><li id="irohaMain" class="talents">
+                            <p class="gencaptions">Kazama Iroha</p>
                         </li></a>
                     </ul>
         </div>
@@ -470,10 +496,20 @@
                     -Tokyo Summer Session(collab)
                     -Turing Love(collab)
             </p>
+        <h2>1.2.22</h2>
+            <p>-Finished robocco
+                -Added Gen 6(but still work in progress)
+                -Fixed the dropdown
+                -Minor adjustments to the main page
+                -Fixed blurry backgrounds in collabs(only collabs, not the solos)(I used an algorithm)
+                -Removed christmas hat in the logo
+                -For now, I will not list new addition from robocco since Im busy 
+                
+            </p>
     <button id="close">Close</button>
 </div>
 <div id="tocover"></div>
-<div id="coming" class="engbranch">
+<div id="coming" class="engbranch indobranch">
     <h1>Coming Soon</h1>
 </div>
 </body>
@@ -520,6 +556,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/ScrollTrigger.min.js" integrity="sha512-CPA5LMoJI/a5HkSIAKcBtFXe4gqGjPUL2ExF/3PmhrrHI17wod9xOqqF+0WZQRKIIq0KwF8oG5BaiWobtrke3A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="../source/back-to-top.js"></script>
 <script src="holobranch.js"></script>
+<script src="../source/update.js"></script>
 
 <!--changelog functionality-->
 <script>

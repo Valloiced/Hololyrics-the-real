@@ -91,7 +91,7 @@ a{
 
 #gen-list li{
     display: grid;
-    width: 10vw;
+    width: auto;
     height: 11vh;
     align-content: center;
     color: #E1f6FF;
@@ -157,6 +157,14 @@ a{
     background-position: center;
 }
 
+#navgen6 {
+    background: url(../../../assets/MainPageAssets/navbg/gen6.jpeg);
+    background-size:cover;
+    background-color: rgba(43,54,66,0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+}
+
 /*Talents*/
 #talents-list {
     display: block;
@@ -196,6 +204,7 @@ a{
 .genname{
     background: linear-gradient(180deg, rgb(25, 180, 231), rgb(195, 237, 253));
     -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     text-align: center;
     font-size: 6vw;
@@ -541,6 +550,38 @@ a{
 #aloeMain {
     background: url(../../../assets/MainPageAssets/Talents/Press\ F.png);
     background-size: cover;
+    background-position: top center;
+}
+
+/* gen 6 */
+#darknessMain {
+    background: url(../../../assets/MainPageAssets/Talents/yes-mah-dark.png);
+    background-size: cover;
+    background-position: top center;
+}
+
+#takaneMain {
+    background: url(../../../assets/MainPageAssets/Talents/takane-lui.png);
+    background-size: cover;
+    background-position: top center;
+}
+
+#koyoriMain {
+    background: url(../../../assets/MainPageAssets/Talents/i-dont-know-who-tf-is-this-but-she-is-cute.png);
+    background-size: cover;
+    background-position: top center;
+}
+
+#sakamataMain {
+    background: url(../../../assets/MainPageAssets/Talents/ero-orca.png);
+    background-size: cover;
+    background-position: top center;
+}
+
+#irohaMain {
+    background: url(../../../assets/MainPageAssets/Talents/kazama-iroha.png);
+    background-size: cover;
+    background-position: top center;
 }
 
 /*Mobile ver*/

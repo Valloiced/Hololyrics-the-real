@@ -1,7 +1,7 @@
 #dropdown-content {
     display: block;
     position: relative;
-    min-width: 10vw;
+    width: 20vw;
     height: auto;
 }
 
@@ -24,6 +24,7 @@
 
 /*The title inside the li tags*/
 #dropdown-content p {
+    position: absolute;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +38,7 @@
 /*To dropdown the one part of generation hovered*/
 #dropdown-content li ul {
     display: none;
-    margin-left: 1vw;
+    margin-left: 14vw;
 }
 
 /*The attributes of the single talents*/
@@ -130,11 +131,14 @@ nav:hover .hoverdrop {
 
 #subgen4 {
     background: url(../../assets/Individuals/navbg/gen4.jpg);
-
 }
 
 #subgen5 {
     background: url(../../assets/Individuals/navbg/gen5.jpg);
+}
+
+#subgen6 {
+    background: url(../../assets/Individuals/navbg/gen6.jpeg);
 }
 
 #dropdown-content p {
@@ -388,6 +392,44 @@ nav:hover .hoverdrop {
     background-color: var(--bg-color);
     background-blend-mode: overlay; 
 }
+
+/* gen 6*/
+
+#darkness {
+    background: url(../../assets/MainPageAssets/Talents/yes-mah-dark.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay;   
+}
+
+#takane {
+    background: url(../../assets/MainPageAssets/Talents/takane-lui.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#koyori {
+    background: url(../../assets/MainPageAssets/Talents/i-dont-know-who-tf-is-this-but-she-is-cute.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#sakamata {
+    background: url(../../assets/MainPageAssets/Talents/ero-orca.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
+#iroha {
+    background: url(../../assets/MainPageAssets/Talents/kazama-iroha.png);
+    background-size: cover;
+    background-color: var(--bg-color);
+    background-blend-mode: overlay; 
+}
+
 
 
 #dropdown-content li ul li {
