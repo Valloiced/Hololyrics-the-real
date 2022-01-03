@@ -37,6 +37,10 @@ body{
     background: url(../../../../assets/Individuals/kanata/original/tokusya-seizon-wonder-la-der!!.jpg);
 }
 
+#madoromi {
+    background: url(../../../../assets/Individuals/kanata/original/madoromi.jpg);
+}
+
 #dreaming-days {
     background: url(../../../../assets/Individuals/kanata/original/dreaming-days.jpg);
 }
@@ -52,6 +56,10 @@ body{
 /*cover*/
 #additional-memory {
     background: url(../../../../assets/Individuals/kanata/cover/additional-memory.jpg);
+}
+
+#agape {
+    background: url(../../../../assets/Individuals/kanata/cover/agape.jpg);
 }
 
 #alice-in-ny {
@@ -117,6 +125,10 @@ body{
 
 #soran-boshi {
     background: url(../../../../assets/Individuals/kanata/cover/soran-boshi.jpg);
+}
+
+#to-me {
+    background: url(../../../../assets/Individuals/kanata/cover/to-me.jpg);
 }
 
 #the-religion {

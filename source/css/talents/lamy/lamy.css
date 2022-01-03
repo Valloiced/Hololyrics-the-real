@@ -37,8 +37,20 @@ body{
     background: url(../../../../assets/Individuals/lamy/cover/kaibutsu-san.jpg);
 }
 
+#lion {
+    background: url(../../../../assets/Individuals/lamy/cover/lion.jpg);
+}
+
 #mr-music {
     background: url(../../../../assets/Individuals/lamy/cover/mr.music.jpg);
+}
+
+#ochame-kinou {
+    background: url(../../../../assets/Individuals/lamy/cover/ochame-kinou.jpg);
+}
+
+#sakura-skip {
+    background: url(../../../../assets/Individuals/lamy/cover/sakura-skip.jpg);
 }
 
 #suki-yuki {

@@ -1,7 +1,11 @@
 /*I took a lot of time just for this, damn I hate myself*/
-/*This is too time-consuming, took me 1 week*/
+/*This is too time-consuming, took me 2 week*/
 #container {
     background-color: rgba(255, 255, 255, 0.822);
+}
+
+#acacia-syndrome-shion {
+    background: url(../../assets/Individuals/shion/original/acacia-syndrome.jpg)
 }
 
 #adamas-shion{ 
@@ -18,6 +22,10 @@
 
 #agape-azki{ 
     background: url(../../assets/Individuals/);
+}
+
+#agape-kanata {
+    background: url(../../assets/Individuals/kanata/cover/agape.jpg)
 }
 
 #agony-azki{ 
@@ -88,12 +96,16 @@
     background: url(../../assets/Individuals/kanata/cover/angelfish.jpg);
 }
 
+#animal-botan {
+    background: url(../../assets/Individuals/botan/cover/animal-botan.jpg);
+}
+
 #animal-fubuki {
     background: url(../../assets/Individuals/fubuki/cover/animal-fubuki.jpg);
 }
 
-#animal-botan {
-    background: url(../../assets/Individuals/botan/cover/animal-botan.jpg);
+#animal-mio {
+    background: url(../../assets/Individuals/mio/cover/animal.jpg);
 }
 
 #animal-okayu {
@@ -335,6 +347,10 @@
 #death-should-not-have-taken-thee{ 
     background: url(../../assets/Individuals/ayame/cover/death-should-not-have-taken-thee!.jpg);
 } 
+
+#deep-indigo-ayame {
+    background: url(../../assets/Individuals/ayame/cover/deep-indigo.jpg);
+}
 
 #delusion-tax-choco{ 
     background: url(../../assets/Individuals/choco/cover/delusion-tax.jpg);
@@ -840,6 +856,10 @@
     background: url(../../assets/Individuals/aki/cover/kimagure-mercy.jpg);
 } 
 
+#kimagure-mercy-ayame {
+    background: url(../../assets/Individuals/ayame/cover/kimagure-mercy.jpg);
+}
+
 #kimagure-romantic-sora{ 
     background: url(../../assets/Individuals/sora/cover/kimagure-romantic.jpg);
 }
@@ -951,6 +971,10 @@
     background: url(../../assets/Individuals/okayu/cover/kyuuto-na-kanojo.jpg);
 } 
 
+#lion-botan-lamy {
+    background: url(../../assets/Individuals/botan/cover/lion.jpg);
+}
+
 #lion-sora{ 
     background: url(../../assets/Individuals/sora/cover/lion.jpg);
 } 
@@ -986,6 +1010,10 @@
 #lunch-with-me{ 
      background: url(../../assets/Individuals/nene/original/lunch-with-me.png);
 } 
+
+#madoromi-kanata-towa{
+    background: url(../../assets/Individuals/kanata/original/madoromi.jpg)
+}
 
 #mage-of-violet-shion{ 
     background: url(../../assets/Individuals/shion/original/mage-of-violet.jpg);
@@ -1167,6 +1195,10 @@
     background: url(../../assets/Individuals/choco/cover/ochame-kinou.jpg);
 }
 
+#ochame-kinou-gen5 {
+    background: url(../../assets/Individuals/lamy/cover/ochame-kinou.jpg);
+}
+
 #ochame-kinou-kanata{ 
     background: url(../../assets/Individuals/kanata/cover/ochame-kinou.jpg);
 } 
@@ -1250,6 +1282,10 @@
 #okachame-sensou-aqua{ 
     background: url(../../assets/Individuals/aqua/cover/okochame-sensou.jpg);
 } 
+
+#okaeri-sora {
+    background: url(../../assets/Individuals/sora/cover/okaeri.jpg)
+}
 
 #one-room-sugar-room-aqua{ 
     background: url(../../assets/Individuals/aqua/cover/one-room-sugar-life.jpg);
@@ -1494,6 +1530,10 @@
 #shhhhhhh-azki{ 
     background: url(../../assets/Individuals);
 } 
+
+#shishi-wata-cooking-watame-botan {
+    background: url(../../assets/Individuals/watame/original/shishi-wata-cooking.jpg)
+}
 
 #shijoshugi-adtruck{ 
     background: url(../../assets/Individuals/matsuri/original/shijoshugi-adtruck.png);
@@ -1747,6 +1787,10 @@
     background: url(../../assets/Individuals/sora/cover/tokyo-sama.jpg);
 } 
 
+#to-me-kanata {
+    background: url(../../assets/Individuals/kanata/cover/to-me.jpg)
+}
+
 #tondemo-wonders-polka{
     background: url(../../assets/Individuals/polka/cover/tondemo-wonders.jpg);
 }
@@ -1797,6 +1841,10 @@
 
 #umi-no-soko-kara-aki{ 
     background: url(../../assets/Individuals/aki/cover/I\ believe-umi-no-soko-kara.jpg);
+}
+
+#umi-o-oyogu-tsuki-sora {
+    background: url(../../assets/Individuals/sora/cover/umi-o-oyogu-tsuki.jpg)
 }
 
 #umiyuri-kaiteitan-okayu{ 
@@ -1975,7 +2023,9 @@
 #adamas-shion,
 #additional-memory-kanata,
 #adrenaline-subaru,
+#acacia-syndrome-shion,
 #agape-azki,
+#agape-kanata,
 #agony-azki,
 #ahoy-marine,
 #ai-dee-nene,
@@ -1993,8 +2043,9 @@
 #amarylls-robo,
 #angel-sora,
 #angelfish-suisei-kanata,
-#animal-fubuki,
 #animal-botan,
+#animal-fubuki,
+#animal-mio,
 #animal-okayu,
 #aoi-yume-azki,
 #aquairo-palette-aqua,
@@ -2055,6 +2106,7 @@
 #dance-robot-dance-sora,
 #daze-aki,
 #death-should-not-have-taken-thee,
+#deep-indigo-ayame,
 #delusion-tax-choco,
 #diamond-crevasse-sora,
 #discommunication-alien-mel,
@@ -2181,6 +2233,7 @@
 #karakuri-pierrot-sora,
 #kataomi-matsuri,
 #kimagure-mercy-aki,
+#kimagure-mercy-ayame,
 #kimagure-romantic-sora,
 #kimi-no-shirinai-monogatari-matsuri,
 #kimi-wa-boku-ni-niteiru-sora-azki,
@@ -2209,6 +2262,7 @@
 #kuroi-hitsuji-towa,
 #kyokan-robo,
 #kyuuto-no-kanojo-okayu,
+#lion-botan-lamy,
 #lion-sora,
 #lioness-pride-botan,
 #loser-girl-matsuri,
@@ -2218,6 +2272,7 @@
 #love-trial-sora,
 #loves-delivery-service-azki,
 #lunch-with-me,
+#madoromi-kanata-towa,
 #mage-of-violet-shion,
 #magia-sora,
 #magnet-rushia-marine,
@@ -2263,6 +2318,7 @@
 #ochame-kinou-ayame,
 #ochame-kinou-azki,
 #ochame-kinou-choco,
+#ochame-kinou-gen5,
 #ochame-kinou-kanata,
 #ochame-kinou-luna,
 #ochame-kinou-marine,
@@ -2284,6 +2340,7 @@
 #odo-shion,
 #ojomajo-carnival-sora,
 #okachame-sensou-aqua,
+#okaeri-sora,
 #one-room-sugar-room-aqua,
 #onegai-darling-matsuri,
 #only-my-railgun-azki,
@@ -2345,6 +2402,7 @@
 #shallys-aki,
 #shape-of-you-haato,
 #shhhhhhh-azki,
+#shishi-wata-cooking-watame-botan,
 #shijoshugi-adtruck,
 #shijoshugi-adtruck-kanata-nene,
 #shining-star-azki,
@@ -2408,6 +2466,7 @@
 #title-nante-aki,
 #tokusya-seizon-wonder-la-der,
 #tokyo-sama-sora-azki,
+#to-me-kanata,
 #tondemo-wonders-polka,
 #tsukiakari-suisei,
 #turing-love-aqua-okayu,
@@ -2421,6 +2480,7 @@
 #uma-to-shika-kanata,
 #umapyoi-densetsu,
 #umi-no-soko-kara-aki,
+#umi-o-oyogu-tsuki-sora
 #umiyuri-kaiteitan-okayu,
 #under-cover-polka,
 #unison-marine,

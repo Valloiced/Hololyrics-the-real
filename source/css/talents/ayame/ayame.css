@@ -55,6 +55,13 @@ body{
 }
 
 /*cover*/
+#deep-indigo {
+    background: url(../../../../assets/Individuals/ayame/cover/deep-indigo.jpg);
+}
+
+#kimagure-mercy {
+    background: url(../../../../assets/Individuals/ayame/cover/kimagure-mercy.jpg);
+}
 
 #hana-ni-bourei {
     background: url(../../../../assets/Individuals/ayame/cover/hana-ni-bourei.jpg);

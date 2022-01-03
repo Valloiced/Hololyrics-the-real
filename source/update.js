@@ -1,3 +1,4 @@
+/* Function that change the original bg of lyrics page if low resolution*/
 let checkResolution = () => {
     let attr = $("iframe").attr('src')
     const videoId = attr.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
@@ -31,10 +32,12 @@ let checkResolution = () => {
     console.log("Currently using the default bg")
 }
 
+/* Calling the checkResolution function if the user is in a lyrics page*/
 if($("#video").length){
     checkResolution()
 }
 
+/* Function that adds gen6 to the dropdown*/ 
 let addNewGenDropdown = (talents, name, href) => {
     let dropdown = $("#dropdown-content")
     let newList = document.createElement("li")
@@ -67,6 +70,7 @@ if($(".genname").length){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
                     ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
                     ["../source/html/talents/darkness/darkness.html", "../source/html/talents/lui/lui.html", "../source/html/talents/koyori/koyori.html", "../source/html/talents/sakamata/sakamata.html", "../source/html/talents/iroha/iroha.html"] )
+    console.log("Main Page Dropdown is being used")
 }
 
 /* Two regex so that its accurate to compare two bitches for differnt dropdowns */
@@ -78,8 +82,9 @@ let regex2 = test2.match(/(\.\.\/|\.\.\/\.\.\/)/g)
 //If the site is collab
 if(regex[1] == "talents" && !$(".genname").length){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
-    ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
-    ["../talents/darkness/darkness.html", "../talents/lui/lui.html", "../talents/koyori/koyori.html", "../talents/sakamata/sakamata.html", "../talents/iroha/iroha.html"] )
+                    ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
+                    ["../talents/darkness/darkness.html", "../talents/lui/lui.html", "../talents/koyori/koyori.html", "../talents/sakamata/sakamata.html", "../talents/iroha/iroha.html"] )
+    console.log("Collab Page Dropdown is being used")
 }
 
 //If the site is a lyrics page
@@ -87,6 +92,7 @@ if(regex2.length == 2 || regex.length == 2 && regex[1] != "talents"){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
     ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
     ["../../darkness/darkness.html", "../../lui/lui.html", "../../koyori/koyori.html", "../../sakamata/sakamata.html", "../../iroha/iroha.html"] )
+    console.log("Lyrics Page Dropdown is being used")
 }
 
 //If the site is a talent front page
@@ -94,7 +100,7 @@ if(regex.length == 1 && regex2.length == 1){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
                   ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
                   ["../darkness/darkness.html", "../lui/lui.html", "../koyori/koyori.html", "../sakamata/sakamata.html", "../iroha/iroha.html"] )
-                console.log("Front Page Dropdown")
+    console.log("Front Page Dropdown is being used")
 }
 
 

@@ -65,6 +65,10 @@ body{
 }
 
 /*cover*/
+#animal {
+    background: url(../../../../assets/Individuals/mio/cover/animal.jpg);
+}
+
 #dyed-in-your-color {
     background: url(../../../../assets/Individuals/mio/cover/dyed-in-your-color.jpg);
 }

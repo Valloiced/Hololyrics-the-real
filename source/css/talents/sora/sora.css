@@ -283,6 +283,10 @@ body{
     background: url(../../../../assets/Individuals/sora/cover/ojomajo-carnival.jpg);
 }
 
+#okaeri {
+    background: url(../../../../assets/Individuals/sora/cover/okaeri.jpg);
+}
+
 #rain-stop-goodbye{ 
     background: url(../../../../assets/Individuals/sora/cover/rain-stops-goodbye.jpg);
 }
@@ -311,7 +315,7 @@ body{
     background: url(../../../../assets/Individuals/sora/cover/taiyoukei-disco.jpg);
 }
 
- #the-vampire{ 
+#the-vampire{ 
     background: url(../../../../assets/Individuals/sora/cover/the-vampire.jpg);
 }
 
@@ -321,6 +325,10 @@ body{
 
 #turing-love {
     background: url(../../../../assets/Individuals/sora/cover/turing-love.jpg);
+}
+
+#umi-o-oyogu-tsuki {
+    background: url(../../../../assets/Individuals/sora/cover/umi-o-oyogu-tsuki.jpg);
 }
 
 #venom{ 
