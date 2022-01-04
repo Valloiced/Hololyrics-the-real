@@ -1,40 +1,5 @@
-/* Function that change the original bg of lyrics page if low resolution*/
-let checkResolution = () => {
-    let attr = $("iframe").attr('src')
-    const videoId = attr.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
-    let bg = $("body").attr('id')
-
-    //Getting the width of the original background
-    let idBg = $("#" + bg).css("background").match(/http(.)*(jpeg|jpg)/g).pop()
-    let testImage = new Image()
-    testImage.src = idBg
-
-    //Activating if the original background is in low resolution
-    //If low resolution, this function will get the maximum resolution of the video's thumbnail and make this as the new background
-    if(videoId.length == 11 && testImage.width < 600){
-        let newImage = "url('https://img.youtube.com/vi/"+ videoId +"/maxresdefault.jpg')"
-        let url = "https://img.youtube.com/vi/"+ videoId +"/maxresdefault.jpg"
-        const imageApi = new Image()
-        imageApi.src = url
-
-        imageApi.addEventListener('load',() =>{
-            if(imageApi.naturalWidth > 600){
-                $("#" + bg).css('background', newImage)
-                .css('background-position', 'center')
-                .css('background-size', 'cover')
-                .css('background-repeat', 'no-repeat')
-                .css('background-attachment', 'fixed')
-            }
-        })
-        console.log("Changed the background")
-        return 0
-    }
-    console.log("Currently using the default bg")
-}
-
-/* Calling the checkResolution function if the user is in a lyrics page*/
-if($("#video").length){
-    checkResolution()
+const sleep = (time) => {
+    return new Promise(resolve => {setTimeout(resolve, time)})
 }
 
 /* Function that adds gen6 to the dropdown*/ 
@@ -102,6 +67,49 @@ if(regex.length == 1 && regex2.length == 1){
                   ["../darkness/darkness.html", "../lui/lui.html", "../koyori/koyori.html", "../sakamata/sakamata.html", "../iroha/iroha.html"] )
     console.log("Front Page Dropdown is being used")
 }
+
+
+/* Function that change the original bg of lyrics page if low resolution*/
+let checkResolution = async() => {
+    let attr = $("iframe").attr('src')
+    const videoId = attr.match(/youtube\.com.*(\?v=|\/embed\/)(.{11})/).pop();
+    let bg = $("body").attr('id')
+
+    //Getting the width of the original background
+    let idBg = $("#" + bg).css("background").match(/(http|file)(.)*(jpeg|jpg|png)/g).pop()
+    let testImage = new Image()
+    testImage.src = idBg
+    await sleep(100)
+    
+
+    //Activating if the original background is in low resolution
+    //If low resolution, this function will get the maximum resolution of the video's thumbnail and make this as the new background
+    if(videoId.length == 11 && testImage.width < 600){
+        let newImage = "url('https://img.youtube.com/vi/"+ videoId +"/maxresdefault.jpg')"
+        let url = "https://img.youtube.com/vi/"+ videoId +"/maxresdefault.jpg"
+        const imageApi = new Image()
+        imageApi.src = url
+
+        imageApi.addEventListener('load',() =>{
+            if(imageApi.naturalWidth > 600){
+                $("#" + bg).css('background', newImage)
+                .css('background-position', 'center')
+                .css('background-size', 'cover')
+                .css('background-repeat', 'no-repeat')
+                .css('background-attachment', 'fixed')
+            }
+        })
+        console.log("Changed the background")
+        return 0
+    }
+    console.log("Currently using the default bg")
+}
+
+/* Calling the checkResolution function if the user is in a lyrics page*/
+if($("#video").length){
+    checkResolution()
+}
+
 
 
 

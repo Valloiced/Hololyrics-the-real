@@ -444,6 +444,10 @@
     background: url(../../assets/Individuals/watame/original/everlasting.jpg);
 } 
 
+#eye-lui {
+    background: url(../../assets/Individuals/lui/cover/eye.jpg);
+}
+
 #eye-towa{
     background: url(../../assets/Individuals/towa/cover/eye.jpg);
 }
@@ -784,6 +788,10 @@
     background: url(../../assets/Individuals/rushia/original/iris.jpg);
 } 
 
+#is-it-love-lui {
+    background: url(../../assets/Individuals/lui/cover/is-it-love.jpg);
+}
+
 #jealousies-polka{ 
     background: url(../../assets/Individuals/polka/cover/jealousies.jpg);
 } 
@@ -838,6 +846,10 @@
 
 #kakero-suisei{ 
     background: url(../../assets/Individuals/suisei/original/Kakero.jpg);
+}
+
+#kamippoi-na-laplus {
+    background: url(../../assets/Individuals/darkness/cover/kamippoi-na.jpg);
 }
 
 #kamippo-na-shion{
@@ -1155,6 +1167,10 @@
     background: url(../../assets/Individuals/robocco/cover/next-wednesday.jpg);
 }
 
+#nh-uh-uh-koyori {
+    background: url(../../assets/Individuals/koyori/cover/nh-uh-uh.jpg);
+}
+
 #niji-o-kakunekete-azki{
     background: url(../../assets/Individuals);
 } 
@@ -1197,6 +1213,10 @@
 
 #ochame-kinou-gen5 {
     background: url(../../assets/Individuals/lamy/cover/ochame-kinou.jpg);
+}
+
+#ochame-kinou-gen6 {
+    background: url(../../assets/Individuals/darkness/cover/ochame-kinou.jpg);
 }
 
 #ochame-kinou-kanata{ 
@@ -1438,6 +1458,10 @@
 #rotate-repeated-azki{ 
     background: url(../../assets/Individuals);
 } 
+
+#ruma-koyori {
+    background: url(../../assets/Individuals/koyori/cover/ruma.jpg);
+}
 
 #saga-jihen{ 
     background: url(../../assets/Individuals/suisei/cover/saga\ jihen\ ahhhhhhhhhh.jpg);
@@ -2130,6 +2154,7 @@
 #eternity-bright-azki,
 #ever-blue-polka,
 #everlasting-soul-watame,
+#eye-lui,
 #eye-towa,
 #fake-fake-fake-azki,
 #fansa-coco,
@@ -2215,6 +2240,7 @@
 #intersection-azki,
 #interact-fantasia,
 #iris-rushia,
+#is-it-love-lui,
 #jealousies-polka,
 #jibunkatte-dazzling-suisei,
 #jingle-bells,
@@ -2229,6 +2255,7 @@
 #kaishin-no-ichigeki-ayame,
 #kaisou-ressha-aqua,
 #kakero-suisei,
+#kamippoi-na-laplus,
 #kamippoi-na-shion,
 #karakuri-pierrot-sora,
 #kataomi-matsuri,
@@ -2308,6 +2335,7 @@
 #nenenenenenenene-daibakuso,
 #next-color-planet-suisei,
 #next-wednesday-robo,
+#nh-uh-uh-koyori,
 #niji-o-kakunekete-azki,
 #ningendatta-azki,
 #nonbirito-azki,
@@ -2319,6 +2347,7 @@
 #ochame-kinou-azki,
 #ochame-kinou-choco,
 #ochame-kinou-gen5,
+#ochame-kinou-gen6,
 #ochame-kinou-kanata,
 #ochame-kinou-luna,
 #ochame-kinou-marine,
@@ -2379,6 +2408,7 @@
 #remote-control-sora-robocco,
 #renai-circulation-watame,
 #rotate-repeated-azki,
+#ruma-koyori,
 #saga-jihen,
 #saikai-suisei,
 #saikyo-tensai-wonderful-world-of-korone,
