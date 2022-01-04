@@ -1,2 +1,3 @@
 # Hololyrics-the-real
-#So uhh its a website, uhh yeh, that's it
+
+This is basically a lyrics provider website but for hololive
