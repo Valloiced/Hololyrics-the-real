@@ -15,9 +15,33 @@ $(document).ready(() => {
     analytics()
 })
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/* Adding favicon to all site*/
+let addFavicon = (path) => {
+    let head = document.querySelector("head")
+    let rel = ["apple-touch-icon", "icon", "icon", "manifest"]
+    let href = ["apple-touch-icon.png", "favicon-32x32.png", "favicon-16x16.png", "site.webmanifest"]
+    let sizes = ["180x180", "32x32", "16x16", null]
 
+    for(let i = 0; i < rel.length; i++){
+        let link = document.createElement("link")
+        link.rel = rel[i]
 
+        if(i === 3){
+        link.href = href[i]
+        }
 
+        link.href = path + href[i]
+        if(sizes[i] !== null){
+            link.sizes = sizes[i]
+        }
+        
+        head.appendChild(link)
+    }
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 const sleep = (time) => {
     return new Promise(resolve => {setTimeout(resolve, time)})
@@ -56,7 +80,7 @@ if($(".genname").length){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
                     ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
                     ["../source/html/talents/darkness/darkness.html", "../source/html/talents/lui/lui.html", "../source/html/talents/koyori/koyori.html", "../source/html/talents/sakamata/sakamata.html", "../source/html/talents/iroha/iroha.html"] )
-    console.log("Main Page Dropdown is being used")
+    addFavicon("../favicon/")
 }
 
 /* Two regex so that its accurate to compare two bitches for differnt dropdowns */
@@ -70,7 +94,7 @@ if(regex[1] == "talents" && !$(".genname").length){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
                     ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
                     ["../talents/darkness/darkness.html", "../talents/lui/lui.html", "../talents/koyori/koyori.html", "../talents/sakamata/sakamata.html", "../talents/iroha/iroha.html"] )
-    console.log("Collab Page Dropdown is being used")
+    addFavicon("../../../favicon/")
 }
 
 //If the site is a lyrics page
@@ -78,7 +102,7 @@ if(regex2.length == 2 || regex.length == 2 && regex[1] != "talents"){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
     ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
     ["../../darkness/darkness.html", "../../lui/lui.html", "../../koyori/koyori.html", "../../sakamata/sakamata.html", "../../iroha/iroha.html"] )
-    console.log("Lyrics Page Dropdown is being used")
+    addFavicon("../../../../../favicon/")
 }
 
 //If the site is a talent front page
@@ -86,7 +110,7 @@ if(regex.length == 1 && regex2.length == 1){
     addNewGenDropdown(["darkness", "takane", "koyori", "sakamata", "iroha"], 
                   ["La+ Darkness", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazuma Iroha"],
                   ["../darkness/darkness.html", "../lui/lui.html", "../koyori/koyori.html", "../sakamata/sakamata.html", "../iroha/iroha.html"] )
-    console.log("Front Page Dropdown is being used")
+    addFavicon("../../../../favicon/")
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -122,10 +146,7 @@ let checkResolution = async() => {
                 .css('background-attachment', 'fixed')
             }
         })
-        console.log("Changed the background")
-        return 0
     }
-    console.log("Currently using the default bg")
 }
 
 /* Calling the checkResolution function if the user is in a lyrics page or collab page*/
@@ -146,5 +167,4 @@ let changeTitleInLyricsPages = () => {
 if($(".captions").length){
     changeTitleInLyricsPages()
 }
-
 
