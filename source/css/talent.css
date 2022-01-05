@@ -154,8 +154,17 @@
     #cover {
         margin: 0;
     }
+
     #song-content ul li:hover {
         transform: none !important;
+    }
+
+    #line {
+        width: 80%;
+    }
+
+    #line2 {
+        display: none;
     }
 }
 
