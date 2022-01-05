@@ -1,3 +1,24 @@
+$(document).ready(() => {
+    let analytics = () => {
+        let script = document.createElement("script")
+        let head = document.querySelector("head")
+        script.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-FTDE18TVX4")
+
+        head.appendChild(script)
+        
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-FTDE18TVX4');
+    }
+    analytics()
+})
+
+
+
+
+
 const sleep = (time) => {
     return new Promise(resolve => {setTimeout(resolve, time)})
 }
@@ -68,6 +89,8 @@ if(regex.length == 1 && regex2.length == 1){
     console.log("Front Page Dropdown is being used")
 }
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 /* Function that change the original bg of lyrics page if low resolution*/
 let checkResolution = async() => {
@@ -105,11 +128,23 @@ let checkResolution = async() => {
     console.log("Currently using the default bg")
 }
 
-/* Calling the checkResolution function if the user is in a lyrics page*/
+/* Calling the checkResolution function if the user is in a lyrics page or collab page*/
 if($("#video").length){
     checkResolution()
 }
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+/* Changing the websites title based on the title of the song in the lyrics page */
+let changeTitleInLyricsPages = () => {
+    let title = document.querySelector(".captions")
+    let h1 = title.querySelector("h1").innerText
+    document.querySelector("title").innerHTML = h1
+}
+
+if($(".captions").length){
+    changeTitleInLyricsPages()
+}
 
 
