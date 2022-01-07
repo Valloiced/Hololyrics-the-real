@@ -123,10 +123,12 @@ let checkResolution = async() => {
     let bg = $("body").attr('id')
 
     //Getting the width of the original background
-    let idBg = $("#" + bg).css("background").match(/(http|file)(.)*(jpeg|jpg|png)/g).pop()
     let testImage = new Image()
+    if($("#" + bg).length){
+    let idBg = $("#" + bg).css("background").match(/(http|file)(.)*(jpeg|jpg|png)/g).pop()
     testImage.src = idBg
     await sleep(100)
+    }
     
 
     //Activating if the original background is in low resolution

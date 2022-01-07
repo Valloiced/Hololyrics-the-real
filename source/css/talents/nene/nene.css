@@ -59,6 +59,10 @@ body{
 }
 
 /*cover*/
+#absolute-5 {
+    background: url(../../../../assets/Individuals/nene/cover/absolute-5.jpg);
+}
+
 #ai-dee {
     background: url(../../../../assets/Individuals/nene/cover/ai-dee.jpg);
 }

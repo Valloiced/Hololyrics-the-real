@@ -80,12 +80,32 @@ body{
 
 
 /*covers*/
+#absolute-5 {
+    background: url(../../../../assets/Individuals/suisei/cover/absolute-5.jpg);
+}
+
+#alien-alien {
+    background: url(../../../../assets/Individuals/suisei/cover/alien-alien.jpg);
+}
+
+#alive-factor {
+    background: url(../../../../assets/Individuals/suisei/cover/alive-factor.jpg);
+}
+
 #angelfish {
     background: url(../../../../assets/Individuals/suisei/cover/angelfish.jpg);
 }
 
 #alice-in-ny {
     background: url(../../../../assets/Individuals/suisei/cover/alice\ in\ ny.jpg);
+}
+
+#blue-bird {
+    background: url(../../../../assets/Individuals/suisei/cover/blue-bird.jpg);
+}
+
+#champagne {
+    background: url(../../../../assets/Individuals/suisei/cover/champagne.jpg);
 }
 
 #cinema {
@@ -100,12 +120,20 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/cry\ baby.jpg);
 }
 
+#easter-carnival {
+    background: url(../../../../assets/Individuals/suisei/cover/easter-carnival.jpg);
+}
+
 #ema-ema {
     background: url(../../../../assets/Individuals/suisei/cover/ema-ema.jpg);
 }
 
 #getcha {
     background: url(../../../../assets/Individuals/suisei/cover/getcha.jpg);
+}
+
+#guilty-kiss {
+    background: url(../../../../assets/Individuals/suisei/cover/guilty-kiss.jpg);
 }
 
 #haiiro-to-ao {
@@ -120,12 +148,24 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/hikaru\ nara.jpg);
 }
 
+#holy-angel-carol {
+    background: url(../../../../assets/Individuals/suisei/cover/holy-angel-carol.jpg);
+}
+
+#kami-no-manimani {
+    background: url(../../../../assets/Individuals/suisei/cover/kami-no-manimani.jpg);
+}
+
 #king {
     background: url(../../../../assets/Individuals/suisei/cover/King.jpg);
 }
 
 #melty-nightmare {
     background: url(../../../../assets/Individuals/suisei/cover/melty\ nightmare.jpg);
+}
+
+#melty-world {
+    background: url(../../../../assets/Individuals/suisei/cover/melty-world.jpg);
 }
 
 #ochame-kinou {
@@ -136,8 +176,16 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/phony.jpg);
 }
 
+#rabbits {
+    background: url(../../../../assets/Individuals/suisei/cover/rabbits.jpg);
+}
+
 #ranbou-no-melody {
     background: url(../../../../assets/Individuals/suisei/cover/ranbou\ no\ melody.jpg);
+}
+
+#rettou-joutou {
+    background: url(../../../../assets/Individuals/suisei/cover/rettou-joutou.jpg);
 }
 
 #saga-jihen {
@@ -152,8 +200,20 @@ body{
     background: url(../../../../assets/Individuals/suisei/cover/secret\ daybreak.jpg);
 }
 
+#shine {
+    background: url(../../../../assets/Individuals/suisei/cover/shine.jpg);
+}
+
 #shoujo-rei {
     background: url(../../../../assets/Individuals/suisei/cover/shoujo-rei.jpg);
+}
+
+#sousei-no-aquarion {
+    background: url(../../../../assets/Individuals/suisei/cover/sousei-no-aquarion.jpg);
+}
+
+#superfly {
+    background: url(../../../../assets/Individuals/suisei/cover/superfly.jpg);
 }
 
 #the-last-frontier {

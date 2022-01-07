@@ -1,7 +1,9 @@
-/*I took a lot of time just for this, damn I hate myself*/
-/*This is too time-consuming, took me 2 week*/
 #container {
     background-color: rgba(255, 255, 255, 0.822);
+}
+
+#absolute-5-suisei-nene {
+    background: url(../../assets/Individuals/suisei/cover/absolute-5.jpg);
 }
 
 #acacia-syndrome-shion {
@@ -84,6 +86,14 @@
     background: url(../../assets/Individuals/sora/cover/alien-alien.jpg);
 } 
 
+#alien-alien-suisei {
+    background: url(../../assets/Individuals/suisei/cover/alien-alien.jpg);
+}
+
+#alive-factor-suisei {
+    background: url(../../assets/Individuals/suisei/cover/alive-factor.jpg);
+}
+
 #amarylls-robo{ 
     background: url(../../assets/Individuals/robocco/cover/amarylls.jpg);
 } 
@@ -160,6 +170,10 @@
     background: url(../../assets/Individuals/marine/cover/bloody-stream.jpg);
 } 
 
+#blue-bird-suisei {
+    background: url(../../assets/Individuals/suisei/cover/blue-bird.jpg);
+}
+
 #blue-clapper{ 
     background: url(../../assets/Individuals/polka/original/blue-clapper.jpg);
 } 
@@ -219,6 +233,10 @@
 #cendrillon-sora{ 
     background: url(../../assets/Individuals/sora/cover/cendrillon.jpg);
 } 
+
+#champagne-suisei {
+    background: url(../../assets/Individuals/suisei/cover/champagne.jpg);
+}
 
 #cherry-bomb{ 
     background: url(../../assets/Individuals/choco/cover/cherry-bomb.jpg);
@@ -400,6 +418,10 @@
     background: url(../../assets/Individuals/sakura/cover/dyed-in-your-color.jpg);
 } 
 
+#easter-carnival-suisei {
+    background: url(../../assets/Individuals/suisei/cover/easter-carnival.jpg);
+}
+
 #echo-haato{ 
     background: url(../../assets/Individuals/haachama/cover/echo.jpg);
 } 
@@ -450,6 +472,10 @@
 
 #eye-towa{
     background: url(../../assets/Individuals/towa/cover/eye.jpg);
+}
+
+#fact-towa {
+    background: url(../../assets/Individuals/towa/original/fact.jpg);
 }
 
 #fake-fake-fake-azki{ 
@@ -580,6 +606,10 @@
     background: url(../../assets/Individuals/rushia/cover/goodbye-declaration.jpg);
 }
 
+#guily-kiss-suisei {
+    background: url(../../assets/Individuals/suisei/cover/guilty-kiss.jpg);
+}
+
 #hacha-mecha{ 
     background: url(../../assets/Individuals/pekora/original/hacha\ mecha.jpg);
 } 
@@ -699,6 +729,10 @@
 #hologram-circus{ 
     background: url(../../assets/Individuals/polka/original/hologram-circus.jpg);
 } 
+
+#holy-angel-carol-suisei {
+    background: url(../../assets/Individuals/suisei/cover/holy-angel-carol.jpg);
+}
 
 #homenobi-noel{ 
     background: url(../../assets/Individuals/noel/original/homenobi.jpg);
@@ -846,6 +880,10 @@
 
 #kakero-suisei{ 
     background: url(../../assets/Individuals/suisei/original/Kakero.jpg);
+}
+
+#kami-no-manimani-suisei {
+    background: url(../../assets/Individuals/suisei/cover/kami-no-manimani.jpg);
 }
 
 #kamippoi-na-laplus {
@@ -1069,6 +1107,10 @@
 
 #melty-land-nightmare-suisei{ 
     background: url(../../assets/Individuals/suisei/cover/melty\ nightmare.jpg);
+}
+
+#melty-world-suisei {
+    background: url(../../assets/Individuals/suisei/cover/melty-world.jpg);
 }
 
 #menhara-janai-mon{ 
@@ -1423,6 +1465,10 @@
     background: url(../../assets/Individuals);
 }
 
+#rabbit-suisei {
+    background: url(../../assets/Individuals/suisei/cover/rabbits.jpg);
+}
+
 #rain-stops-goodbye-sora{ 
     background: url(../../assets/Individuals/sora/cover/rain-stops-goodbye.jpg);
 } 
@@ -1454,6 +1500,10 @@
 #renai-circulation-watame{ 
     background: url(../../assets/Individuals/watame/cover/renai-circulation.jpg);
 } 
+
+#rettou-joutou-suisei {
+    background: url(../../assets/Individuals/suisei/cover/rettou-joutou.jpg);
+}
 
 #rotate-repeated-azki{ 
     background: url(../../assets/Individuals);
@@ -1567,6 +1617,10 @@
     background: url(../../assets/Individuals/kanata/cover/shijoshugi-adtruck-kanata-nene.jpg);
 }
 
+#shine-suisei {
+    background: url(../../assets/Individuals/suisei/cover/shine.jpg);
+}
+
 #shining-star-azki{ 
     background: url(../../assets/Individuals);
 } 
@@ -1631,6 +1685,10 @@
     background: url(../../assets/Individuals/kanata/cover/soran-boshi.jpg);
 } 
 
+#sousei-no-aquarion-suisei {
+    background: url(../../assets/Individuals/suisei/cover/sousei-no-aquarion.jpg);
+}
+
 #sparkle-mio{ 
     background: url(../../assets/Individuals/mio/cover/sparkle.jpg);
 } 
@@ -1678,6 +1736,10 @@
 #summertime-matsuri{ 
     background: url(../../assets/Individuals/matsuri/cover/summertime.jpg);
 } 
+
+#superfly-suisei {
+    background: url(../../assets/Individuals/suisei/cover/superfly.jpg);
+}
 
 #superhero-azki{ 
     background: url(../../assets/Individuals);
@@ -2044,6 +2106,7 @@
 }
 
 /*background settings for all*/
+#absolute-5-suisei-nene,
 #adamas-shion,
 #additional-memory-kanata,
 #adrenaline-subaru,
@@ -2064,6 +2127,8 @@
 #akutsuki-no-kuruma-azki-sora,
 #alice-in-ny,
 #alien-alien-sora,
+#alien-alien-suisei,
+#alive-factor-suisei,
 #amarylls-robo,
 #angel-sora,
 #angelfish-suisei-kanata,
@@ -2083,6 +2148,7 @@
 #blessing,
 #blessing-gen5,
 #bloody-stream-marine,
+#blue-bird-suisei,
 #blue-clapper,
 #blue-rose-suisei,
 #bocca-della-verita-robo,
@@ -2098,6 +2164,7 @@
 #candy-go-round,
 #cat-eye-make-okayu,
 #cendrillon-sora,
+#champagne-suisei,
 #cherry-bomb,
 #chew-the-night-sky-mel,
 #chikatto-chikka-chikka-shion,
@@ -2143,6 +2210,7 @@
 #dreaming-days,
 #drop-pop-candy-aqua,
 #dyed-in-your-color,
+#easter-carnival-suisei,
 #echo-haato,
 #ema-ema-aqua,
 #ema-ema-sora,
@@ -2156,6 +2224,7 @@
 #everlasting-soul-watame,
 #eye-lui,
 #eye-towa,
+#fact-towa,
 #fake-fake-fake-azki,
 #fansa-coco,
 #fansa-matsuri,
@@ -2188,6 +2257,7 @@
 #goodbye-declaration-flare,
 #goodbye-declaration-nene,
 #goodbye-declaration-rushia,
+#guilty-kiss-suisei,
 #hacha-mecha,
 #haiiro-to-ao-towa-suisei,
 #hakko-tai-sorasaikuru-azki,
@@ -2218,6 +2288,7 @@
 #hokori-takaki-idol-polka,
 #holidays-watame,
 #hologram-circus,
+#holy-angel-carol-suisei,
 #homenobi-noel,
 #hot-limit-azki,
 #hot-limit-sora,
@@ -2257,6 +2328,7 @@
 #kakero-suisei,
 #kamippoi-na-laplus,
 #kamippoi-na-shion,
+#kami-no-manimani-suisei,
 #karakuri-pierrot-sora,
 #kataomi-matsuri,
 #kimagure-mercy-aki,
@@ -2311,6 +2383,7 @@
 #melody-for-you-watame,
 #melty-land-nightmare-robo,
 #melty-land-nightmare-suisei,
+#melty-world-suisei,
 #menhara-janai-mon,
 #mental-chainsaw-flare,
 #midnight-song-azki,
@@ -2399,6 +2472,7 @@
 #poppipo-haato,
 #preserved-roses-matsuri,
 #q-azki,
+#rabbit-suisei,
 #rain-stops-goodbye-sora,
 #rainbow-watame,
 #ranbou-no-melody-suisei,
@@ -2407,6 +2481,7 @@
 #reflection-azki,
 #remote-control-sora-robocco,
 #renai-circulation-watame,
+#rettou-joutou-suisei,
 #rotate-repeated-azki,
 #ruma-koyori,
 #saga-jihen,
@@ -2435,6 +2510,7 @@
 #shishi-wata-cooking-watame-botan,
 #shijoshugi-adtruck,
 #shijoshugi-adtruck-kanata-nene,
+#shine-suisei,
 #shining-star-azki,
 #shiny-smily-story,
 #shinzo-to-karakuri-azki,
@@ -2451,6 +2527,7 @@
 #song-of-sketch-robo,
 #sorairo-days-matsuri,
 #soran-boshi-kanata,
+#sousei-no-aquarion-suisei,
 #sparkle-mio,
 #stardust-song,
 #starry-regrets-azki,
@@ -2475,6 +2552,7 @@
 #sweet-night-sweet-time-watame,
 #sweets-parade-haato,
 #sweets-parade-luna,
+#superfly-suisei,
 #tabako-azki,
 #taiyou-ni-nareru-ka-na-matsuri,
 #taiyou-shojou-subaru,
