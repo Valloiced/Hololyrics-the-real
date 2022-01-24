@@ -1,7 +1,10 @@
 # Hololyrics-the-real
 
-This is basically a lyrics provider website but for hololive
+This is just basically a lyrics website but for hololive
+This site is being updated monthly
 
-# Live Site below
+## Live Site can be found below
 
-https://hololyrics.netlify.app
+Click [here](https://hololyrics.netlify.app)
+
+ *This is a personal project and isn't available in the public*
